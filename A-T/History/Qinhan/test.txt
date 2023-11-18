@@ -1,0 +1,8 @@
+如何解决Git，fatal unable to access，OpenSSL SSL_read Connection was reset, errno 10054问题
+git clone 报错 ，OpenSSL SSL_read: Connection was reset, errno 10054，意思是服务器的SSL证书没有经过第三方机构的签署。
+
+解决方案：
+先将push命令重新执行一下,因为github是外国服务器,网络连接可能有问题,不行的话再执行以下代码.多尝试几次,要输入登录密码
+
+git config --global http.sslVerify “false”
+要是还报错,就多尝试几次.

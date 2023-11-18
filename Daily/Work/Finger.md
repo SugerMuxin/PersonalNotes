@@ -1,0 +1,1 @@
+1. FingerGesture 和 EventSystem  冲突问题

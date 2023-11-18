@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "66620dbd86205a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "760957c93ba7be9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3972199f888eb90b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pics/4.png"
+              }
+            }
+          },
+          {
+            "id": "b62500d5b6ca4eb2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/qiangpao.md"
+              }
+            }
+          },
+          {
+            "id": "fb2b5ae35fe3a4a2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pics/2023_11_18_21_49.36.bmp"
+              }
+            }
+          },
+          {
+            "id": "106c085097eb3bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f378a4a22a1895b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864dda83495826cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f22c9ab415533c43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b63c9400518548ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c135df85c0711fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b771af363246b76e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "61a0041c0bad7f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6d238c08ff7f1c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2db762ffd76698f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc1249445c607fef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a1c57d3f6f3feab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "290387b182409cc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b63c9400518548ff",
+  "lastOpenFiles": [
+    "Pics/4.png",
+    "Pics/2023_11_18_21_47.54.bmp",
+    "test.md",
+    "Excalidraw/qiangpao.md",
+    "Excalidraw/compress.md",
+    "Computer.md",
+    "ACommands.md",
+    "吃药指南.md",
+    "ZEmoj/my2.svg",
+    "ZEmoj/my1.svg",
+    "Work/ToDolist.md",
+    "ZEmoj/tree_489969.png",
+    "ZEmoj/psychology_4305261.png",
+    "ZEmoj/planet-earth_921490.png",
+    "ZEmoj/people_3369157.png",
+    "ZEmoj/mail_9068642.png",
+    "ZEmoj/books_3771417.png",
+    "ZEmoj/book_3145765.png",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Teach/Git/git 仓库拉取和提交的办法.md",
+    "Teach/Git/Git Problems.md",
+    "Teach/Git/Git use records.md",
+    "Teach/C#/VSCODE.md",
+    "Teach/C#/Dispose.md",
+    "Teach/C#/CLR via 3.md",
+    "Teach/C#/Attribute的使用记录.md",
+    "Untitled",
+    "Daily/Work/Finger.md",
+    "Daily/Plan.md",
+    "Daily/Untitled.md",
+    "Teach/YanLingQi/S1 Overview of Computer Graphics.md",
+    "Teach/YanLingQi",
+    "A-T/Publiced/枪炮.md",
+    "Excalidraw/eventsystem.md",
+    "Excalidraw/stage.md",
+    "Teach/Unity/Continue.md",
+    "Teach/Unity/ASTC纹理压缩格式详解.md",
+    "Teach/Unity/Optimize/Texture Optimize.md"
+  ]
+}
