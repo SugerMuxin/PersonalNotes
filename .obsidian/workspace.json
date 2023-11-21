@@ -21,48 +21,16 @@
             "id": "b62500d5b6ca4eb2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/qiangpao.md"
-              }
-            }
-          },
-          {
-            "id": "fb2b5ae35fe3a4a2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pics/2023_11_18_21_49.36.bmp"
-              }
-            }
-          },
-          {
-            "id": "106c085097eb3bae",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f378a4a22a1895b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teach/Termux.md",
+                "file": "Work/战斗问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Termux.md",
+                "file": "Work/战斗问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Termux.md",
+                "file": "Work/战斗问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Termux.md"
+                "file": "Work/战斗问题.md"
               }
             }
           }
@@ -192,6 +160,23 @@
   },
   "active": "b63c9400518548ff",
   "lastOpenFiles": [
+    "Work/粒子添加.md",
+    "Work/帝国指引.md",
+    "A-T/tips.md",
+    "A-T/Books.md",
+    "A-T/Accounts.md",
+    "Work/ToDolist.md",
+    "Work/战斗问题.md",
+    "README.md",
+    "test.md",
+    "Computer.md",
+    "ACommands.md",
+    "吃药指南.md",
+    "Excalidraw/qiangpao.md",
+    "Pics/2023_11_18_21_49.36.bmp",
+    "ZEmoj/my2.svg",
+    "ZEmoj/my1.svg",
+    "Pics/4.png",
     "Teach/Git/Git use records.md",
     "Teach/Git/Git Problems.md",
     "Teach/Git/git 仓库拉取和提交的办法.md",
@@ -199,35 +184,18 @@
     "Teach/C#/Dispose.md",
     "Teach/C#/Attribute的使用记录.md",
     "Teach/C#/CLR via 3.md",
-    "Excalidraw/qiangpao.md",
     "Excalidraw/compress.md",
     "English/Basic/Most Common 200 Words.md",
     "Econ/宇宙.md",
     "Daily/Plan.md",
     "Daily/0718.md",
     "Daily/Work/Problems.md",
-    "Daily/Work/Finger.md",
-    "A-T/tips.md",
-    "A-T/Accounts.md",
-    "A-T/TimeLine/时间线.md",
-    "A-T/RuoSaChen/Untitled.md",
-    "A-T/RuoSaChen/枪炮.md",
-    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
-    "A-T/History/Qinhan/秦汉.md",
-    "A-T/History/Qinhan/临时随笔.md",
-    "A-T/History/Qinhan/关于读书.md",
-    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
-    "A-T/Articles/为啥经常说产能过剩.md",
-    "Pics/4.png",
     "Pics/2023_11_18_21_47.54.bmp",
-    "ZEmoj/my2.svg",
-    "ZEmoj/my1.svg",
     "ZEmoj/tree_489969.png",
     "ZEmoj/psychology_4305261.png",
     "ZEmoj/planet-earth_921490.png",
     "ZEmoj/people_3369157.png",
     "ZEmoj/mail_9068642.png",
-    "ZEmoj/books_3771417.png",
     "Untitled",
     "Teach/YanLingQi"
   ]

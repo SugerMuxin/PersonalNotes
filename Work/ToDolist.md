@@ -7,7 +7,7 @@
 4. Design Mode 
 5. DragonBone Live2D
 6. AssetsBundle Resources Load , And Resouces  encrypt and decrypt
-7. IFix
+7. IFix, HybridCLR 热更方法
 8. BestHTTP
 9. SmartFox
 10. Reporter
