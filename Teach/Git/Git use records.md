@@ -10,7 +10,7 @@
 如果出现下图这个错误，可以打开Git命令页面，执行git命令脚本：修改设置，解除ssl验证
 
 git config --global http.sslVerify "false"
-![[Pasted image 20230714093234.png]]
+![[git_pusherr.png]]
 
 
 2 如何使用Token来拉取私有仓库

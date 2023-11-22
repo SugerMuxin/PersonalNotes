@@ -10,7 +10,7 @@ git config http.postBuffer 524288000
 
 >2.Fatal error
 >如果出现下图的报错问题,这个原因则是因为仓库不支持代理服务器的原因，这时候我们需要关闭代理。方法是使用如下的命令
-![[Snipaste_2023-11-03_13-49-37.png]]
+![[gitpull_err.png]]
 
 ```
 git config --global --unset http.proxy 
@@ -21,7 +21,7 @@ git config --global --unset https.proxy
 <<<<<<< HEAD
 >3. Clear Cache
 >超过了50M的PDF上传超过了git的限制，但是删除之后依然报错。大概是缓存的问题。
->![[Snipaste_2023-11-07_10-23-01.png]]
+>![[push_file_err.png]]
 
 =======
 >>>>>>> 865b1e225242febea56dd60cf8fafbf22c53de51

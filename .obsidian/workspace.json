@@ -4,33 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "760957c93ba7be9e",
+        "id": "c836e7829dad4176",
         "type": "tabs",
+        "dimension": 39.34640522875817,
         "children": [
           {
-            "id": "3972199f888eb90b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pics/4.png"
-              }
-            }
-          },
-          {
-            "id": "b62500d5b6ca4eb2",
+            "id": "5cfb52a0c16d11c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/战斗问题.md",
+                "file": "A-T/tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a022193a777b8260",
+        "type": "tabs",
+        "dimension": 60.65359477124183,
+        "children": [
+          {
+            "id": "764488692b5bf21a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 346.5
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/战斗问题.md",
+                "file": "A-T/tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/战斗问题.md",
+                "file": "A-T/tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/战斗问题.md"
+                "file": "A-T/tips.md"
               }
             }
           }
@@ -158,44 +163,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b63c9400518548ff",
+  "active": "5cfb52a0c16d11c2",
   "lastOpenFiles": [
-    "Work/粒子添加.md",
-    "Work/帝国指引.md",
-    "A-T/tips.md",
-    "A-T/Books.md",
+    "A-T/RuoSaChen/枪炮.md",
+    "A-T/RuoSaChen/Untitled.md",
+    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
+    "A-T/TimeLine/时间线.md",
     "A-T/Accounts.md",
+    "A-T/ReadRecords.md",
+    "A-T/Books.md",
+    "A-T/tips.md",
+    "A-T/备份/秦始皇那么牛咋就不能把匈奴给端了.md",
+    "A-T/Articles/九边/为啥经常说产能过剩.md",
+    "A-T/Articles/ArticlesReaded.md",
+    "A-T/Articles/九边/九边.md",
+    "A-T/Articles/到底还能走多远.md",
+    "A-T/Articles/九边/原子性训练.md",
+    "A-T/Articles/九边/又打起来了.md",
+    "A-T/Articles/九边/关于奢侈品.md",
+    "Untitled.md",
     "Work/ToDolist.md",
-    "Work/战斗问题.md",
-    "README.md",
-    "test.md",
+    "Pics/1.png",
+    "Pics/2.png",
+    "Pics/3.png",
+    "Pics/6.png",
+    "Pics/7.png",
+    "Pics/push_file_err.png",
+    "Pics/Unity-Opetimize-Stream.bmp",
+    "Pics/gitpull_err.png",
+    "Pics/git_pusherr.png",
+    "Pics/git_push_error1.png",
+    "Teach/Unity/Optimize/Model.md",
+    "Teach/Unity/Optimize/Texture Optimize.md",
+    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/伽马校正.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/Unity/Continue.md",
+    "Untitled.canvas",
+    "A-T/History/Qinhan/关于读书.md",
     "Computer.md",
-    "ACommands.md",
-    "吃药指南.md",
-    "Excalidraw/qiangpao.md",
-    "Pics/2023_11_18_21_49.36.bmp",
-    "ZEmoj/my2.svg",
-    "ZEmoj/my1.svg",
-    "Pics/4.png",
-    "Teach/Git/Git use records.md",
-    "Teach/Git/Git Problems.md",
-    "Teach/Git/git 仓库拉取和提交的办法.md",
-    "Teach/C#/VSCODE.md",
-    "Teach/C#/Dispose.md",
-    "Teach/C#/Attribute的使用记录.md",
-    "Teach/C#/CLR via 3.md",
-    "Excalidraw/compress.md",
-    "English/Basic/Most Common 200 Words.md",
-    "Econ/宇宙.md",
-    "Daily/Plan.md",
-    "Daily/0718.md",
-    "Daily/Work/Problems.md",
-    "Pics/2023_11_18_21_47.54.bmp",
-    "ZEmoj/tree_489969.png",
-    "ZEmoj/psychology_4305261.png",
-    "ZEmoj/planet-earth_921490.png",
-    "ZEmoj/people_3369157.png",
-    "ZEmoj/mail_9068642.png",
     "Untitled",
     "Teach/YanLingQi"
   ]
