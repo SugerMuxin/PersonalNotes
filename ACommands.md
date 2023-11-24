@@ -1,15 +1,3 @@
->插入文件 ：    file:///path
 
->插入图片：     ![[path]]
-
-> 设置字体：<font color="green" size="3">超文本</font>      ctrl + shift +i 调出超文本
-
-    
-
-<font color="#00b0f0">加粗</font>
-
-
-```
-这是一段**加粗的文本**。
-```
+https://cowtransfer.com/s/d4d74c4a93c641 点击链接查看 [ 红警包.rar ] ，或访问奶牛快传 cowtransfer.com 输入传输口令 i7k1r3 查看；
 
