@@ -11,17 +11,21 @@
             "id": "850ca2c439a291c1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work/ToDolist.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "eea7e66788e7a67f",
+            "id": "149cd4b4dec44d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACommands.md",
+                "file": "Work/RAR/Up Details.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACommands.md",
+                "file": "Work/RAR/Up Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACommands.md",
+                "file": "Work/RAR/Up Details.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACommands.md"
+                "file": "Work/RAR/Up Details.md"
               }
             }
           }
@@ -164,29 +168,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eea7e66788e7a67f",
+  "active": "149cd4b4dec44d58",
   "lastOpenFiles": [
-    "小吏.md",
-    "吃药指南.md",
-    "jiubian.md",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/RAR/Empire.rar",
+    "Work/RAR/Project.rar",
+    "Work/RAR/RedDllCode.rar",
+    "Work/RAR/Up Details.md",
+    "Work/RAR",
+    "A-T/Untitled",
+    "Untitled",
+    "Work/ToDolist.md",
+    "Work/战斗问题.md",
+    "Work/粒子添加.md",
+    "Work/帝国指引.md",
+    "Pics/2.png",
+    "Pics/particle1.png",
+    "Pics/Snipaste_2023-11-27_11-35-14.png",
+    "Snipaste_2023-11-13_10-09-54.png.md",
+    "Snipaste_2023-11-27_11-35-14.png",
+    "ACommands.md",
     "README.md",
     "Computer.md",
     "Battle Materials.md",
+    "A-T/Accounts.md",
+    "小吏.md",
+    "吃药指南.md",
+    "jiubian.md",
     "Untitled.canvas",
-    "ACommands.md",
     "Snipaste_2023-11-16_17-31-46.png.md",
     "Pics/1.png",
-    "Pics/2.png",
     "Pics/3.png",
     "Pics/6.png",
     "Pics/7.png",
     "Pics/background.png",
     "Pics/git_common_command.jpg",
-    "Pics/git_err.bmp",
-    "Pics/git_err2.bmp",
-    "Pics/git_err3.bmp",
-    "Work/粒子添加.md",
-    "Work/战斗问题.md",
     "Pasted Image 20231016165542_567.png.md",
     "A-T/RuoSaChen/Untitled.md",
     "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
@@ -196,13 +212,6 @@
     "Daily/Work/Problems.md",
     "Daily/Work/Finger.md",
     "Daily/Plan.md",
-    "Daily/0718.md",
-    "A-T/TimeLine/时间线.md",
-    "A-T/Accounts.md",
-    "A-T/ReadRecords.md",
-    "A-T/Books.md",
-    "A-T/备份/秦始皇那么牛咋就不能把匈奴给端了.md",
-    "Untitled",
     "Teach/YanLingQi"
   ]
 }
