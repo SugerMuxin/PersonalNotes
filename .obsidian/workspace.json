@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/ToDolist.md",
+                "file": "Work/粒子添加.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/RuoSaChen/热评/摘录.md",
+                "file": "Work/Problems/资源问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,8 +39,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-T/RuoSaChen/热评/摘录.md",
+                "file": "Work/粒子添加.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-T/RuoSaChen/热评/摘录.md",
+                "file": "Work/粒子添加.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-T/RuoSaChen/热评/摘录.md"
+                "file": "Work/粒子添加.md"
               }
             }
           }
@@ -168,10 +167,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "149cd4b4dec44d58",
+  "active": "850ca2c439a291c1",
   "lastOpenFiles": [
-    "Work/粒子添加.md",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/帝国指引.md",
+    "吃药指南.md",
+    "Work/ToDolist.md",
+    "Work/Problems/资源问题.md",
+    "Pics/jsonerr0.png",
+    "Work/RAR/Up Details.md",
+    "Pics/1.png",
+    "Pics/Snipaste_2023-11-29_10-15-50.png",
     "A-T/RuoSaChen/热评/摘录.md",
+    "Work/Problems",
+    "Work/粒子添加.md",
     "A-T/RuoSaChen/热评",
     "Work/战斗问题.md",
     "A-T/tips.md",
@@ -180,7 +189,6 @@
     "A-T/Accounts.md",
     "A-T/RuoSaChen/项刘.md",
     "ACommands.md",
-    "Work/RAR/Up Details.md",
     "A-T/RuoSaChen/瞎说说.md",
     "A-T/RuoSaChen/为什么是现在.md",
     "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
@@ -189,14 +197,10 @@
     "A-T/RuoSaChen/xiangliu.txt",
     "Work/RAR/Geeker.exe",
     "Work/RAR/devenv.exe",
-    "Work/帝国项目添加粒子特效的两种方法.md",
     "Work/RAR/Empire.rar",
     "Work/RAR/Project.rar",
     "Work/RAR/RedDllCode.rar",
     "Work/RAR",
-    "A-T/Untitled",
-    "Work/ToDolist.md",
-    "Work/帝国指引.md",
     "Pics/2.png",
     "Pics/particle1.png",
     "Pics/Snipaste_2023-11-27_11-35-14.png",
@@ -206,16 +210,10 @@
     "Computer.md",
     "Battle Materials.md",
     "小吏.md",
-    "吃药指南.md",
     "jiubian.md",
     "Untitled.canvas",
-    "Snipaste_2023-11-16_17-31-46.png.md",
-    "Pics/1.png",
     "Pics/3.png",
     "Pics/6.png",
-    "Pics/7.png",
-    "Pics/background.png",
-    "Pics/git_common_command.jpg",
-    "Pasted Image 20231016165542_567.png.md"
+    "Pics/7.png"
   ]
 }
