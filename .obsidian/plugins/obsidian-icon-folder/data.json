@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": "#19d71c",
     "recentlyUsedIcons": [
+      "🍅",
       "LoCommand",
       "LoSvg2",
       "LoSvg",
@@ -158,5 +159,6 @@
   "A-T/RuoSaChen/Memorys.md": "LoMy1",
   "Work/Problems": "LoMy2",
   "Work/Problems/资源问题.md": "LoMy1",
-  "Pics/jsonerr0.png": "🖼"
+  "Pics/jsonerr0.png": "🖼",
+  "Teach/小番茄破解方法.md": "LoMy1"
 }
