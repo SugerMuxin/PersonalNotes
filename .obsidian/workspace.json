@@ -11,12 +11,8 @@
             "id": "a9fb82ff9d88bc1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teach/小番茄破解方法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/小番茄破解方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/小番茄破解方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teach/小番茄破解方法.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,10 +141,20 @@
   },
   "active": "a9fb82ff9d88bc1d",
   "lastOpenFiles": [
+    "Teach/Unity/伽马校正.md",
+    "Teach/Unity/ASTC纹理压缩格式详解.md",
+    "Teach/Unity/Continue.md",
+    "Teach/Unity/Details.md",
+    "Teach/TeachLink.md",
+    "Teach/Git/GitRespo.md",
+    "Teach/C#/CSharpRespo.md",
+    "Teach/C#/Attribute的使用记录.md",
+    "Teach/Termux.md",
+    "Teach/Ubuntu Wsl 迁移.md",
     "Visual Assist X 10.9.2248（含安装破解说明）.7z",
+    "Teach/小番茄破解方法.md",
     "Work/RAR/Visual Assist X 10.9.2248.7z",
     "Work/RAR/Visual Assist X 10.9.2248（含安装破解说明）.7z",
-    "Teach/小番茄破解方法.md",
     "Teach/C.md",
     "Teach/44444444444444.md",
     "Teach/C#/------------------.md",
@@ -170,24 +172,14 @@
     "吃药指南.md",
     "Work/ToDolist.md",
     "Pics/jsonerr0.png",
-    "Work/RAR/Up Details.md",
     "Pics/1.png",
     "Pics/Snipaste_2023-11-29_10-15-50.png",
-    "A-T/RuoSaChen/热评/摘录.md",
     "Work/Problems",
     "A-T/RuoSaChen/热评",
-    "Work/战斗问题.md",
-    "A-T/tips.md",
-    "A-T/ReadRecords.md",
-    "A-T/RuoSaChen/Memorys.md",
-    "A-T/Accounts.md",
-    "A-T/RuoSaChen/项刘.md",
-    "A-T/RuoSaChen/瞎说说.md",
     "A-T/RuoSaChen/why is now.txt",
     "A-T/RuoSaChen/xiangliu.txt",
     "Work/RAR/Geeker.exe",
     "Work/RAR/devenv.exe",
-    "Work/RAR/Empire.rar",
     "Pics/2.png",
     "Pics/particle1.png",
     "Pics/Snipaste_2023-11-27_11-35-14.png",

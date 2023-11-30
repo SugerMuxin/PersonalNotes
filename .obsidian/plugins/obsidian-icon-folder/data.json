@@ -96,7 +96,7 @@
   "Teach/Unity": "LoMy2",
   "Teach/Unity/Optimize": "LoMy2",
   "Teach/YanLingQi": "LoMy2",
-  "Teach/Termux.md": "LoCommand",
+  "Teach/Termux.md": "LoMy1",
   "Teach/Unity/Optimize/Model.md": "LoMy1",
   "Teach/Unity/Optimize/Texture Optimize.md": "LoMy1",
   "Teach/Unity/伽马校正.md": "LoMy1",
@@ -160,5 +160,9 @@
   "Work/Problems": "LoMy2",
   "Work/Problems/资源问题.md": "LoMy1",
   "Pics/jsonerr0.png": "🖼",
-  "Teach/小番茄破解方法.md": "LoMy1"
+  "Teach/小番茄破解方法.md": "LoMy1",
+  "Teach/Ubuntu Wsl 迁移.md": "LoMy1",
+  "Teach/TeachLink.md": "LoMy1",
+  "Teach/C#/CSharpRespo.md": "LoMy1",
+  "Teach/Git/GitRespo.md": "LoMy1"
 }
