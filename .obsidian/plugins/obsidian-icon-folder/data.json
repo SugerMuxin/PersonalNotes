@@ -6,7 +6,6 @@
     "emojiStyle": "native",
     "iconColor": "#19d71c",
     "recentlyUsedIcons": [
-      "🍅",
       "LoCommand",
       "LoSvg2",
       "LoSvg",
@@ -147,8 +146,8 @@
   "A-T/Articles/九边/九边.md": "LoMy1",
   "A-T/Articles/九边/又打起来了.md": "LoMy1",
   "A-T/Articles/九边/为啥经常说产能过剩.md": "LoMy1",
-  "小吏.md": "LoCommand",
-  "jiubian.md": "LoCommand",
+  "小吏.md": "LoMy1",
+  "jiubian.md": "LoMy1",
   "Battle Materials.md": "⛑",
   "Pics/particle1.png": "🖼",
   "Work/RAR": "LoMy2",
@@ -160,9 +159,9 @@
   "Work/Problems": "LoMy2",
   "Work/Problems/资源问题.md": "LoMy1",
   "Pics/jsonerr0.png": "🖼",
-  "Teach/小番茄破解方法.md": "LoMy1",
-  "Teach/Ubuntu Wsl 迁移.md": "LoMy1",
-  "Teach/TeachLink.md": "LoMy1",
+  "Work/Work Records.md": "LoMy1",
   "Teach/C#/CSharpRespo.md": "LoMy1",
-  "Teach/Git/GitRespo.md": "LoMy1"
+  "Teach/TeachLink.md": "LoMy1",
+  "Teach/小番茄破解方法.md": "LoMy1",
+  "Teach/Ubuntu Wsl 迁移.md": "LoMy1"
 }
