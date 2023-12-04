@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/3D中的一些概念.md",
+                "file": "Teach/TeachLink.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/3D中的一些概念.md",
+                "file": "Teach/TeachLink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/3D中的一些概念.md",
+                "file": "Teach/TeachLink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/3D中的一些概念.md"
+                "file": "Teach/TeachLink.md"
               }
             }
           }
@@ -169,8 +169,9 @@
   },
   "active": "850ca2c439a291c1",
   "lastOpenFiles": [
-    "Teach/Git/My Git.md",
+    "Teach/licenses.html",
     "Teach/Unity/BaiscNotes/3D中的一些概念.md",
+    "Teach/Git/My Git.md",
     "Teach/Unity/BaiscNotes",
     "Teach/Git/git 仓库拉取和提交的办法.md",
     "Teach/Git/Git Problems.md",
@@ -195,7 +196,6 @@
     "Teach/Unity/Details.md",
     "Teach/Unity/DC策略.md",
     "Teach/Unity/Continue.md",
-    "Teach/Unity/ASTC纹理压缩格式详解.md",
     "Work/RAR/Visual Assist X 10.9.2248.7z",
     "Work/RAR/VS插件.zip",
     "Visual Assist X 10.9.2248（含安装破解说明）.7z",
