@@ -14,4 +14,7 @@
 	1. xy_arron@163.com
 
 5. 禅道  xiong.fch   123456
+
+6. Discovery
+	xfc_arron@163.com
  
