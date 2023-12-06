@@ -1,0 +1,22 @@
+普通攻击
+>BattleFightReportTroopAttackCommandHandler
+>	BattleFightReportRoleAttackEventItem
+>	BattleFightReportEffectMoveEventItem
+>	BattleFightReportEffectStayEventItem
+>	BattleFightReportDoHurtEventItem
+
+英雄技能攻击
+>BattleFightReportHeroAttackCommandHandler
+>	BattleFightReportUserTriggerSkillEventItem
+>	BattleFightReportHeroPriorityChangeEventItem
+>	BattleFightReportSkillEffectEventItem
+>	BattleFightReportRoleSkillAttackEventItem
+>	BattleFightReportUserTriggerSkillEventItem
+>	BattleFightReportEffectMoveEventItem
+>	BattleFightReportEffectStayEventItem
+>	BattleFightReportHeroPriorityChangeEventItem
+>	BattleFightReportDoHurtEventItem
+		
+
+
+C:\Users\xiongfucheng\AppData\Local\Android\Sdk

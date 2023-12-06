@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "850ca2c439a291c1",
+            "id": "5ea98036a1a2c557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/TeachLink.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/TeachLink.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/TeachLink.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/TeachLink.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -167,18 +167,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "850ca2c439a291c1",
+  "active": "5ea98036a1a2c557",
   "lastOpenFiles": [
     "Teach/licenses.html",
     "Teach/Unity/BaiscNotes/3D中的一些概念.md",
-    "Teach/Git/My Git.md",
     "Teach/Unity/BaiscNotes",
-    "Teach/Git/git 仓库拉取和提交的办法.md",
-    "Teach/Git/Git Problems.md",
-    "Teach/Git/Git use records.md",
-    "Teach/Git/GitRespo.md",
-    "A-T/Accounts.md",
+    "Teach/Git/My Git.md",
+    "Work/Work Records - 1.md",
+    "Work/Work Records - 副本.md",
+    "plaintext",
+    "Work/战斗问题.md",
     "Work/Work Records.md",
+    "README.md",
+    "Untitled.md",
     "Work/Problems/资源问题.md",
     "Teach/Termux.md",
     "jiubian.md",
@@ -187,6 +188,7 @@
     "Teach/Ubuntu Wsl 迁移.md",
     "Teach/小番茄破解方法.md",
     "Teach/TeachLink.md",
+    "Teach/Git/GitRespo.md",
     "Teach/Unity/Optimize/Texture Optimize.md",
     "Teach/Unity/Optimize/Model.md",
     "Teach/Unity/Unity中合并图集的方法.md",
@@ -195,7 +197,6 @@
     "Teach/Unity/Texture Optimize Strategies.md",
     "Teach/Unity/Details.md",
     "Teach/Unity/DC策略.md",
-    "Teach/Unity/Continue.md",
     "Work/RAR/Visual Assist X 10.9.2248.7z",
     "Work/RAR/VS插件.zip",
     "Visual Assist X 10.9.2248（含安装破解说明）.7z",
@@ -207,7 +208,6 @@
     "A-T/RuoSaChen/why is now.txt",
     "A-T/RuoSaChen/xiangliu.txt",
     "Work/RAR/Geeker.exe",
-    "Work/RAR/devenv.exe",
     "Pics/2.png",
     "Pics/particle1.png",
     "Pics/Snipaste_2023-11-27_11-35-14.png",
