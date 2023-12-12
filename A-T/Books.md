@@ -6,3 +6,7 @@
 
 文章
 >麦肯锡：中国80%的经济利润流向金融业
+
+天涯上的帖子PDF合集
+>https://pan.xunlei.com/s/VNj1rJkSRL94VvEe5PwZb9y4A1?pwd=x2fa
+
