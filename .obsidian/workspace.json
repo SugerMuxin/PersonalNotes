@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Work Records - 1.md",
+                "file": "Teach/TeamCity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Work Records - 1.md",
+                "file": "Teach/TeamCity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Work Records - 1.md",
+                "file": "Teach/TeamCity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Work Records - 1.md"
+                "file": "Teach/TeamCity.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eb3af5068c7fb9e",
+  "active": "b63c9400518548ff",
   "lastOpenFiles": [
-    "Teach/Unity/Unity中合并图集的方法.md",
     "Work/Work Records - 1.md",
+    "Teach/TeamCity.md",
+    "Teach/Unity/Unity中合并图集的方法.md",
     "吃药指南.md",
     "小吏.md",
     "ACommands.md",
@@ -188,7 +189,6 @@
     "Teach/Unity/Unity Optimize.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/Details.md",
     "Teach/Unity/VR",
     "Teach/licenses.html",
     "Teach/Unity/BaiscNotes",
