@@ -8,24 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5ea98036a1a2c557",
+            "id": "850ca2c439a291c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "jiubian.md",
-                "mode": "source",
-                "source": false
+                "file": "Pics/UnityAbout/shader_2.14.png"
               }
             }
           },
           {
-            "id": "3eb3af5068c7fb9e",
+            "id": "cf6e27c3eae2b6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/Teachs.md",
+                "file": "Teach/Unity/Render/Shader/Sec 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 295.5
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/Teachs.md",
+                "file": "Teach/Unity/Render/Shader/Sec 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/Teachs.md",
+                "file": "Teach/Unity/Render/Shader/Sec 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/BaiscNotes/Teachs.md"
+                "file": "Teach/Unity/Render/Shader/Sec 2.md"
               }
             }
           }
@@ -160,54 +158,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3eb3af5068c7fb9e",
+  "active": "cf6e27c3eae2b6d9",
   "lastOpenFiles": [
-    "Battle Materials.md",
-    "Work/Work Records - 1.md",
-    "Teach/Unity/BaiscNotes/Teachs.md",
-    "Teach/TeachLink.md",
-    "Teach/TeamCity.md",
+    "Pics/UnityAbout/shader_2.19.png",
+    "Pics/UnityAbout/shader_2.7.png",
+    "Pics/UnityAbout/shader_2.14.png",
+    "Teach/Unity/Render/Shader/Sec 2.md",
+    "Daily/Diary/2023.12.09.md",
+    "Daily/0718.md",
+    "Daily/家长会小记.md",
+    "Daily/Plan.md",
+    "your_folder/shader_2.12.png.md",
+    "your_folder",
+    "Pics/UnityAbout/shader_2.12.png",
+    "Pics/UnityAbout/shader_2.9.png",
+    "Pics/UnityAbout/shader_2.8.png",
+    "img/弹性伸缩调度模型.png.md",
+    "Pics/UnityAbout",
+    "Pics/Headers/header.png",
+    "Pics/Headers",
+    "Teach/Basic/操作系统相关/Untitled",
+    "Teach/Basic/操作系统相关",
+    "Teach/Unity/Render/RenderAbout.md",
+    "Computer.md",
+    "img",
+    "Teach/Unity/Render/Shader/Untitled",
+    "Teach/Unity/Render/Shader",
     "A-T/Accounts.md",
+    "Teach/Unity/Render",
     "A-T/Books.md",
     "A-T/ReadRecords.md",
     "A-T/tips.md",
+    "English/23-12-11.md",
     "Temp.md",
-    "README.md",
-    "jiubian.md",
-    "Computer.md",
-    "ACommands.md",
-    "小吏.md",
-    "吃药指南.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "Teach/Unity/BaiscNotes/3D中的一些概念.md",
-    "Work/ToDolist.md",
-    "Work/Untitled.md",
-    "Daily/Plan.md",
-    "Daily/家长会小记.md",
-    "Work/战斗问题.md",
-    "Teach/C#/数组,ArrayList,List的区别.md",
-    "Daily/Diary/2023.12.09.md",
-    "Daily/Diary",
-    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/VR/VR Plugins.md",
     "Teach/Unity/VR",
-    "Teach/licenses.html",
-    "Teach/Unity/BaiscNotes",
-    "plaintext",
-    "Work/RAR/Visual Assist X 10.9.2248.7z",
-    "Work/RAR/VS插件.zip",
-    "Visual Assist X 10.9.2248（含安装破解说明）.7z",
+    "Teach/Unity/BaiscNotes/Teachs.md",
+    "Teach/TeamCity.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "Work/Work Records - 1.md",
+    "Work/ToDolist.md",
+    "jiubian.md",
+    "README.md",
+    "Battle Materials.md",
+    "吃药指南.md",
     "Pics/jsonerr0.png",
     "Pics/1.png",
     "Pics/Snipaste_2023-11-29_10-15-50.png",
-    "Work/Problems",
-    "A-T/RuoSaChen/热评",
     "Pics/2.png",
-    "Pics/particle1.png",
-    "Pics/Snipaste_2023-11-27_11-35-14.png",
-    "Snipaste_2023-11-27_11-35-14.png",
-    "Untitled.canvas",
-    "Pics/3.png",
-    "Pics/6.png",
-    "Pics/7.png"
+    "Untitled.canvas"
   ]
 }
