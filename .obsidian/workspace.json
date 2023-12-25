@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c836e7829dad4176",
+        "id": "d7f4d1c842ffe210",
         "type": "tabs",
         "children": [
           {
-            "id": "850ca2c439a291c1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pics/UnityAbout/shader_2.14.png"
-              }
-            }
-          },
-          {
-            "id": "cf6e27c3eae2b6d9",
+            "id": "a4f0024822d18b9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec 2.md",
+                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 222.5
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec 2.md",
+                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec 2.md",
+                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec 2.md"
+                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md"
               }
             }
           }
@@ -158,54 +147,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cf6e27c3eae2b6d9",
+  "active": "a4f0024822d18b9b",
   "lastOpenFiles": [
-    "Pics/UnityAbout/shader_2.19.png",
-    "Pics/UnityAbout/shader_2.7.png",
-    "Pics/UnityAbout/shader_2.14.png",
-    "Teach/Unity/Render/Shader/Sec 2.md",
-    "Daily/Diary/2023.12.09.md",
-    "Daily/0718.md",
-    "Daily/家长会小记.md",
-    "Daily/Plan.md",
-    "your_folder/shader_2.12.png.md",
+    "Work/ToDolist.md",
+    "Work/Supplement.md",
+    "A-T/Accounts.md",
+    "A-T/Articles/九边/Untitled.md",
+    "A-T/Articles/九边/关于奢侈品.md",
+    "A-T/Articles/九边/九边.md",
+    "A-T/Articles/九边/为啥经常说产能过剩.md",
+    "A-T/Articles/九边/又打起来了.md",
+    "A-T/Articles/九边/原子性训练.md",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+    "Temp.md",
+    "Teach/Unity/破解方法.md",
+    "Teach/Unity/VR/VR Plugins.md",
+    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/TeachLink.md",
+    "Teach/TeamCity.md",
+    "Work/Work Records - 1.md",
+    "Work/战斗问题.md",
+    "Work/帝国指引.md",
+    "Teach/Unity/BaiscNotes/Teachs.md",
+    "Work/粒子添加.md",
+    "Work/RAR/Up Details.md",
+    "Daily/Work/Problems.md",
+    "Work/Problems/资源问题.md",
+    "Daily/Work/Finger.md",
     "your_folder",
-    "Pics/UnityAbout/shader_2.12.png",
+    "Teach/Unity/Render/Shader",
+    "Teach/Unity/Render",
     "Pics/UnityAbout/shader_2.9.png",
+    "Pics/UnityAbout/shader_2.7.png",
     "Pics/UnityAbout/shader_2.8.png",
-    "img/弹性伸缩调度模型.png.md",
+    "Pics/UnityAbout/shader_2.19.png",
+    "Pics/UnityAbout/shader_2.14.png",
+    "Pics/UnityAbout/shader_2.12.png",
     "Pics/UnityAbout",
     "Pics/Headers/header.png",
     "Pics/Headers",
-    "Teach/Basic/操作系统相关/Untitled",
-    "Teach/Basic/操作系统相关",
-    "Teach/Unity/Render/RenderAbout.md",
-    "Computer.md",
-    "img",
-    "Teach/Unity/Render/Shader/Untitled",
-    "Teach/Unity/Render/Shader",
-    "A-T/Accounts.md",
-    "Teach/Unity/Render",
-    "A-T/Books.md",
-    "A-T/ReadRecords.md",
-    "A-T/tips.md",
-    "English/23-12-11.md",
-    "Temp.md",
-    "Teach/Unity/VR/VR Plugins.md",
-    "Teach/Unity/VR",
-    "Teach/Unity/BaiscNotes/Teachs.md",
-    "Teach/TeamCity.md",
-    "Teach/C#/数组,ArrayList,List的区别.md",
-    "Work/Work Records - 1.md",
-    "Work/ToDolist.md",
-    "jiubian.md",
-    "README.md",
-    "Battle Materials.md",
-    "吃药指南.md",
-    "Pics/jsonerr0.png",
+    "ZEmoj/biary.svg",
     "Pics/1.png",
-    "Pics/Snipaste_2023-11-29_10-15-50.png",
-    "Pics/2.png",
+    "Daily/Diary",
+    "Teach/Unity/VR",
+    "Teach/licenses.html",
+    "Teach/Unity/BaiscNotes",
+    "plaintext",
+    "Pics/jsonerr0.png",
     "Untitled.canvas"
   ]
 }
