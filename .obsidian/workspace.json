@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Texture Optimize Strategies.md",
+                "file": "小吏.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Texture Optimize Strategies.md",
+                "file": "小吏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Texture Optimize Strategies.md",
+                "file": "小吏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Texture Optimize Strategies.md"
+                "file": "小吏.md"
               }
             }
           }
@@ -159,35 +159,35 @@
   },
   "active": "b8712cef841951ee",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/伽马校正.md",
-    "Teach/Unity/破解方法.md",
-    "Teach/Unity/GPU Instancing.md",
-    "Teach/Unity/Continue.md",
-    "Teach/Unity/DC策略.md",
-    "Teach/Unity/Details.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "Teach/Unity/Unity Optimize.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/Unity/ASTC纹理压缩格式详解.md",
-    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
-    "Excalidraw/Drawing 2023-12-27 19.18.41.excalidraw.md",
-    "A-T/Urls.md",
-    "A-T/Accounts.md",
-    "A-T/Books.md",
-    "A-T/tips.md",
-    "A-T/ReadRecords.md",
-    "Work/Work Records - 1.md",
+    "吃药指南.md",
+    "小吏.md",
     "Temp.md",
+    "jiubian.md",
+    "README.md",
+    "Computer.md",
     "ACommands.md",
+    "Battle Materials.md",
+    "English/23-12-11.md",
+    "English/Basic/Most Common 200 Words.md",
+    "A-T/宇宙.md",
+    "A-T/History/Qinhan/秦汉.md",
+    "A-T/History/Qinhan/临时随笔.md",
+    "A-T/History/Qinhan/关于读书.md",
+    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
+    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
+    "A-T/RuoSaChen/热评/摘录.md",
+    "A-T/TimeLine/时间线.md",
+    "A-T/MyAccounts.md",
+    "A-T/BooksQueue.md",
+    "A-T/Precious Urls.md",
+    "A-T/ReadRecords.md",
+    "A-T/tips.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
+    "Teach/Unity/伽马校正.md",
     "ZEmoj/c++.svg",
     "Pics/Headers/header.png",
     "Pics/zbooks.png",
-    "Teach/Unity/VR/VR Plugins.md",
-    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
-    "Teach/Git/GitRespo.md",
-    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
     "your_folder",
     "Teach/Unity/Render/Shader",
     "Teach/Unity/Render",
