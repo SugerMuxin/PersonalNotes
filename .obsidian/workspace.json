@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小吏.md",
+                "file": "Temp.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1dd1fc3cb6ac2085",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "小吏.md",
+                "file": "Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "小吏.md",
+                "file": "Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "小吏.md"
+                "file": "Temp.md"
               }
             }
           }
@@ -159,9 +149,10 @@
   },
   "active": "b8712cef841951ee",
   "lastOpenFiles": [
-    "吃药指南.md",
-    "小吏.md",
+    "TaskStack.md",
     "Temp.md",
+    "小吏.md",
+    "吃药指南.md",
     "jiubian.md",
     "README.md",
     "Computer.md",
@@ -184,7 +175,6 @@
     "A-T/tips.md",
     "Teach/Unity/Texture Optimize Strategies.md",
     "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
-    "Teach/Unity/伽马校正.md",
     "ZEmoj/c++.svg",
     "Pics/Headers/header.png",
     "Pics/zbooks.png",
