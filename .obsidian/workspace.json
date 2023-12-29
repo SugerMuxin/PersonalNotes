@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f4d1c842ffe210",
+        "id": "f4461ee99aeea8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f0024822d18b9b",
+            "id": "b8712cef841951ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+                "file": "Teach/Unity/Texture Optimize Strategies.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1dd1fc3cb6ac2085",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 253.5
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+                "file": "Teach/Unity/Texture Optimize Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+                "file": "Teach/Unity/Texture Optimize Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec2 Render Process.md"
+                "file": "Teach/Unity/Texture Optimize Strategies.md"
               }
             }
           }
@@ -147,34 +157,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4f0024822d18b9b",
+  "active": "b8712cef841951ee",
   "lastOpenFiles": [
-    "Work/ToDolist.md",
-    "Work/Supplement.md",
-    "A-T/Accounts.md",
-    "A-T/Articles/九边/Untitled.md",
-    "A-T/Articles/九边/关于奢侈品.md",
-    "A-T/Articles/九边/九边.md",
-    "A-T/Articles/九边/为啥经常说产能过剩.md",
-    "A-T/Articles/九边/又打起来了.md",
-    "A-T/Articles/九边/原子性训练.md",
-    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
-    "Temp.md",
+    "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Unity/伽马校正.md",
     "Teach/Unity/破解方法.md",
-    "Teach/Unity/VR/VR Plugins.md",
-    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
+    "Teach/Unity/GPU Instancing.md",
+    "Teach/Unity/Continue.md",
     "Teach/Unity/DC策略.md",
-    "Teach/TeachLink.md",
-    "Teach/TeamCity.md",
+    "Teach/Unity/Details.md",
+    "Teach/Unity/Unity中合并图集的方法.md",
+    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "Teach/Unity/ASTC纹理压缩格式详解.md",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+    "Excalidraw/Drawing 2023-12-27 19.18.41.excalidraw.md",
+    "A-T/Urls.md",
+    "A-T/Accounts.md",
+    "A-T/Books.md",
+    "A-T/tips.md",
+    "A-T/ReadRecords.md",
     "Work/Work Records - 1.md",
-    "Work/战斗问题.md",
-    "Work/帝国指引.md",
-    "Teach/Unity/BaiscNotes/Teachs.md",
-    "Work/粒子添加.md",
-    "Work/RAR/Up Details.md",
-    "Daily/Work/Problems.md",
-    "Work/Problems/资源问题.md",
-    "Daily/Work/Finger.md",
+    "Temp.md",
+    "ACommands.md",
+    "ZEmoj/c++.svg",
+    "Pics/Headers/header.png",
+    "Pics/zbooks.png",
+    "Teach/Unity/VR/VR Plugins.md",
+    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
+    "Teach/Git/GitRespo.md",
+    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
     "your_folder",
     "Teach/Unity/Render/Shader",
     "Teach/Unity/Render",
@@ -185,16 +198,13 @@
     "Pics/UnityAbout/shader_2.14.png",
     "Pics/UnityAbout/shader_2.12.png",
     "Pics/UnityAbout",
-    "Pics/Headers/header.png",
     "Pics/Headers",
     "ZEmoj/biary.svg",
-    "Pics/1.png",
     "Daily/Diary",
     "Teach/Unity/VR",
     "Teach/licenses.html",
     "Teach/Unity/BaiscNotes",
     "plaintext",
-    "Pics/jsonerr0.png",
     "Untitled.canvas"
   ]
 }
