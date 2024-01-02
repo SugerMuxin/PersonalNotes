@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/ETC.md",
+                "file": "Work/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/ETC.md",
+                "file": "Work/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/ETC.md",
+                "file": "Work/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/ETC.md"
+                "file": "Work/Todo.md"
               }
             }
           }
@@ -147,10 +147,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8712cef841951ee",
+  "active": "b63c9400518548ff",
   "lastOpenFiles": [
-    "Teach/ASTC.md",
+    "Work/Supplement.md",
+    "Work/Todo.md",
+    "Teach/ToDolist.md",
     "Teach/ETC.md",
+    "Teach/ASTC.md",
     "Teach/Unity/Texture Optimize Strategies.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/Unity/Unity Optimize.md",
@@ -172,9 +175,6 @@
     "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
     "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
     "A-T/RuoSaChen/热评/摘录.md",
-    "A-T/TimeLine/时间线.md",
-    "A-T/MyAccounts.md",
-    "A-T/BooksQueue.md",
     "ZEmoj/c++.svg",
     "Pics/Headers/header.png",
     "Pics/zbooks.png",
