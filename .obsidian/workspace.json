@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/ASTC.md",
+                "file": "Teach/ETC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/ASTC.md",
+                "file": "Teach/ETC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/ASTC.md",
+                "file": "Teach/ETC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/ASTC.md"
+                "file": "Teach/ETC.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "b8712cef841951ee",
   "lastOpenFiles": [
-    "Teach/Unity/Texture Optimize Strategies.md",
     "Teach/ASTC.md",
+    "Teach/ETC.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/Unity/Unity Optimize.md",
     "TaskStack.md",
@@ -174,7 +175,6 @@
     "A-T/TimeLine/时间线.md",
     "A-T/MyAccounts.md",
     "A-T/BooksQueue.md",
-    "A-T/Precious Urls.md",
     "ZEmoj/c++.svg",
     "Pics/Headers/header.png",
     "Pics/zbooks.png",
