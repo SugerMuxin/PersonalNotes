@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "66620dbd86205a0d",
+    "id": "a78b10c1057828bd",
     "type": "split",
     "children": [
       {
-        "id": "f4461ee99aeea8fa",
+        "id": "d5b0355cf02177a6",
         "type": "tabs",
         "children": [
           {
-            "id": "b8712cef841951ee",
+            "id": "0693277109b88f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Todo.md",
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "864dda83495826cc",
+    "id": "1d5cae2363a32a0a",
     "type": "split",
     "children": [
       {
-        "id": "f22c9ab415533c43",
+        "id": "3877b788d4e313d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b63c9400518548ff",
+            "id": "4a7fdac01dd5362a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "8c135df85c0711fa",
+            "id": "bcc056d1363e8b92",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,34 +58,36 @@
             }
           },
           {
-            "id": "b771af363246b76e",
+            "id": "4a0d79762ddb8ee1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "61a0041c0bad7f5e",
+    "id": "0f5210d017cb7041",
     "type": "split",
     "children": [
       {
-        "id": "c6d238c08ff7f1c9",
+        "id": "21bee11bd18ee0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e2db762ffd76698f",
+            "id": "f316b46b6b877890",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Todo.md",
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +99,19 @@
             }
           },
           {
-            "id": "bc1249445c607fef",
+            "id": "84b7c65718714e42",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Todo.md",
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0a1c57d3f6f3feab",
+            "id": "d56f7ef14dd7dc16",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +122,12 @@
             }
           },
           {
-            "id": "290387b182409cc6",
+            "id": "93dd1583147be5d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Todo.md"
+                "file": "Teach/Unity/Texture压缩方式及其原理.md"
               }
             }
           }
@@ -138,63 +140,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b63c9400518548ff",
+  "active": "0693277109b88f21",
   "lastOpenFiles": [
-    "Work/Supplement.md",
     "Work/Todo.md",
     "Teach/ToDolist.md",
     "Teach/ETC.md",
     "Teach/ASTC.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
+    "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
+    "Pics/Snipaste_2023-12-30_23-52-00.png",
+    "Pics/image051.png",
+    "Pics/image049.png",
+    "Pics/5aa8e96d18d69.png",
+    "Pics/Snipaste_2023-12-30_22-54-40.png",
+    "Pics/Snipaste_2023-12-30_22-49-07.png",
+    "Pics/Snipaste_2023-12-30_13-32-29.png",
+    "Pics/Snipaste_2023-12-30_13-32-24.png",
+    "Pics/Snipaste_2023-12-30_13-27-21.png",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Git/Git Problems.md",
+    "Teach/Git/Git use records.md",
+    "Teach/Git/GitRespo.md",
+    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
+    "Teach/C#/Dispose.md",
+    "Teach/C#/VSCODE.md",
+    "Teach/Unity/GPU Instancing.md",
     "TaskStack.md",
-    "Temp.md",
-    "小吏.md",
-    "吃药指南.md",
-    "jiubian.md",
-    "README.md",
-    "Computer.md",
-    "ACommands.md",
-    "Battle Materials.md",
-    "English/23-12-11.md",
+    "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-27 19.18.41.excalidraw.md",
     "English/Basic/Most Common 200 Words.md",
     "A-T/宇宙.md",
-    "A-T/History/Qinhan/秦汉.md",
-    "A-T/History/Qinhan/临时随笔.md",
-    "A-T/History/Qinhan/关于读书.md",
-    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
-    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
-    "A-T/RuoSaChen/热评/摘录.md",
-    "ZEmoj/c++.svg",
-    "Pics/Headers/header.png",
-    "Pics/zbooks.png",
-    "your_folder",
-    "Teach/Unity/Render/Shader",
-    "Teach/Unity/Render",
-    "Pics/UnityAbout/shader_2.9.png",
-    "Pics/UnityAbout/shader_2.7.png",
-    "Pics/UnityAbout/shader_2.8.png",
-    "Pics/UnityAbout/shader_2.19.png",
-    "Pics/UnityAbout/shader_2.14.png",
-    "Pics/UnityAbout/shader_2.12.png",
-    "Pics/UnityAbout",
-    "Pics/Headers",
-    "ZEmoj/biary.svg",
-    "Daily/Diary",
-    "Teach/Unity/VR",
-    "Teach/licenses.html",
-    "Teach/Unity/BaiscNotes",
-    "plaintext",
-    "Untitled.canvas"
+    "A-T/Precious Urls.md",
+    "A-T/MyAccounts.md",
+    "A-T/BooksQueue.md"
   ]
 }
