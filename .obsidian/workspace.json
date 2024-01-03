@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b2dbf57a382566b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/StableDiffusion/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f791764940ffe7a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/StableDiffusion/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed0fcf16f5d6ba11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-T/BooksQueue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82045a6ff4eecfc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce7a723aee79d71d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/ASTC.md",
+                "file": "A-T/BooksQueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/ASTC.md",
+                "file": "A-T/BooksQueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/ASTC.md"
+                "file": "A-T/BooksQueue.md"
               }
             }
           }
@@ -147,54 +208,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8712cef841951ee",
+  "active": "ed0fcf16f5d6ba11",
   "lastOpenFiles": [
-    "Teach/ETC.md",
-    "Teach/ASTC.md",
+    "conflict-files-obsidian-git.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "A-T/BooksQueue.md",
+    "Teach/StableDiffusion/Basics.md",
+    "Work/Todo.md",
+    "Work/Work Records - 1.md",
+    "Teach/StableDiffusion",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/帝国指引.md",
+    "Work/粒子添加.md",
+    "Work/战斗问题.md",
+    "Work/Supplement.md",
+    "小吏.md",
     "ACommands.md",
     "Computer.md",
+    "jiubian.md",
     "Temp.md",
-    "Work/Todo.md",
-    "Work/Supplement.md",
+    "TaskStack.md",
+    "吃药指南.md",
+    "Teach/ASTC.md",
+    "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
+    "Pics/image051.png",
+    "Pics/image049.png",
+    "Pics/Snipaste_2023-12-30_23-52-00.png",
+    "Pics/Snipaste_2023-12-30_22-54-40.png",
+    "Pics/Snipaste_2023-12-30_22-49-07.png",
+    "Pics/Snipaste_2023-12-30_13-32-29.png",
+    "Pics/Snipaste_2023-12-30_13-32-24.png",
+    "Pics/Snipaste_2023-12-30_13-27-21.png",
+    "Pics/Snipaste_2023-12-30_13-25-54.png",
+    "Teach/ETC.md",
     "Teach/ToDolist.md",
     "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/Unity/Unity Optimize.md",
-    "TaskStack.md",
-    "小吏.md",
-    "吃药指南.md",
-    "jiubian.md",
     "README.md",
     "Battle Materials.md",
     "English/23-12-11.md",
-    "English/Basic/Most Common 200 Words.md",
-    "A-T/宇宙.md",
-    "A-T/History/Qinhan/秦汉.md",
-    "A-T/History/Qinhan/临时随笔.md",
-    "A-T/History/Qinhan/关于读书.md",
-    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
-    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
-    "A-T/RuoSaChen/热评/摘录.md",
-    "ZEmoj/c++.svg",
-    "Pics/Headers/header.png",
-    "Pics/zbooks.png",
     "your_folder",
     "Teach/Unity/Render/Shader",
     "Teach/Unity/Render",
-    "Pics/UnityAbout/shader_2.9.png",
-    "Pics/UnityAbout/shader_2.7.png",
-    "Pics/UnityAbout/shader_2.8.png",
-    "Pics/UnityAbout/shader_2.19.png",
-    "Pics/UnityAbout/shader_2.14.png",
-    "Pics/UnityAbout/shader_2.12.png",
     "Pics/UnityAbout",
     "Pics/Headers",
-    "ZEmoj/biary.svg",
     "Daily/Diary",
     "Teach/Unity/VR",
     "Teach/licenses.html",
     "Teach/Unity/BaiscNotes",
-    "plaintext",
     "Untitled.canvas"
   ]
 }
