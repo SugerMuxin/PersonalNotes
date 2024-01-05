@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -196,12 +197,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82045a6ff4eecfc9",
+  "active": "b63c9400518548ff",
   "lastOpenFiles": [
+    "Teach/Unity/Details.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "Teach/ASTC.md",
+    "Teach/ETC.md",
+    "Teach/StableDiffusion/Basics.md",
     "conflict-files-obsidian-git.md",
     "A-T/BooksQueue.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/StableDiffusion/Basics.md",
     "Work/Todo.md",
     "Work/Work Records - 1.md",
     "Teach/StableDiffusion",
@@ -217,7 +222,6 @@
     "Temp.md",
     "TaskStack.md",
     "吃药指南.md",
-    "Teach/ASTC.md",
     "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
     "Pics/image051.png",
     "Pics/image049.png",
@@ -228,13 +232,10 @@
     "Pics/Snipaste_2023-12-30_13-32-24.png",
     "Pics/Snipaste_2023-12-30_13-27-21.png",
     "Pics/Snipaste_2023-12-30_13-25-54.png",
-    "Teach/ETC.md",
     "Teach/ToDolist.md",
     "Teach/Unity/Texture Optimize Strategies.md",
     "Teach/Unity/Unity Optimize.md",
     "README.md",
-    "Battle Materials.md",
-    "English/23-12-11.md",
     "your_folder",
     "Teach/Unity/Render/Shader",
     "Teach/Unity/Render",

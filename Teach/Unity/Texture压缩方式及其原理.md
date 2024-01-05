@@ -39,7 +39,9 @@
 2.basecolor只有16位，表示颜色一般是R5G6B5，最多只能 RGB(31,63,31),  那么假如渲染一张白色的图该怎么办？假如每个像素都是（255,255,255）</span>
 
 
-（2）ETC压缩原理
+（2）ETC2压缩原理
+
+ETC1 采取4x2 block , 4位表索引
 
 		flip                                           1    bit
 		basecolor  RGB444*2 || RGB555+RGB333           24   bits
