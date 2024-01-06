@@ -184,8 +184,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e926fe54b4ef669",
+  "active": "b63c9400518548ff",
   "lastOpenFiles": [
+    "GPU/UnityRenderDemo.zip",
+    "GPU/Multi_tree.unitypackage",
+    "GPU/GPU_Instance.unitypackage",
+    "GPU/A_Star.unitypackage",
+    "GPU/动画贴图烘焙.unitypackage",
+    "GPU/测试手机gpu动画上限demo.unitypackage",
     "GPU/BakeEditor.md",
     "GPU/ManRun.md",
     "GPU/fps.md",
@@ -213,7 +219,6 @@
     "ACommands.md",
     "Computer.md",
     "Temp.md",
-    "吃药指南.md",
     "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
     "Pics/image051.png",
     "Pics/image049.png",
@@ -227,11 +232,6 @@
     "your_folder",
     "Teach/Unity/Render/Shader",
     "Teach/Unity/Render",
-    "Pics/UnityAbout",
-    "Pics/Headers",
-    "Daily/Diary",
-    "Teach/Unity/VR",
-    "Teach/licenses.html",
     "Untitled.canvas"
   ]
 }
