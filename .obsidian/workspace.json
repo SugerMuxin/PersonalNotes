@@ -8,55 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8712cef841951ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teach/ASTC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b2dbf57a382566b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teach/StableDiffusion/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f791764940ffe7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teach/StableDiffusion/Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed0fcf16f5d6ba11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-T/BooksQueue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82045a6ff4eecfc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/StableDiffusion/Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9461b98cd971fc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "61a0041c0bad7f5e",
@@ -197,16 +160,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82045a6ff4eecfc9",
+  "active": "9461b98cd971fc54",
   "lastOpenFiles": [
-    "Teach/Unity/Details.md",
-    "Teach/Unity/DC策略.md",
+    "Teach/StableDiffusion/Basics.md",
+    "TaskStack.md",
+    "jiubian.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/ASTC.md",
-    "Teach/ETC.md",
-    "Teach/StableDiffusion/Basics.md",
-    "conflict-files-obsidian-git.md",
     "A-T/BooksQueue.md",
+    "Teach/Unity/Details.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/ETC.md",
+    "conflict-files-obsidian-git.md",
     "Work/Todo.md",
     "Work/Work Records - 1.md",
     "Teach/StableDiffusion",
@@ -218,9 +183,7 @@
     "小吏.md",
     "ACommands.md",
     "Computer.md",
-    "jiubian.md",
     "Temp.md",
-    "TaskStack.md",
     "吃药指南.md",
     "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
     "Pics/image051.png",
