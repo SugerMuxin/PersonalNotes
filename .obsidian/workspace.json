@@ -11,8 +11,12 @@
             "id": "23aa21461de14c94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0c9d65ae56857e6d",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teach/Unity/Texture压缩方式及其原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teach/Unity/Texture压缩方式及其原理.md"
+              }
             }
           }
         ]
@@ -140,5 +149,7 @@
     }
   },
   "active": "23aa21461de14c94",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Texture压缩方式及其原理.pdf"
+  ]
 }
