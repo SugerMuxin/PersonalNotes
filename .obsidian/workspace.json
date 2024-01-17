@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c09ca73b3996f055",
+        "id": "4dc2821bb3c9604f",
         "type": "tabs",
         "children": [
           {
-            "id": "23aa21461de14c94",
+            "id": "481179af574bb3e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Texture压缩方式及其原理.md",
+                "file": "jiubian.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0c9d65ae56857e6d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Texture压缩方式及其原理.md",
+                "file": "jiubian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Texture压缩方式及其原理.md",
+                "file": "jiubian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Texture压缩方式及其原理.md"
+                "file": "jiubian.md"
               }
             }
           }
@@ -148,8 +147,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23aa21461de14c94",
+  "active": "481179af574bb3e3",
   "lastOpenFiles": [
-    "Texture压缩方式及其原理.pdf"
+    "Computer.md",
+    "小吏.md",
+    "吃药指南.md",
+    "Teach/StableDiffusion/Basics.md",
+    "jiubian.md",
+    "Texture压缩方式及其原理.pdf",
+    "ACommands.md",
+    "Pics/Snipaste_2023-12-30_13-27-21.png",
+    "Pics/Snipaste_2023-12-30_13-25-54.png",
+    "Pics/Snipaste_2023-12-30_12-32-08.png",
+    "Pics/Snipaste_2023-12-30_12-31-59.png",
+    "Pics/image051.png",
+    "Pics/image049.png",
+    "A-T/History/Qinhan/秦汉.md",
+    "A-T/History/Qinhan/临时随笔.md",
+    "A-T/History/Qinhan/关于读书.md",
+    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
+    "A-T/备份/秦始皇那么牛咋就不能把匈奴给端了.md",
+    "A-T/Daily/Plan.md",
+    "English/23-12-11.md",
+    "English/Basic/Most Common 200 Words.md",
+    "A-T/Daily/Diary/2023.12.09.md",
+    "A-T/Daily/家长会小记.md",
+    "Daily/0718.md",
+    "GPU/ManRun.md",
+    "Daily/Work/Finger.md",
+    "Daily/Work/Problems.md",
+    "GPU/fps.md",
+    "GPU/CreateAlot.md",
+    "GPU/BakeEditor.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "packages/UnityRenderDemo.zip",
+    "packages/zsr02.geek",
+    "packages/2024-00--11.geek.txt",
+    "packages/devenv.exe",
+    "packages/lj01gpu.geek",
+    "packages",
+    "新建文件夹"
   ]
 }

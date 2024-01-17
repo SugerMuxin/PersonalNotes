@@ -12,9 +12,10 @@ https://zhuanlan.zhihu.com/p/645354101
 
 https://tusiart.com/models
 
+https://tusiart.com/u/621038870724784033 （em......）
+
 
 
 MidJourney
 https://github.com/Wildric-Auric/MidJourney-Wrapper
-
 https://sspai.com/post/79171
