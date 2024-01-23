@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc2821bb3c9604f",
+        "id": "455bcea4a2963234",
         "type": "tabs",
         "children": [
           {
-            "id": "481179af574bb3e3",
+            "id": "176db771d4e0a07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jiubian.md",
+                "file": "Work/WorkRecords 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jiubian.md",
+                "file": "Work/WorkRecords 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jiubian.md",
+                "file": "Work/WorkRecords 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jiubian.md"
+                "file": "Work/WorkRecords 2024.md"
               }
             }
           }
@@ -147,45 +147,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "481179af574bb3e3",
+  "active": "176db771d4e0a07d",
   "lastOpenFiles": [
     "Computer.md",
-    "小吏.md",
-    "吃药指南.md",
-    "Teach/StableDiffusion/Basics.md",
-    "jiubian.md",
     "Texture压缩方式及其原理.pdf",
-    "ACommands.md",
+    "A-T/Precious Urls.md",
+    "A-T/Articles/九边/ba.md",
+    "A-T/Articles/九边/Untitled.md",
+    "A-T/Articles/九边/原子性训练.md",
+    "A-T/Articles/ArticlesReaded.md",
+    "A-T/Articles/九边/到底还能走多远.md",
+    "A-T/Articles/九边/又打起来了.md",
+    "A-T/Articles/九边/为啥经常说产能过剩.md",
+    "A-T/Articles/九边/九边.md",
+    "A-T/Articles/九边/关于奢侈品.md",
+    "Teach/YanLingQi/S1 Overview of Computer Graphics.md",
+    "Teach/Ubuntu Wsl 迁移.md",
+    "Teach/ToDolist.md",
+    "Teach/Termux.md",
+    "Teach/TeachLink.md",
+    "Teach/TeamCity.md",
+    "Teach/ETC.md",
+    "Teach/ASTC.md",
+    "Teach/小番茄破解方法.md",
+    "Teach/Unity/Unity中合并图集的方法.md",
+    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Unity/GPU Instancing.md",
+    "Teach/Unity/Details.md",
+    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
+    "Books",
+    "新建文件夹",
+    "Pics/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
     "Pics/Snipaste_2023-12-30_13-27-21.png",
     "Pics/Snipaste_2023-12-30_13-25-54.png",
     "Pics/Snipaste_2023-12-30_12-32-08.png",
     "Pics/Snipaste_2023-12-30_12-31-59.png",
     "Pics/image051.png",
     "Pics/image049.png",
-    "A-T/History/Qinhan/秦汉.md",
-    "A-T/History/Qinhan/临时随笔.md",
-    "A-T/History/Qinhan/关于读书.md",
-    "A-T/History/Qinhan/背水一战真的能起到置之死地而后生的效果吗.md",
-    "A-T/备份/秦始皇那么牛咋就不能把匈奴给端了.md",
-    "A-T/Daily/Plan.md",
-    "English/23-12-11.md",
-    "English/Basic/Most Common 200 Words.md",
-    "A-T/Daily/Diary/2023.12.09.md",
-    "A-T/Daily/家长会小记.md",
-    "Daily/0718.md",
-    "GPU/ManRun.md",
-    "Daily/Work/Finger.md",
-    "Daily/Work/Problems.md",
-    "GPU/fps.md",
-    "GPU/CreateAlot.md",
-    "GPU/BakeEditor.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
     "packages/UnityRenderDemo.zip",
     "packages/zsr02.geek",
     "packages/2024-00--11.geek.txt",
     "packages/devenv.exe",
-    "packages/lj01gpu.geek",
-    "packages",
-    "新建文件夹"
+    "packages/lj01gpu.geek"
   ]
 }
