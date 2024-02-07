@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/WorkRecords 2024.md",
+                "file": "A-T/BooksQueue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/WorkRecords 2024.md",
+                "file": "A-T/BooksQueue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/WorkRecords 2024.md",
+                "file": "A-T/BooksQueue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/WorkRecords 2024.md"
+                "file": "A-T/BooksQueue.md"
               }
             }
           }
@@ -149,34 +149,38 @@
   },
   "active": "176db771d4e0a07d",
   "lastOpenFiles": [
-    "Work/Work Records - 1.md",
-    "Work/GameRecords.md",
-    "Work/WorkRecords 2024.md",
-    "Computer.md",
-    "Texture压缩方式及其原理.pdf",
-    "A-T/Precious Urls.md",
-    "A-T/Articles/九边/ba.md",
-    "A-T/Articles/九边/Untitled.md",
-    "A-T/Articles/九边/原子性训练.md",
-    "A-T/Articles/ArticlesReaded.md",
-    "A-T/Articles/九边/到底还能走多远.md",
-    "A-T/Articles/九边/又打起来了.md",
-    "A-T/Articles/九边/为啥经常说产能过剩.md",
-    "A-T/Articles/九边/九边.md",
-    "A-T/Articles/九边/关于奢侈品.md",
-    "Teach/YanLingQi/S1 Overview of Computer Graphics.md",
-    "Teach/Ubuntu Wsl 迁移.md",
-    "Teach/ToDolist.md",
-    "Teach/Termux.md",
-    "Teach/TeachLink.md",
-    "Teach/TeamCity.md",
-    "Teach/ETC.md",
-    "Teach/ASTC.md",
-    "Teach/小番茄破解方法.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "Teach/Unity/Unity Optimize.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
+    "A-T/宇宙.md",
+    "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md",
+    "A-T/文摘/任志强炮轰.md",
+    "A-T/文摘/辞藻类/碎片文摘.md",
+    "A-T/文摘/韩国令.md",
+    "A-T/文摘/辞藻类",
+    "A-T/文摘/阿Q画圈.md",
+    "A-T/文摘/我在印度的701天.md",
+    "A-T/Ecnomic/为什么量化宽松能刺激经济.md",
+    "A-T/文摘",
+    "A-T/History/Qinhan/秦汉.md",
+    "A-T/Ecnomic",
+    "A-T/History/Qinhan/临时随笔.md",
+    "A-T/History/Qinhan/关于读书.md",
+    "小吏.md",
+    "吃药指南.md",
     "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
+    "Teach/C#/Dispose.md",
+    "Teach/C#/CSharpRespo.md",
+    "Teach/C#/Attribute的使用记录.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "GPU/fps.md",
+    "GPU/CreateAlot.md",
+    "GPU/BakeEditor.md",
+    "A-T/Precious Urls.md",
+    "A-T/MyAccounts.md",
+    "A-T/BooksQueue.md",
+    "A-T/备份/关于广告思维的一些记录，游戏投放引流.md",
+    "A-T/备份/秦始皇那么牛咋就不能把匈奴给端了.md",
+    "A-T/Articles/ArticlesReaded.md",
+    "Texture压缩方式及其原理.pdf",
+    "Teach/Tools",
     "Books",
     "新建文件夹",
     "Pics/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
@@ -186,10 +190,6 @@
     "Pics/Snipaste_2023-12-30_12-31-59.png",
     "Pics/image051.png",
     "Pics/image049.png",
-    "packages/UnityRenderDemo.zip",
-    "packages/zsr02.geek",
-    "packages/2024-00--11.geek.txt",
-    "packages/devenv.exe",
-    "packages/lj01gpu.geek"
+    "packages/UnityRenderDemo.zip"
   ]
 }
