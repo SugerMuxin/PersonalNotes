@@ -23,16 +23,46 @@
             "id": "0fecd03ad622a00a",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Books/Unity性能优化 C#篇.pdf"
+              }
+            }
+          },
+          {
+            "id": "d8fe1d3823af92aa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
+          },
+          {
+            "id": "bbee45c770f77000",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-02-27 15.50.55.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5f7b87c09047a750",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/慢炖/太白金星有点烦回复.md",
+                "file": "A-T/liuxiu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-T/慢炖/太白金星有点烦回复.md",
+                "file": "A-T/liuxiu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-T/慢炖/太白金星有点烦回复.md",
+                "file": "A-T/liuxiu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-T/慢炖/太白金星有点烦回复.md"
+                "file": "A-T/liuxiu.md"
               }
             }
           }
@@ -160,39 +190,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fecd03ad622a00a",
+  "active": "5f7b87c09047a750",
   "lastOpenFiles": [
-    "A-T/慢炖/秦始皇那么牛咋就不能把匈奴给端了.md",
-    "A-T/慢炖/太白金星有点烦回复.md",
-    "A-T/慢炖/关于广告思维的一些记录，游戏投放引流.md",
-    "A-T/Precious Urls.md",
-    "A-T/MyAccounts.md",
-    "A-T/BooksQueue.md",
-    "Texture压缩方式及其原理.pdf",
     "Untitled.md",
-    "A-T/Daily/Plan.md",
-    "A-T/宇宙.md",
-    "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md",
-    "A-T/文摘/任志强炮轰.md",
-    "A-T/文摘/辞藻类/碎片文摘.md",
-    "A-T/文摘/韩国令.md",
-    "A-T/文摘/辞藻类",
-    "A-T/文摘/阿Q画圈.md",
-    "A-T/文摘/我在印度的701天.md",
-    "A-T/Ecnomic/为什么量化宽松能刺激经济.md",
-    "A-T/文摘",
-    "A-T/History/Qinhan/秦汉.md",
-    "A-T/Ecnomic",
-    "A-T/History/Qinhan/临时随笔.md",
-    "A-T/History/Qinhan/关于读书.md",
+    "A-T/liuxiu.md",
+    "Excalidraw/Drawing 2024-02-27 15.50.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-28 11.17.02.excalidraw.md",
+    "Excalidraw/qiangpao.md",
+    "Excalidraw/Drawing 2023-12-27 19.18.41.excalidraw.md",
+    "Excalidraw/compress.md",
+    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
+    "Books/Unity性能优化 C#篇.pdf",
+    "jiubian.md",
+    "TaskStack.md",
+    "Computer.md",
+    "ACommands.md",
     "小吏.md",
     "吃药指南.md",
-    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
+    "Teach/Ubuntu Wsl 迁移.md",
+    "Teach/ToDolist.md",
+    "Teach/Termux.md",
+    "Teach/TeachLink.md",
+    "Teach/TeamCity.md",
+    "Teach/C#/VSCODE.md",
     "Teach/C#/Dispose.md",
     "Teach/C#/CSharpRespo.md",
     "Teach/C#/Attribute的使用记录.md",
     "Teach/C#/数组,ArrayList,List的区别.md",
-    "GPU/fps.md",
+    "A-T/慢炖/秦始皇那么牛咋就不能把匈奴给端了.md",
+    "A-T/慢炖/太白金星有点烦回复.md",
+    "A-T/慢炖/关于广告思维的一些记录，游戏投放引流.md",
+    "Texture压缩方式及其原理.pdf",
+    "A-T/文摘/辞藻类",
+    "A-T/文摘",
+    "A-T/Ecnomic",
     "Teach/Tools",
     "Books",
     "新建文件夹",
@@ -202,7 +233,6 @@
     "Pics/Snipaste_2023-12-30_12-32-08.png",
     "Pics/Snipaste_2023-12-30_12-31-59.png",
     "Pics/image051.png",
-    "Pics/image049.png",
-    "packages/UnityRenderDemo.zip"
+    "Pics/image049.png"
   ]
 }
