@@ -46,3 +46,16 @@ git config --global --unset https.proxy
 >    git pull
 
 私有仓库的Clone方法
+
+
+>忽略本地一些仓库上传的方法
+>1.新建一个文件命名为
+>2.在其中按格式填上需要忽略的文件名称或者文件夹名称
+>	eg. 
+>		#忽略根目录下bin文件夹中的所有文件，【/bin/*表示】
+		#忽略根目录下bin文件夹中的所有文件，【/bin/*表示】
+		#忽略所有.class文件，*.class
+		#不要忽略根目录下bin文件夹中.java文件，!/bin/*.java，这样就完成了
+		/.obsidian/*
+		/.Books/*
+		/本地文件/*
