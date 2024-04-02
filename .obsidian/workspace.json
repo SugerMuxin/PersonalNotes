@@ -25,19 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落.md",
+                "file": "A-T/从秦朝的兴衰看人生起落2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "05a2d8b4a7acbecd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落.md",
+                "file": "A-T/从秦朝的兴衰看人生起落2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落.md",
+                "file": "A-T/从秦朝的兴衰看人生起落2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落.md"
+                "file": "A-T/从秦朝的兴衰看人生起落2.md"
               }
             }
           }
@@ -172,32 +162,34 @@
   },
   "active": "72411fb9c4f37a3d",
   "lastOpenFiles": [
-    "A-T/RuoSaChen/项刘.md",
+    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
+    "A-T/从秦朝的兴衰看人生起落2.md",
+    "A-T/宇宙.md",
+    "A-T/BooksQueue.md",
+    "A-T/liuxiu.md",
     "A-T/从秦朝的兴衰看人生起落.md",
+    "A-T/RuoSaChen/项刘.md",
     "A-T/RuoSaChen/瞎说说.md",
     "A-T/RuoSaChen/为什么是现在.md",
-    "A-T/宇宙.md",
-    "GPU/ManRun.md",
-    "GPU/fps.md",
-    "GPU/BakeEditor.md",
-    "GPU/CreateAlot.md",
-    "A-T/MyAccounts.md",
-    "A-T/慢炖/秦始皇那么牛咋就不能把匈奴给端了.md",
-    "A-T/慢炖/太白金星有点烦回复.md",
+    "小吏.md",
+    "Teach/StableDiffusion/Basics.md",
+    "Teach/Git/My Git.md",
+    "Teach/Git/Git Problems.md",
+    "Teach/Git/git 仓库拉取和提交的办法.md",
+    "Teach/C#/VSCODE.md",
+    "Teach/C#/Dispose.md",
+    "Teach/C#/CSharpRespo.md",
+    "Teach/C#/Attribute的使用记录.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "Teach/BlockChain/qukuai.md",
+    "Work/RAR/Up Details.md",
+    "Work/Tools/TeamCity.md",
     "A-T/慢炖/关于广告思维的一些记录，游戏投放引流.md",
-    "A-T/Ecnomic/为什么量化宽松能刺激经济.md",
-    "A-T/Daily/Plan.md",
-    "A-T/Daily/家长会小记.md",
-    "A-T/Daily/Diary/2023.12.09.md",
-    "A-T/Precious Urls.md",
-    "A-T/liuxiu.md",
-    "A-T/BooksQueue.md",
-    "A-T/RuoSaChen/Memorys.md",
-    "A-T/TimeLine/Untitled.md",
-    "A-T/RuoSaChen/枪炮.md",
-    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
-    "A-T/RuoSaChen/热评/摘录.md",
-    "A-T/TimeLine/时间线.md",
+    "Excalidraw/compress.md",
+    "Excalidraw/qiangpao.md",
+    "Excalidraw/Drawing 2024-02-27 15.50.55.excalidraw.md",
+    "Work/心得",
+    "Work/Tools",
     "Work/Unity坑记录",
     "Work/Loxodon.Framework2.6.4.unitypackage",
     "Work/Loxodon.Framework.FairyGUI2.6.4.unitypackage",
@@ -205,11 +197,8 @@
     "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
     "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
     "A-T/History/Tang",
-    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
     "测试2.txt",
     "packages/zsr02.geek",
-    "packages/UnityRenderDemo.zip",
-    "packages/lj01gpu.geek",
     "Snipaste_2024-01-06_16-43-51.png",
     "Snipaste_2024-01-06_16-43-41.png",
     "Snipaste_2024-01-06_16-43-32.png",
