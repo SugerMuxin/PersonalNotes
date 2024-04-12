@@ -142,7 +142,6 @@
   "Teach/Unity/Render": "LoMy2",
   "Teach/Unity/Render/Shader": "LoMy2",
   "Teach/C#/数组,ArrayList,List的区别.md": "SiMdbook",
-  "Teach/Unity/Render/Shader/Sec3 Shader Basics.md": "LoMy1",
   "Teach/Unity/Render/Shader/Sec2 Render Process.md": "LoMy1",
   "Teach/Unity/VR": "LoMy2",
   "Teach/Unity/VR/VR Plugins.md": "LoMy1",
@@ -196,5 +195,7 @@
   "Teach/Basic/操作系统相关": "IbFolder",
   "Teach/BlockChain": "IbFolder",
   "Teach/BlockChain/qukuai.md": "SiMdbook",
-  "A-T/从秦朝的兴衰看人生起落2.md": "SiMdbook"
+  "A-T/从秦朝的兴衰看人生起落2.md": "SiMdbook",
+  "Teach/Unity/MS.md": "SiMdbook",
+  "Teach/Unity/Render/Shader/Sec3 Shader 基础.md": "LoMy1"
 }

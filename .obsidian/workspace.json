@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落2.md",
+                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落2.md",
+                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落2.md",
+                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-T/从秦朝的兴衰看人生起落2.md"
+                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md"
               }
             }
           }
@@ -162,8 +162,14 @@
   },
   "active": "72411fb9c4f37a3d",
   "lastOpenFiles": [
-    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
+    "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
+    "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+    "Teach/Unity/性能优化/DC篇幅.md",
+    "Teach/Unity/性能优化/设置篇.md",
+    "Teach/Unity/MS.md",
     "A-T/从秦朝的兴衰看人生起落2.md",
+    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
     "A-T/宇宙.md",
     "A-T/BooksQueue.md",
     "A-T/liuxiu.md",
@@ -183,11 +189,6 @@
     "Teach/C#/数组,ArrayList,List的区别.md",
     "Teach/BlockChain/qukuai.md",
     "Work/RAR/Up Details.md",
-    "Work/Tools/TeamCity.md",
-    "A-T/慢炖/关于广告思维的一些记录，游戏投放引流.md",
-    "Excalidraw/compress.md",
-    "Excalidraw/qiangpao.md",
-    "Excalidraw/Drawing 2024-02-27 15.50.55.excalidraw.md",
     "Work/心得",
     "Work/Tools",
     "Work/Unity坑记录",
