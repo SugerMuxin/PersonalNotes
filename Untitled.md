@@ -1,21 +1,6 @@
-IBindingBuilder
-        |
-BindingBuilderBase
-		|
-BindingBuilder<TTarget, TSource>
-
-
-
-
-IBindingBuilder
-	|
-BindingSetBase
-	|
-BindingSet<TTarget, TSource>
-
-
-
---------------------------------------
-Set  GameObject      DataMode
-
-
+1.限时任务效果完善测试流程跟进和bug修改                  10
+2.修改指引中不能及时触发种类的引导                             6
+3.将修改的引导同步到跨服分支，对应的表修改              8
+4.新增限时任务引导功能                                                   4
+5.军情任务越界问题修复和测试                                        4  
+6.
