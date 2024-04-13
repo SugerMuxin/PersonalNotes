@@ -38,3 +38,10 @@ git config --global https.proxy http://127.0.0.1:7890
 git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```
+
+
+
+其他的git commands
+
+1. git status  查看能被上传的文件
+2. touch .gitignore 可以创建一个.gitignore文件，

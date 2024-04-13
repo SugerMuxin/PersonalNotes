@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/ToDolist.md",
+                "file": "A-T/Daily/Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72411fb9c4f37a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/ToDolist.md",
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/ToDolist.md",
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/ToDolist.md"
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md"
               }
             }
           }
@@ -147,40 +160,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0693277109b88f21",
+  "active": "72411fb9c4f37a3d",
   "lastOpenFiles": [
+    "status",
+    "Teach/Git/Git Problems.md",
+    "Teach/Git/Git use records.md",
+    "Teach/Git/GitRespo.md",
+    "Teach/Unity/DC策略.md",
     "Teach/Unity/Render/Shader/Section9 光照.md",
+    "Teach/Unity/Render/Shader/Section8 透明效果.md",
+    "Teach/Unity/Render/Shader/Section7 基础纹理.md",
+    "Teach/Unity/Render/Shader/Section5基础shader.md",
+    "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
+    "Teach/Unity/性能优化/DC篇.md",
     "Pics/Pasted image 20240413144424.png",
     "Pics/Pasted image 20240413144353.png",
-    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
     "Pics/Pasted image 20240413141227.png",
-    "Teach/Unity/Render/Shader/Section8 透明效果.md",
-    "Teach/Unity/Render/Shader/Section5基础shader.md",
-    "Teach/Unity/Render/Shader/Section7 基础纹理.md",
+    "A-T/Articles/九边/红海里的一条路.md",
     "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
-    "Teach/Unity/Continue.md",
-    "Teach/Unity/DC策略.md",
-    "Teach/Unity/Unity Optimize.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/小番茄破解方法.md",
-    "Teach/TeachLink.md",
-    "Teach/TeamCity.md",
-    "Teach/Termux.md",
-    "Teach/Unity/GPU Instancing.md",
-    "Teach/Unity/MS.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
-    "Work/心得/关于游戏设计的一些想法.md",
-    "Work/心得",
-    "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
-    "Work/Tools/TeamCity.md",
-    "Work/Tools",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
     "Teach/Unity/性能优化/DC篇幅.md",
+    "Teach/Unity/性能优化/设置篇.md",
+    "Teach/Unity/MS.md",
     "A-T/从秦朝的兴衰看人生起落2.md",
-    "Work/Todo.md",
-    "Untitled.md",
-    "Texture压缩方式及其原理.pdf",
     "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
+    "A-T/宇宙.md",
+    "A-T/BooksQueue.md",
+    "A-T/liuxiu.md",
+    "A-T/从秦朝的兴衰看人生起落.md",
+    "A-T/RuoSaChen/项刘.md",
+    "A-T/RuoSaChen/瞎说说.md",
+    "A-T/RuoSaChen/为什么是现在.md",
+    "小吏.md",
+    "Work/心得",
+    "Work/Tools",
     "Work/Unity坑记录",
     "Work/Loxodon.Framework2.6.4.unitypackage",
     "Work/Loxodon.Framework.FairyGUI2.6.4.unitypackage",
@@ -189,6 +202,7 @@
     "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
     "A-T/History/Tang",
     "测试2.txt",
+    "packages/zsr02.geek",
     "Snipaste_2024-01-06_16-43-51.png",
     "Snipaste_2024-01-06_16-43-41.png",
     "Snipaste_2024-01-06_16-43-32.png",
