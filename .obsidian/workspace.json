@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/GPU Instancing.md",
+                "file": "Teach/ToDolist.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/GPU Instancing.md",
+                "file": "Teach/ToDolist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/GPU Instancing.md",
+                "file": "Teach/ToDolist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/GPU Instancing.md"
+                "file": "Teach/ToDolist.md"
               }
             }
           }
@@ -150,34 +149,36 @@
   },
   "active": "0693277109b88f21",
   "lastOpenFiles": [
+    "Teach/Unity/Render/Shader/Section9 光照.md",
+    "Pics/Pasted image 20240413144424.png",
+    "Pics/Pasted image 20240413144353.png",
+    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
+    "Pics/Pasted image 20240413141227.png",
+    "Teach/Unity/Render/Shader/Section8 透明效果.md",
+    "Teach/Unity/Render/Shader/Section5基础shader.md",
+    "Teach/Unity/Render/Shader/Section7 基础纹理.md",
+    "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
+    "Teach/Unity/Continue.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "Teach/小番茄破解方法.md",
+    "Teach/TeachLink.md",
+    "Teach/TeamCity.md",
+    "Teach/Termux.md",
+    "Teach/Unity/GPU Instancing.md",
+    "Teach/Unity/MS.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
     "Work/心得/关于游戏设计的一些想法.md",
     "Work/心得",
     "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
     "Work/Tools/TeamCity.md",
     "Work/Tools",
     "Teach/Unity/性能优化/DC篇幅.md",
-    "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
-    "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
-    "Teach/Unity/MS.md",
     "A-T/从秦朝的兴衰看人生起落2.md",
     "Work/Todo.md",
-    "Teach/Unity/GPU Instancing.md",
     "Untitled.md",
-    "Teach/Unity/性能优化/DC篇.md",
-    "Teach/Unity/性能优化/设置篇.md",
-    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
-    "Teach/Unity/Render/Shader/Sec3 Shader Basics.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/Details.md",
-    "Teach/Unity/DC策略.md",
-    "Teach/Unity/Continue.md",
-    "Teach/Unity/破解方法.md",
-    "Teach/Unity/伽马校正.md",
-    "Teach/YanLingQi/S1 Overview of Computer Graphics.md",
-    "Teach/TeachLink.md",
-    "Teach/TeamCity.md",
-    "Teach/Termux.md",
     "Texture压缩方式及其原理.pdf",
     "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
     "Work/Unity坑记录",
@@ -192,9 +193,6 @@
     "Snipaste_2024-01-06_16-43-41.png",
     "Snipaste_2024-01-06_16-43-32.png",
     "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
-    "Pics/Snipaste_2023-12-30_23-52-00.png",
-    "Pics/image051.png",
-    "Pics/image049.png",
-    "Pics/5aa8e96d18d69.png"
+    "Pics/Snipaste_2023-12-30_23-52-00.png"
   ]
 }
