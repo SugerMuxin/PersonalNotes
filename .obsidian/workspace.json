@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
+                "file": "Teach/Unity/Render/渲染顺序.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
+                "file": "Teach/Unity/Render/渲染顺序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md",
+                "file": "Teach/Unity/Render/渲染顺序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Sec4 Shader的数学基础.md"
+                "file": "Teach/Unity/Render/渲染顺序.md"
               }
             }
           }
@@ -147,37 +147,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a7fdac01dd5362a",
+  "active": "0693277109b88f21",
   "lastOpenFiles": [
-    "status",
-    "Teach/Unity/Render/Shader/Sec2 Render Process.md",
-    "Teach/Unity/Render/Shader/一些问题记录.md",
-    "Teach/Unity/Render/Shader/Section9 光照.md",
-    "Teach/Unity/Render/Shader/ShaderRecords.md",
+    "Pics/Pasted image 20240425172732.png",
+    "Teach/Unity/Render/Shader/Section5基础shader.md",
+    "Teach/Unity/Render/渲染顺序.md",
     "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
-    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
-    "Untitled.md",
-    "Texture压缩方式及其原理.pdf",
-    "Temp.md",
-    "TaskStack.md",
-    "jiubian.md",
-    "Computer.md",
-    "ACommands.md",
-    "小吏.md",
-    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
-    "Work/战斗问题.md",
-    "Work/粒子添加.md",
-    "Work/帝国指引.md",
-    "Work/帝国项目添加粒子特效的两种方法.md",
-    "Work/心得/关于游戏设计的一些想法.md",
-    "Teach/Ubuntu Wsl 迁移.md",
-    "Teach/ToDolist.md",
-    "Teach/Termux.md",
-    "Teach/TeamCity.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Render/Shader/Section6 基础光照.md",
+    "Teach/Unity/性能优化/降低GC.md",
+    "Pics/Pasted image 20240425160803.png",
+    "Teach/Unity/性能优化/DC篇幅.md",
+    "Teach/Unity/性能优化/DC篇.md",
+    "Teach/Unity/性能优化/设置篇.md",
+    "A-T/RuoSaChen/项刘.md",
+    "A-T/RuoSaChen/瞎说说.md",
+    "A-T/RuoSaChen/为什么是现在.md",
+    "A-T/RuoSaChen/枪炮.md",
+    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
+    "A-T/RuoSaChen/热评/摘录.md",
+    "A-T/Precious Urls.md",
+    "A-T/MyAccounts.md",
+    "A-T/liuxiu.md",
+    "A-T/BooksQueue.md",
+    "A-T/宇宙.md",
+    "A-T/从秦朝的兴衰看人生起落2.md",
+    "A-T/从秦朝的兴衰看人生起落.md",
     "Teach/Unity/Texture压缩方式及其原理.md",
     "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Unity/MS问题.md",
+    "Pics/Pasted image 20240424192534.png",
+    "Pics/Pasted image 20240424192408.png",
+    "Teach/Unity/Render/Shader/Section8 透明效果.md",
+    "Texture压缩方式及其原理.pdf",
+    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
+    "status",
+    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
     "Pics/Pasted image 20240413144424.png",
     "Pics/Pasted image 20240413144353.png",
     "Pics/Pasted image 20240413141227.png",
@@ -189,11 +193,7 @@
     "Teach/BlockChain",
     "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
     "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
-    "A-T/History/Tang",
     "Snipaste_2024-01-06_16-43-51.png",
-    "Snipaste_2024-01-06_16-43-41.png",
-    "Snipaste_2024-01-06_16-43-32.png",
-    "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
-    "Pics/Snipaste_2023-12-30_23-52-00.png"
+    "Snipaste_2024-01-06_16-43-41.png"
   ]
 }

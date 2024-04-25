@@ -6,4 +6,3 @@
 	if (any(saturate(v.texcoord) - v.texcoord)) {
 		o.color.b = 0.5;
 	}
-
