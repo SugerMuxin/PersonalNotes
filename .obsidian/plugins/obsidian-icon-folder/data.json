@@ -124,7 +124,6 @@
   "A-T/RuoSaChen/项刘.md": "SiMdbook",
   "A-T/RuoSaChen/瞎说说.md": "SiMdbook",
   "A-T/RuoSaChen/Memorys.md": "SiMdbook",
-  "Work/Problems": "IbFolder",
   "Pics/jsonerr0.png": "🖼",
   "Teach/C#/CSharpRespo.md": "SiMdbook",
   "Teach/TeachLink.md": "LoMy1",
@@ -146,9 +145,9 @@
   "Teach/Unity/破解方法.md": "LoMy1",
   "Pics/zbooks.png": "🖼",
   "Teach/Unity/GPU Instancing.md": "LoMy1",
-  "A-T/Precious Urls.md": "LoMy1",
+  "A-T/Precious Urls.md": "SiMdbook",
   "A-T/BooksQueue.md": "SiMdbook",
-  "A-T/MyAccounts.md": "LoMy1",
+  "A-T/MyAccounts.md": "SiMdbook",
   "A-T/宇宙.md": "SiMdbook",
   "TaskStack.md": "LoMy1",
   "Teach/ToDolist.md": "LoMy1",
@@ -203,5 +202,6 @@
   "Teach/Unity/Render/Shader/ShaderRecords.md": "SiMdbook",
   "Teach/Unity/Render/Shader/一些问题记录.md": "SiMdbook",
   "Teach/Unity/Render/Shader/Section6 基础光照.md": "SiMdbook",
-  "Teach/Unity/MS问题.md": "SiMdbook"
+  "Teach/Unity/MS问题.md": "SiMdbook",
+  "A-T/Titles.md": "SiMdbook"
 }

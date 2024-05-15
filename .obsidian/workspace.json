@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Render/渲染顺序.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d3924617a559c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ec0e7b0fe4b3d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/Render/渲染顺序.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/Render/渲染顺序.md",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity/Render/渲染顺序.md"
+                "file": "Untitled 2.md"
               }
             }
           }
@@ -147,53 +172,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0693277109b88f21",
+  "active": "6ec0e7b0fe4b3d0a",
   "lastOpenFiles": [
-    "Pics/Pasted image 20240425172732.png",
-    "Teach/Unity/Render/Shader/Section5基础shader.md",
-    "Teach/Unity/Render/渲染顺序.md",
-    "Teach/Unity/Render/Shader/Sec3 Shader 基础.md",
-    "Teach/Unity/Render/Shader/Section6 基础光照.md",
-    "Teach/Unity/性能优化/降低GC.md",
-    "Pics/Pasted image 20240425160803.png",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Texture压缩方式及其原理.pdf",
+    "TaskStack.md",
+    "jiubian.md",
+    "Computer.md",
+    "小吏.md",
+    "吃药指南.md",
+    "ACommands.md",
+    "Temp.md",
+    "Books/readme.pdf",
+    "Books/Unity性能优化 C#篇.pdf",
+    "Teach/Unity/Render/Shader/ShaderRecords.md",
+    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
+    "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
+    "Teach/小番茄破解方法.md",
+    "Teach/Unity/DC策略.md",
+    "Teach/Unity/破解方法.md",
     "Teach/Unity/性能优化/DC篇幅.md",
+    "Teach/Unity/性能优化/Unity UGUI合批相关.md",
+    "Teach/Unity/Render/渲染顺序.md",
+    "Teach/Unity/Continue.md",
+    "Teach/Unity/伽马校正.md",
     "Teach/Unity/性能优化/DC篇.md",
     "Teach/Unity/性能优化/设置篇.md",
-    "A-T/RuoSaChen/项刘.md",
-    "A-T/RuoSaChen/瞎说说.md",
-    "A-T/RuoSaChen/为什么是现在.md",
-    "A-T/RuoSaChen/枪炮.md",
-    "A-T/RuoSaChen/北欧福利那么好钱从哪里来.md",
-    "A-T/RuoSaChen/热评/摘录.md",
+    "Teach/Unity/性能优化/降低GC.md",
+    "Pics/Pasted image 20240506102440.png",
+    "Pics/Pasted image 20240506102422.png",
+    "Pics/Pasted image 20240506101418.png",
+    "Pics/Pasted image 20240506101346.png",
+    "Pics/Pasted image 20240506101054.png",
+    "Pics/Pasted image 20240506095657.png",
+    "Pics/Pasted image 20240506095645.png",
+    "Pics/Pasted image 20240506094052.png",
     "A-T/Precious Urls.md",
     "A-T/MyAccounts.md",
-    "A-T/liuxiu.md",
     "A-T/BooksQueue.md",
-    "A-T/宇宙.md",
-    "A-T/从秦朝的兴衰看人生起落2.md",
-    "A-T/从秦朝的兴衰看人生起落.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/MS问题.md",
-    "Pics/Pasted image 20240424192534.png",
-    "Pics/Pasted image 20240424192408.png",
-    "Teach/Unity/Render/Shader/Section8 透明效果.md",
-    "Texture压缩方式及其原理.pdf",
+    "A-T/liuxiu.md",
+    "Pics/Pasted image 20240425172732.png",
+    "Pics/Pasted image 20240425160803.png",
     "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
     "status",
-    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
-    "Pics/Pasted image 20240413144424.png",
-    "Pics/Pasted image 20240413144353.png",
-    "Pics/Pasted image 20240413141227.png",
     "Work/心得",
     "Work/Tools",
-    "Work/Unity坑记录",
-    "Work/Loxodon.Framework2.6.4.unitypackage",
-    "Work/Loxodon.Framework.FairyGUI2.6.4.unitypackage",
-    "Teach/BlockChain",
-    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
-    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
-    "Snipaste_2024-01-06_16-43-51.png",
-    "Snipaste_2024-01-06_16-43-41.png"
+    "Work/Unity坑记录"
   ]
 }
