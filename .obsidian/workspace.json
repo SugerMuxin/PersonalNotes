@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Teach/Unity游戏破解工具/Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Teach/Unity游戏破解工具/Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Teach/Unity游戏破解工具/Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Teach/Unity游戏破解工具/Records.md"
               }
             }
           }
@@ -174,14 +174,18 @@
   },
   "active": "6ec0e7b0fe4b3d0a",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled 2.md",
     "Untitled.md",
+    "Teach/Unity游戏破解工具/Records.md",
+    "Teach/Unity游戏破解工具",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Computer.md",
+    "小吏.md",
+    "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
+    "Books/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
     "Texture压缩方式及其原理.pdf",
     "TaskStack.md",
     "jiubian.md",
-    "Computer.md",
-    "小吏.md",
     "吃药指南.md",
     "ACommands.md",
     "Temp.md",
@@ -189,7 +193,6 @@
     "Books/Unity性能优化 C#篇.pdf",
     "Teach/Unity/Render/Shader/ShaderRecords.md",
     "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
-    "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
     "Teach/小番茄破解方法.md",
     "Teach/Unity/DC策略.md",
     "Teach/Unity/破解方法.md",
@@ -212,13 +215,10 @@
     "A-T/Precious Urls.md",
     "A-T/MyAccounts.md",
     "A-T/BooksQueue.md",
-    "A-T/liuxiu.md",
     "Pics/Pasted image 20240425172732.png",
     "Pics/Pasted image 20240425160803.png",
     "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
     "status",
-    "Work/心得",
-    "Work/Tools",
-    "Work/Unity坑记录"
+    "Work/心得"
   ]
 }

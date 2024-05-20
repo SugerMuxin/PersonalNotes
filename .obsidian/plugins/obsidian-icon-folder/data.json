@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LoMy2",
       "IbFolder",
       "SiMdbook"
     ],
@@ -203,5 +204,6 @@
   "Teach/Unity/Render/Shader/一些问题记录.md": "SiMdbook",
   "Teach/Unity/Render/Shader/Section6 基础光照.md": "SiMdbook",
   "Teach/Unity/MS问题.md": "SiMdbook",
-  "A-T/Titles.md": "SiMdbook"
+  "A-T/Titles.md": "SiMdbook",
+  "Teach/Unity游戏破解工具": "LoMy2"
 }
