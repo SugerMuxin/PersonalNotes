@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d3924617a559c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
+                "file": "WorkPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity游戏破解工具/Records.md",
+                "file": "WorkPlan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d451696d8f2b427b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lua/lua热更新写法参考.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity游戏破解工具/Records.md",
+                "file": "Lua/lua热更新写法参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity游戏破解工具/Records.md",
+                "file": "Lua/lua热更新写法参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Unity游戏破解工具/Records.md"
+                "file": "Lua/lua热更新写法参考.md"
               }
             }
           }
@@ -172,53 +172,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ec0e7b0fe4b3d0a",
+  "active": "d451696d8f2b427b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Teach/Unity游戏破解工具/Records.md",
-    "Teach/Unity游戏破解工具",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Computer.md",
-    "小吏.md",
-    "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
-    "Books/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
+    "GPU/ManRun.md",
+    "GPU/fps.md",
+    "GPU/CreateAlot.md",
+    "GPU/BakeEditor.md",
+    "English/d2.md",
     "Texture压缩方式及其原理.pdf",
+    "WorkPlan.md",
+    "Untitled 1.md",
+    "English/d3.md",
+    "English/d1.md",
+    "English/23-12-11.md",
+    "Excalidraw/qiangpao.md",
     "TaskStack.md",
-    "jiubian.md",
-    "吃药指南.md",
-    "ACommands.md",
     "Temp.md",
+    "jiubian.md",
+    "Computer.md",
+    "ACommands.md",
+    "Teach/Unity/知识点/ScriptableObject.md",
+    "Pics/Pasted image 20240531144554.png",
+    "Teach/Unity/知识点",
+    "小吏.md",
+    "Work/粒子添加.md",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/Unity坑记录/Package.md",
+    "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
+    "Pics/Pasted image 20240531095309.png",
+    "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
+    "Teach/Unity游戏破解工具/Records.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "Untitled 2.md",
+    "Pics/5aa8e96d18d69.png",
+    "Pics/3.png",
+    "Pics/2.png",
+    "Pics/1.png",
+    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
+    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
+    "Lua",
+    "Books/游戏编程模式_美_Robert_Nystrom_尼斯卓姆_Z_Library.pdf",
+    "Books/游戏编程模式 (游戏设计与开发) ([美] Robert Nystrom 尼斯卓姆) (Z-Library).azw3",
+    "Pics/Pasted image 20240528092433.png",
+    "Pics/Pasted image 20240528092408.png",
+    "Teach/Unity游戏破解工具",
+    "Books/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
     "Books/readme.pdf",
-    "Books/Unity性能优化 C#篇.pdf",
-    "Teach/Unity/Render/Shader/ShaderRecords.md",
-    "Books/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
-    "Teach/小番茄破解方法.md",
-    "Teach/Unity/DC策略.md",
-    "Teach/Unity/破解方法.md",
-    "Teach/Unity/性能优化/DC篇幅.md",
-    "Teach/Unity/性能优化/Unity UGUI合批相关.md",
-    "Teach/Unity/Render/渲染顺序.md",
-    "Teach/Unity/Continue.md",
-    "Teach/Unity/伽马校正.md",
-    "Teach/Unity/性能优化/DC篇.md",
-    "Teach/Unity/性能优化/设置篇.md",
-    "Teach/Unity/性能优化/降低GC.md",
-    "Pics/Pasted image 20240506102440.png",
-    "Pics/Pasted image 20240506102422.png",
-    "Pics/Pasted image 20240506101418.png",
-    "Pics/Pasted image 20240506101346.png",
-    "Pics/Pasted image 20240506101054.png",
-    "Pics/Pasted image 20240506095657.png",
-    "Pics/Pasted image 20240506095645.png",
-    "Pics/Pasted image 20240506094052.png",
-    "A-T/Precious Urls.md",
-    "A-T/MyAccounts.md",
-    "A-T/BooksQueue.md",
-    "Pics/Pasted image 20240425172732.png",
-    "Pics/Pasted image 20240425160803.png",
-    "208-虚拟货币的秘密，兼谈比特币的未来和各国的战略布局.pdf",
-    "status",
-    "Work/心得"
+    "Books/Unity性能优化 C#篇.pdf"
   ]
 }

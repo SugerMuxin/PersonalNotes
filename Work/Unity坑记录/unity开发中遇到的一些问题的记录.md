@@ -11,3 +11,6 @@
 >原因：gp审核对abb包下的base文件夹做了限制
 >解决方法： 勾选  PublisSettings/SplitApplicationBinary  即可
 
+
+>3.图片不显示问题（IOS上未知的图片不显示问题）
+>![[Pasted image 20240531095309.png]]

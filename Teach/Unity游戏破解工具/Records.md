@@ -9,3 +9,23 @@ https://github.com/AssetRipper/AssetRipper/releases
 
 4.Assets Studio
 https://github.com/Perfare/AssetStudio
+
+
+Demo资源
+ [https://pan.baidu.com/s/1twpvb1Yja-fJJ790uXKAvg](https://link.zhihu.com/?target=https%3A//links.jianshu.com/go%3Fto%3Dhttps%253A%252F%252Fpan.baidu.com%252Fs%252F1twpvb1Yja-fJJ790uXKAvg) 密码: tk7z
+
+链接：https://pan.baidu.com/s/1SkRgK4WC5Bact9vcmUmJfg?pwd=fhab 
+提取码：fhab 
+
+
+【unity3D模型 城市马路道路赛车开车完整项目源码 游戏手游素材】
+链接：https://pan.baidu.com/s/1KDnBEJYmvbQuYkGfjJ-H6A 
+提取码：q890
+
+
+
+可以使用的项目记录
+![[Pasted image 20240527141231.png]]
+![[Pasted image 20240527141245.png]]
+![[Pasted image 20240527141259.png]]
+
