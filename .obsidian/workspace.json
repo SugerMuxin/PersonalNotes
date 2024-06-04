@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41ef2a1e16661c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Ignore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5b047edf39f9bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lua/lua热更新写法参考.md",
+                "file": "test2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lua/lua热更新写法参考.md",
+                "file": "test2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lua/lua热更新写法参考.md"
+                "file": "test2.md"
               }
             }
           }
@@ -172,8 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d451696d8f2b427b",
+  "active": "a5b047edf39f9bf5",
   "lastOpenFiles": [
+    "Books/Ignore.md",
+    "test2.md",
+    "Lua/lua热更新写法参考.md",
     "GPU/ManRun.md",
     "GPU/fps.md",
     "GPU/CreateAlot.md",
@@ -202,8 +229,6 @@
     "Pics/Pasted image 20240531095309.png",
     "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
     "Teach/Unity游戏破解工具/Records.md",
-    "Teach/C#/数组,ArrayList,List的区别.md",
-    "Untitled 2.md",
     "Pics/5aa8e96d18d69.png",
     "Pics/3.png",
     "Pics/2.png",

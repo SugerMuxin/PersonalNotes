@@ -1,1 +1,3 @@
-.obsidian/*
+#忽略文件目录
+.obsidian/
+Books/
