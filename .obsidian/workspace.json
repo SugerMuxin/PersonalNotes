@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b0355cf02177a6",
+        "id": "bf6afdf16f30d7ea",
         "type": "tabs",
         "children": [
           {
-            "id": "0693277109b88f21",
+            "id": "a2eda9ea53b6b035",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkPlan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ec0e7b0fe4b3d0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WorkPlan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d451696d8f2b427b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lua/lua热更新写法参考.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41ef2a1e16661c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Ignore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5b047edf39f9bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test2.md",
+                "file": "Teach/TeamCity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test2.md",
+                "file": "Teach/TeamCity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test2.md",
+                "file": "Teach/TeamCity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test2.md"
+                "file": "Teach/TeamCity.md"
               }
             }
           }
@@ -196,25 +147,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5b047edf39f9bf5",
+  "active": "4a7fdac01dd5362a",
   "lastOpenFiles": [
-    "Books/Ignore.md",
+    "English/23-12-11.md",
+    "English/d4.md",
+    "English/d3.md",
+    "Teach/Unity游戏破解工具/Records.md",
+    "Teach/Moto.md",
+    "GPU/BakeEditor.md",
+    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
+    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
+    "WorkPlan.md",
+    "Texture压缩方式及其原理.pdf",
+    "Temp.md",
     "test2.md",
+    "English/d1.md",
     "Lua/lua热更新写法参考.md",
+    "Books/Ignore.md",
+    "English/d2.md",
     "GPU/ManRun.md",
     "GPU/fps.md",
     "GPU/CreateAlot.md",
-    "GPU/BakeEditor.md",
-    "English/d2.md",
-    "Texture压缩方式及其原理.pdf",
-    "WorkPlan.md",
     "Untitled 1.md",
-    "English/d3.md",
-    "English/d1.md",
-    "English/23-12-11.md",
     "Excalidraw/qiangpao.md",
     "TaskStack.md",
-    "Temp.md",
     "jiubian.md",
     "Computer.md",
     "ACommands.md",
@@ -224,17 +180,12 @@
     "小吏.md",
     "Work/粒子添加.md",
     "Work/帝国项目添加粒子特效的两种方法.md",
-    "Work/Unity坑记录/Package.md",
-    "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
     "Pics/Pasted image 20240531095309.png",
     "Books/JW-10207_Unity_eBook_OptimizeYourMobileGamePerformance_V6_May2021.pdf",
-    "Teach/Unity游戏破解工具/Records.md",
     "Pics/5aa8e96d18d69.png",
     "Pics/3.png",
     "Pics/2.png",
     "Pics/1.png",
-    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B}.png",
-    "Pics/{F1ABEDC0-DA6F-484D-B6E3-A0461A04432B} 1.png",
     "Lua",
     "Books/游戏编程模式_美_Robert_Nystrom_尼斯卓姆_Z_Library.pdf",
     "Books/游戏编程模式 (游戏设计与开发) ([美] Robert Nystrom 尼斯卓姆) (Z-Library).azw3",
