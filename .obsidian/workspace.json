@@ -8,21 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2946d0cb5133651",
+            "id": "d6e77806dc04a321",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf"
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "06cdf925709c45b5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -31,26 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkPlan.md",
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 3 The Graphics Processing Unit 图形处理单元.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ab1b935f00691b1",
+            "id": "3578ca9ea629fc11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
+                "file": "Teach/Unity/Render/Shader/Section8 透明效果.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 466.5
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -116,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md"
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md"
               }
             }
           }
@@ -179,55 +172,55 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "4ab1b935f00691b1",
+  "active": "d6e77806dc04a321",
   "lastOpenFiles": [
-    "A-T/quaternion.pdf",
-    "TodoList.md",
-    "TaskStack.md",
-    "Temp.md",
-    "Untitled.canvas",
-    "Work/项目/Untitled 1.canvas",
-    "Work/项目/miwu.md",
-    "Pics/Pasted image 20240718092149.png",
-    "Work/项目",
-    "Excalidraw/Drawing 2024-06-13 16.35.47.excalidraw.md",
-    "Excalidraw/qiangpao.md",
-    "Excalidraw/Drawing 2024-07-18 08.33.50.excalidraw.md",
-    "Texture压缩方式及其原理.pdf",
-    "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
+    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 3 The Graphics Processing Unit 图形处理单元.md",
+    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md",
+    "Teach/Unity/Render/参数.md",
+    "Teach/Unity/Render/Shader/Section8 透明效果.md",
+    "A-T/Precious Urls.md",
+    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 4 Transform 变换.md",
     "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 1 Introduction 简介.md",
-    "ACommands.md",
-    "Visual Studio 2017 安装Visual Assist X 及破解方法.md",
-    "Books/PDF/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
     "Books/Epub/碌碌有为_微观历史视野下的中国社会与民众_全2册_王笛老师新作_文字版_Z_Library.epub",
-    "Teach/Unity/AssetBundle相关.md",
-    "Teach/Unity/MS问题.md",
-    "Teach/Unity/Unity Optimize.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "WorkPlan.md",
-    "Computer.md",
-    "DemoSteps.md",
-    "jiubian.md",
-    "A-T/RuoSaChen/热评/摘录.md",
-    "A-T/HuiBen/Untitled.md",
-    "A-T/文摘/韩国令.md",
-    "A-T/慢炖/秦始皇那么牛咋就不能把匈奴给端了.md",
-    "A-T/慢炖/太白金星有点烦回复.md",
-    "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md",
-    "A-T/文摘/我在印度的701天.md",
-    "Pics/Pasted image 20240708085246.png",
-    "Pics/Pasted image 20240708085241.png",
+    "GPU/BakeEditor.md",
+    "Lua/lua热更新写法参考.md",
+    "Teach/Tools/Best Tools.md",
+    "Teach/StableDiffusion/Basics.md",
+    "Teach/Git/My Git.md",
+    "Teach/Git/GitRespo.md",
+    "Teach/Git/Git use records.md",
+    "Teach/Git/Git Problems.md",
+    "Teach/Git/git 仓库拉取和提交的办法.md",
+    "Teach/C#/CSharpRespo.md",
+    "Teach/C#/VSCODE.md",
+    "Teach/C#/Dispose.md",
+    "Teach/C#/Attribute的使用记录.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "Teach/BlockChain/qukuai.md",
+    "Work/RAR/Up Details.md",
+    "Work/Visual Studio 2017 安装Visual Assist X 及破解方法.md",
+    "Work/通用组件.md",
+    "Work/命名规范.md",
+    "ZEmoj/a-file.svg",
+    "Life",
+    "ZEmoj/a-folder.svg",
+    "ZEmoj/biary2.svg",
+    "ZEmoj/svg2.svg",
+    "ZEmoj/c++.svg",
+    "ZEmoj/biary.svg",
+    "ZEmoj/filenew.svg",
+    "ZEmoj/svg.svg",
+    "ZEmoj/title.svg",
+    "ZEmoj/title2.svg",
+    "Untitled.canvas",
+    "Books/Texture压缩方式及其原理.pdf",
+    "Pics/Alliance_boss_reward_rank.json",
+    "Work/项目/Untitled 1.canvas",
+    "A-T/quaternion.pdf",
+    "Work/项目",
+    "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
+    "Books/PDF/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
     "A-T/HuiBen",
-    "Pics/Pasted image 20240627143850.png",
-    "Pics/Pasted image 20240627143523.png",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/images/Chapter-1/202211011128769.png",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/images/Chapter-1/202211011124394.png",
-    "Books/PDF/Unity性能优化 C#篇.pdf",
-    "Books/PDF/quaternion.pdf",
-    "Books/PDF/游戏编程模式_美_Robert_Nystrom_尼斯卓姆_Z_Library.pdf",
-    "Books/PDF/readme.pdf",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/images/Chapter-15/202309040939449.png",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/images/Chapter-9/20230611110644.png",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/images/Chapter-9/20230611110442.png"
+    "Books/PDF/Unity性能优化 C#篇.pdf"
   ]
 }

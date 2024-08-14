@@ -39,8 +39,6 @@ git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```
 
-
-
 其他的git commands
 
 1. git status  查看能被上传的文件

@@ -2,3 +2,4 @@
 ![[Pasted image 20240718092149.png]]
 使用64字节来保存解锁的地块数（0代表解锁的，1是未解锁的）（服务器的 “userAreaLockInfo” 字段）
 
+![[Pasted image 20240729164112.png]]
