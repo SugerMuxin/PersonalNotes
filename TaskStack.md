@@ -1,7 +1,7 @@
 #### <span style="color:yellow;">Emergency Events</span>
 
 1. ETX  DXT PVRTC ASTC 压缩原理
-2. Hello World的生命周期
+2. Hello World 的生命周期
 
 
 #### <span style="color:green;">Rank List</span> 
@@ -12,3 +12,4 @@ https://zhuanlan.zhihu.com/p/36884005   (帧同步和状态同步)
 
 #### <span style="color:green;">Unity Rank List</span> 
 >1.怎么实现战斗角色身上的实时伤痕效果？
+>2.不同的动画插件之间该怎么选择？
