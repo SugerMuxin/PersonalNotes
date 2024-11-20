@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/Daily/全球科技史摘录以及读后感.md",
+                "file": "A-T/Daily/贯穿整个人类发展史的能量定律.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全球科技史摘录以及读后感"
+              "title": "贯穿整个人类发展史的能量定律"
             }
           },
           {
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "科技",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A-T/Daily/全球科技史摘录以及读后感.md",
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 全球科技史摘录以及读后感"
+              "title": "Backlinks for git 仓库拉取和提交的办法"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A-T/Daily/全球科技史摘录以及读后感.md",
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 全球科技史摘录以及读后感"
+              "title": "Outgoing links from git 仓库拉取和提交的办法"
             }
           },
           {
@@ -163,10 +163,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A-T/Daily/全球科技史摘录以及读后感.md"
+                "file": "Teach/Git/git 仓库拉取和提交的办法.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 全球科技史摘录以及读后感"
+              "title": "Outline of git 仓库拉取和提交的办法"
             }
           }
         ]
@@ -187,35 +187,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6e77806dc04a321",
+  "active": "4a7fdac01dd5362a",
   "lastOpenFiles": [
-    "A-T/Daily/家长会小记.md",
+    "Work/项目/Untitled.md",
+    "Work/项目/Projects.md",
+    "Work/Untitled.md",
+    "Untitled 3.md",
+    "Teach/Unity/知识点/Texture,Sprites.md",
+    "Teach/Unity/Settings.md",
+    "Teach/Unity/Render/Shader/Shader Tech Records.md",
+    "Teach/Unity/PrefabBacker.md",
+    "Teach/Unity/ECS.md",
+    "Teach/Unity/AVProvideo插件.md",
+    "Teach/To Check List.md",
+    "Teach/CSHARP2IL.md",
+    "Teach/C#/小番茄破解方法.md",
+    "Teach/C#/High Quality Program.md",
+    "Pics/SMART-Graphic.png.webp",
+    "Local/Backpack/Records.txt",
+    "Local/desc.txt",
+    "Local/Backpack",
+    "Local",
+    "Life/Untitled.md",
+    "English/Day 01.md",
+    "A-T/文摘/辞藻类/Untitled.md",
+    "A-T/Daily/货币的演变对社会发展的影响.md",
+    "A-T/Daily/Diary/Untitled.md",
     "A-T/Daily/全球科技史摘录以及读后感.md",
-    "A-T/Daily/Untitled.md",
-    "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md",
-    "A-T/文摘/Untitled.md",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 3 The Graphics Processing Unit 图形处理单元.md",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 2 The Graphics Rendering Pipeline 图形渲染管线.md",
-    "Teach/Unity/Render/参数.md",
-    "Teach/Unity/Render/Shader/Section8 透明效果.md",
+    "A-T/Daily/贯穿整个人类发展史的能量定律.md",
+    "A-T/Daily/Diary/2023.12.09.md",
+    "A-T/Titles.md",
+    "A-T/quaternion.pdf",
     "A-T/Precious Urls.md",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 4 Transform 变换.md",
-    "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 1 Introduction 简介.md",
+    "A-T/MyAccounts.md",
+    "A-T/liuxiu.md",
     "Books/Epub/碌碌有为_微观历史视野下的中国社会与民众_全2册_王笛老师新作_文字版_Z_Library.epub",
-    "GPU/BakeEditor.md",
-    "Lua/lua热更新写法参考.md",
-    "Teach/Tools/Best Tools.md",
-    "Teach/StableDiffusion/Basics.md",
-    "Teach/Git/My Git.md",
-    "Teach/Git/GitRespo.md",
-    "Teach/Git/Git use records.md",
-    "Teach/Git/Git Problems.md",
-    "Teach/Git/git 仓库拉取和提交的办法.md",
-    "Teach/C#/CSharpRespo.md",
-    "Teach/C#/VSCODE.md",
-    "Teach/C#/Dispose.md",
-    "Teach/C#/Attribute的使用记录.md",
-    "Teach/C#/数组,ArrayList,List的区别.md",
     "ZEmoj/a-file.svg",
     "Life",
     "ZEmoj/a-folder.svg",
@@ -226,16 +232,10 @@
     "ZEmoj/filenew.svg",
     "ZEmoj/svg.svg",
     "ZEmoj/title.svg",
-    "ZEmoj/title2.svg",
     "Untitled.canvas",
     "Books/Texture压缩方式及其原理.pdf",
     "Pics/Alliance_boss_reward_rank.json",
     "Work/项目/Untitled 1.canvas",
-    "A-T/quaternion.pdf",
-    "Work/项目",
-    "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
-    "Books/PDF/Unity Shader入门精要 ,冯乐乐 ,P369.pdf",
-    "A-T/HuiBen",
-    "Books/PDF/Unity性能优化 C#篇.pdf"
+    "Work/项目"
   ]
 }
