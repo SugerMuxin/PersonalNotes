@@ -33,3 +33,5 @@ public class WeaponComponent : Entity{
 Refrences
 1. https://blog.codingnow.com/2017/06/overwatch_ecs.html
 2. https://www.lfzxb.top/ow-gdc-gameplay-architecture-and-netcode/
+
+

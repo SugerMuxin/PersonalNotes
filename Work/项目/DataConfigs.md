@@ -1,0 +1,1 @@
+building_base_k2                  //建筑的士兵顺利按量加成

@@ -13,39 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A-T/Daily/贯穿整个人类发展史的能量定律.md",
+                "file": "Teach/Unity/Render/渲染顺序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "贯穿整个人类发展史的能量定律"
+              "title": "渲染顺序"
             }
           },
           {
-            "id": "60b734c93ca5d8df",
+            "id": "4ef233fc70a3a025",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Books/PDF/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library)"
             }
           },
           {
-            "id": "3578ca9ea629fc11",
+            "id": "b6a158e7f9b0f356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/Render/Shader/Section8 透明效果.md",
+                "file": "Temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section8 透明效果"
+              "title": "Temp"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "科技",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 336.5
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -117,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 5 Shading Basics 着色基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git 仓库拉取和提交的办法"
+              "title": "Backlinks for Chapter 5 Shading Basics 着色基础"
             }
           },
           {
@@ -136,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md",
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 5 Shading Basics 着色基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from git 仓库拉取和提交的办法"
+              "title": "Outgoing links from Chapter 5 Shading Basics 着色基础"
             }
           },
           {
@@ -163,79 +166,91 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/Git/git 仓库拉取和提交的办法.md"
+                "file": "A-T/MaoXingYun/Real-Time-Rendering-4th-CN/sourceFile/Chapter 5 Shading Basics 着色基础.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of git 仓库拉取和提交的办法"
+              "title": "Outline of Chapter 5 Shading Basics 着色基础"
+            }
+          },
+          {
+            "id": "9bfa857f59850e31",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
   "active": "4a7fdac01dd5362a",
   "lastOpenFiles": [
-    "Work/项目/Untitled.md",
-    "Work/项目/Projects.md",
-    "Work/Untitled.md",
-    "Untitled 3.md",
-    "Teach/Unity/知识点/Texture,Sprites.md",
-    "Teach/Unity/Settings.md",
-    "Teach/Unity/Render/Shader/Shader Tech Records.md",
-    "Teach/Unity/PrefabBacker.md",
-    "Teach/Unity/ECS.md",
-    "Teach/Unity/AVProvideo插件.md",
-    "Teach/To Check List.md",
-    "Teach/CSHARP2IL.md",
+    "Work/Tools/ADB相关记录.md",
+    "WorkPlan.md",
+    "Temp.md",
+    "Teach/Unity/Render/参考Shader效果.md",
+    "Teach/Unity/Render/jjj.md",
+    "Books/PDF/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
+    "Teach/Unity/Render/渲染顺序.md",
+    "Teach/Unity/Render/水滴shader效果.md",
+    "Teach/C#/Dispose.md",
     "Teach/C#/小番茄破解方法.md",
+    "Teach/C#/反射.md",
+    "Teach/Unity/Asmdef.md",
+    "Work/项目/DataConfigs.md",
+    "Work/项目/Untitled.md",
+    "Work/项目/Configs.md",
+    "Work/项目/Projects.md",
+    "Work/项目/miwu.md",
+    "Work/Tools/TeamCity.md",
+    "TaskStack.md",
+    "Teach/Tools/Best Tools.md",
+    "Teach/StableDiffusion/Basics.md",
+    "Teach/C#/VSCODE.md",
     "Teach/C#/High Quality Program.md",
-    "Pics/SMART-Graphic.png.webp",
-    "Local/Backpack/Records.txt",
-    "Local/desc.txt",
-    "Local/Backpack",
-    "Local",
-    "Life/Untitled.md",
-    "English/Day 01.md",
-    "A-T/文摘/辞藻类/Untitled.md",
-    "A-T/Daily/货币的演变对社会发展的影响.md",
-    "A-T/Daily/Diary/Untitled.md",
-    "A-T/Daily/全球科技史摘录以及读后感.md",
-    "A-T/Daily/贯穿整个人类发展史的能量定律.md",
-    "A-T/Daily/Diary/2023.12.09.md",
-    "A-T/Titles.md",
+    "Teach/C#/数组,ArrayList,List的区别.md",
+    "Teach/BlockChain/qukuai.md",
+    "Teach/AChildCode/WHY.md",
+    "A-T/Articles/九边/到底还能走多远.md",
     "A-T/quaternion.pdf",
-    "A-T/Precious Urls.md",
-    "A-T/MyAccounts.md",
-    "A-T/liuxiu.md",
-    "Books/Epub/碌碌有为_微观历史视野下的中国社会与民众_全2册_王笛老师新作_文字版_Z_Library.epub",
-    "ZEmoj/a-file.svg",
-    "Life",
-    "ZEmoj/a-folder.svg",
-    "ZEmoj/biary2.svg",
-    "ZEmoj/svg2.svg",
-    "ZEmoj/c++.svg",
-    "ZEmoj/biary.svg",
-    "ZEmoj/filenew.svg",
-    "ZEmoj/svg.svg",
-    "ZEmoj/title.svg",
+    "Teach/Unity/官方文档记录/代码/代码优化/JobSystem",
+    "Teach/Unity/官方文档记录/代码/代码优化",
+    "Teach/Unity/官方文档记录/代码",
+    "Pics/Pasted image 20241212150706.png",
+    "Pics/Pasted image 20241212150648.png",
+    "Pics/Pasted image 20241212135715.png",
+    "Teach/Unity/官方文档记录/Rending/Rending Pipelines",
+    "Teach/Unity/官方文档记录/Rending",
+    "Teach/Unity/官方文档记录",
+    "Pics/Visual Assist X 通用破解补丁 v2.0.rar",
+    "Pics/15622c0f1df7ecdf90fd0a0a45ac7ed7 (1).png",
+    "Pics/15622c0f1df7ecdf90fd0a0a45ac7ed7.png",
+    "Pics/Pasted image 20241210104252.png",
+    "Pics/loading 1.png",
+    "Pics/loading.png",
+    "Teach/AChildCode",
+    "Pics/SMART-Graphic.png.webp",
+    "Pics/Pasted image 20241120095152.png",
     "Untitled.canvas",
-    "Books/Texture压缩方式及其原理.pdf",
-    "Pics/Alliance_boss_reward_rank.json",
-    "Work/项目/Untitled 1.canvas",
-    "Work/项目"
+    "Work/项目/Untitled 1.canvas"
   ]
 }

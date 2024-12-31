@@ -43,3 +43,9 @@ git config --global --unset http.proxy
 
 1. git status  查看能被上传的文件
 2. touch .gitignore 可以创建一个.gitignore文件，
+
+
+
+-------------------------------------------------------------------------------------
+提交仓库出现如下错误之后（has no upstream branch）,使用红色标记的命令就可以完成上传和更新
+![[Pasted image 20241120095152.png]]
