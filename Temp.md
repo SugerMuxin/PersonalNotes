@@ -17,3 +17,13 @@
 80004070 NewFormationSetView_marchBtn
 	>80004075  	"cantClose":1,
 	>80004080    "cantClose":1,
+
+GTA2的一些字符串待修改
+
+![[Pasted image 20250103145419.png]]
+
+![[Pasted image 20250103145451.png]]
+
+
+
+医院在升级的过程中治疗的话不能加速，因为气泡上显示的是气泡的加速。应该优化为优先显示治疗的操作。

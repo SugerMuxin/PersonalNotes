@@ -11,5 +11,5 @@ https://zhuanlan.zhihu.com/p/36884005   (帧同步和状态同步)
 <<张子扬的编程之美>>
 
 #### <span style="color:green;">Unity Rank List</span> 
->1.怎么实现战斗角色身上的实时伤痕效果？
+>1.怎么实现战斗角色身上的实时伤痕效果？（贴花效果）
 >2.不同的动画插件之间该怎么选择？
