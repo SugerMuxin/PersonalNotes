@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/AI/OI搭建.md",
+                "file": "Work/Visual Studio 2022 安装小番茄方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OI搭建"
+              "title": "Visual Studio 2022 安装小番茄方法"
             }
           }
         ]
@@ -177,8 +177,24 @@
   },
   "active": "ac914af4d78e47fa",
   "lastOpenFiles": [
-    "Teach/KCP协议.md",
+    "Work/ComfyUI.md",
+    "Work/Visual Studio 2022 安装小番茄方法.md",
+    "Work/Visual Studio 2017 安装小番茄方法.md",
+    "Work/项目协议的记录.md",
+    "Work/项目通用组件记录.md",
+    "Work/项目命名规范.md",
+    "Work/项目表的记录.md",
+    "Work/粒子添加.md",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/常见问题Recrods Myself.md",
+    "Work/心得/关于游戏设计的一些想法.md",
+    "Work/Tools/TeamCity.md",
+    "Work/Tools/ADB相关记录.md",
+    "WorkPlan.md",
+    "TaskStack.md",
+    "Temp.md",
     "Teach/AI/OI搭建.md",
+    "Teach/KCP协议.md",
     "Teach/AI",
     "Teach/ToDolist.md",
     "Teach/Termux.md",
@@ -193,22 +209,6 @@
     "Work/SLG的一些个人想法.md",
     "Work/心得/SLG 自由行军的压力.md",
     "Work/心得/终于有人把游戏买量的生意模式讲清楚了.md",
-    "Work/心得/关于游戏设计的一些想法.md",
-    "Work/项目/Untitled.md",
-    "Work/Unity坑记录/Package.md",
-    "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
-    "Work/Unity坑记录/Optimizing performance in Unity.md",
-    "Work/常见问题recods.md",
-    "Work/项目协议的记录.md",
-    "Work/ComfyUI.md",
-    "Work/项目表的记录.md",
-    "Work/项目/Configs.md",
-    "Work/项目/Projects.md",
-    "Work/项目/miwu.md",
-    "Work/项目/DataConfigs.md",
-    "Work/项目通用组件记录.md",
-    "Work/项目命名规范.md",
-    "Work/粒子添加.md",
     "Books/quaternion.pdf",
     "Pics/Pasted image 20250117094346.png",
     "Books/PDF/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
