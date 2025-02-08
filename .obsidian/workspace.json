@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkPlan.md",
+                "file": "Teach/AI/OI搭建.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WorkPlan"
+              "title": "OI搭建"
             }
           }
         ],
@@ -191,8 +191,9 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "4a7fdac01dd5362a",
+  "active": "ef72f94f4ee35037",
   "lastOpenFiles": [
+    "WorkPlan.md",
     "Teach/AI/readme.txt",
     "Teach/AI/set_path.bat",
     "Temp.md",
@@ -210,7 +211,6 @@
     "Work/心得/关于游戏设计的一些想法.md",
     "Work/Tools/TeamCity.md",
     "Work/Tools/ADB相关记录.md",
-    "WorkPlan.md",
     "Teach/AI/OI搭建.md",
     "Teach/KCP协议.md",
     "Teach/AI",
@@ -238,7 +238,6 @@
     "Pics/Pasted image 20241212150648.png",
     "Teach/Unity/官方文档记录/Rending/Rending Pipelines",
     "Teach/Unity/官方文档记录/Rending",
-    "Teach/Unity/官方文档记录",
     "Untitled.canvas",
     "Work/项目/Untitled 1.canvas"
   ]
