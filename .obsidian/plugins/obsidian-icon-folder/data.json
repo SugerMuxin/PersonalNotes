@@ -125,7 +125,7 @@
   "Pics/zbooks.png": "🖼",
   "Teach/Unity/GPU Instancing.md": "LoMy1",
   "A-T/Precious Urls.md": "SiMdbook",
-  "A-T/BooksQueue.md": "SiMdbook",
+  "A-T/BooksQueue.md": "LoMy1",
   "A-T/MyAccounts.md": "SiMdbook",
   "TaskStack.md": "LoMy1",
   "Teach/ToDolist.md": "LoMy1",
@@ -277,5 +277,6 @@
   "A-T/Articles/孩子不听你的该怎么办.md": "SiMdbook",
   "Work/Unity坑记录/Optimizing performance in Unity.md": "SiMdbook",
   "Teach/AI": "IbFolder",
-  "Teach/AI/OI搭建.md": "RiFileListLine"
+  "Teach/AI/OI搭建.md": "RiFileListLine",
+  "A-T/DoList.md": "LoMy1"
 }

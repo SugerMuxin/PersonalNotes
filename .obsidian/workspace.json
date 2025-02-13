@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/AI/OI搭建.md",
+                "file": "Work/SLG的一些个人想法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OI搭建"
+              "title": "SLG的一些个人想法"
             }
           }
         ],
@@ -162,13 +162,13 @@
             }
           },
           {
-            "id": "9bfa857f59850e31",
+            "id": "ebf8421746d6c647",
             "type": "leaf",
             "state": {
               "type": "pomodoro-history-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "alarm-clock",
+              "title": "Pomodoro"
             }
           }
         ],
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,11 +192,25 @@
   },
   "active": "ef72f94f4ee35037",
   "lastOpenFiles": [
+    "Teach/AI/OI搭建.md",
+    "Excalidraw/qiangpao.md",
+    "Temp.md",
     "WorkPlan.md",
+    "TaskStack.md",
+    "Cursor-Hex.md",
+    "TaskName.md",
+    "A-T/Plan of 2025.md",
+    "A-T/DoList.md",
+    "A-T/MyAccounts.md",
+    "A-T/liuxiu.md",
+    "A-T/BooksQueue.md",
+    "A-T/小吏.md",
+    "Work/mail.md",
+    "().md",
+    "A-T/Precious Urls.md",
+    "Untitled.canvas",
     "Teach/AI/readme.txt",
     "Teach/AI/set_path.bat",
-    "Temp.md",
-    "TaskStack.md",
     "Work/ComfyUI.md",
     "Work/Visual Studio 2022 安装小番茄方法.md",
     "Work/Visual Studio 2017 安装小番茄方法.md",
@@ -208,24 +221,12 @@
     "Work/粒子添加.md",
     "Work/帝国项目添加粒子特效的两种方法.md",
     "Work/常见问题Recrods Myself.md",
-    "Work/心得/关于游戏设计的一些想法.md",
-    "Work/Tools/TeamCity.md",
-    "Work/Tools/ADB相关记录.md",
-    "Teach/AI/OI搭建.md",
-    "Teach/KCP协议.md",
     "Teach/AI",
-    "Teach/ToDolist.md",
-    "Teach/Termux.md",
-    "Teach/浮点数转化成二进制.md",
-    "Teach/ComfyUI配置.md",
-    "Teach/Computer.md",
     "Pics/Pasted image 20250122174237.png",
     "Pics/Pasted image 20250122174208.png",
     "Pics/Pasted image 20250122174156.png",
     "Pics/Pasted image 20250122174147.png",
     "Pics/Pasted image 20250122174140.png",
-    "Work/SLG的一些个人想法.md",
-    "Work/心得/SLG 自由行军的压力.md",
     "Books/quaternion.pdf",
     "Pics/Pasted image 20250117094346.png",
     "Books/PDF/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
@@ -238,7 +239,6 @@
     "Pics/Pasted image 20241212150648.png",
     "Teach/Unity/官方文档记录/Rending/Rending Pipelines",
     "Teach/Unity/官方文档记录/Rending",
-    "Untitled.canvas",
     "Work/项目/Untitled 1.canvas"
   ]
 }
