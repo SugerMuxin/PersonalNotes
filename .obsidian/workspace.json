@@ -13,30 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Visual Studio 2022 安装小番茄方法.md",
+                "file": "WorkPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual Studio 2022 安装小番茄方法"
+              "title": "WorkPlan"
             }
           },
           {
-            "id": "ef72f94f4ee35037",
+            "id": "47ec171841108151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/SLG的一些个人想法.md",
+                "file": "Teach/AI/OI搭建/readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SLG的一些个人想法"
+              "title": "readme"
+            }
+          },
+          {
+            "id": "5a9ed22ee0c7ae6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teach/AI/ComfyUI教程/ComfyUI教程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ComfyUI教程"
+            }
+          },
+          {
+            "id": "6f510e7bf648383e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -167,8 +195,8 @@
             "state": {
               "type": "pomodoro-history-view",
               "state": {},
-              "icon": "alarm-clock",
-              "title": "Pomodoro"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -176,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,37 +219,44 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "ef72f94f4ee35037",
+  "active": "5a9ed22ee0c7ae6a",
   "lastOpenFiles": [
-    "Teach/AI/OI搭建.md",
-    "Excalidraw/qiangpao.md",
-    "Temp.md",
+    "Untitled.md",
+    "Teach/AI/ComfyUI教程/ComfyUI教程.md",
+    "Pics/Pasted image 20250220162114.png",
+    "Work/Tools/ADB相关记录.md",
+    "Teach/AI/OI搭建/readme.md",
+    "Teach/AI/OI搭建/OI搭建.md",
+    "Teach/AI/ComfyUI教程",
+    "Teach/AI/OI搭建/readme.txt",
+    "Teach/AI/OI搭建/installer_files.bat",
+    "Teach/AI/OI搭建/cmd_windows.bat",
+    "Teach/AI/OI搭建",
+    "Untitled 1.md",
     "WorkPlan.md",
+    "Temp.md",
+    "Life/IDEA.md",
+    "Life/我的橘子.md",
+    "Life/他们的橘子.md",
+    "Lua/lua热更新写法参考.md",
     "TaskStack.md",
-    "Cursor-Hex.md",
-    "TaskName.md",
-    "A-T/Plan of 2025.md",
-    "A-T/DoList.md",
-    "A-T/MyAccounts.md",
-    "A-T/liuxiu.md",
-    "A-T/BooksQueue.md",
-    "A-T/小吏.md",
-    "Work/mail.md",
-    "().md",
-    "A-T/Precious Urls.md",
+    "Work/Visual Studio 2022 安装小番茄方法.md",
+    "Work/Visual Studio 2017 安装小番茄方法.md",
+    "Work/SLG的一些个人想法.md",
+    "Work/ComfyUI.md",
+    "Work/项目命名规范.md",
+    "Work/项目通用组件记录.md",
+    "Work/心得/关于游戏设计的一些想法.md",
+    "Work/心得/终于有人把游戏买量的生意模式讲清楚了.md",
+    "Work/心得/SLG 自由行军的压力.md",
+    "Work/项目/Configs.md",
+    "Work/项目/DataConfigs.md",
+    "Work/项目/GTA Problems.md",
+    "Pics/Snipaste_2025-02-14_08-57-13 1.png",
+    "Pics/Snipaste_2025-02-14_08-57-13.png",
     "Untitled.canvas",
     "Teach/AI/readme.txt",
     "Teach/AI/set_path.bat",
-    "Work/ComfyUI.md",
-    "Work/Visual Studio 2022 安装小番茄方法.md",
-    "Work/Visual Studio 2017 安装小番茄方法.md",
-    "Work/项目协议的记录.md",
-    "Work/项目通用组件记录.md",
-    "Work/项目命名规范.md",
-    "Work/项目表的记录.md",
-    "Work/粒子添加.md",
-    "Work/帝国项目添加粒子特效的两种方法.md",
-    "Work/常见问题Recrods Myself.md",
     "Teach/AI",
     "Pics/Pasted image 20250122174237.png",
     "Pics/Pasted image 20250122174208.png",
@@ -231,14 +267,6 @@
     "Pics/Pasted image 20250117094346.png",
     "Books/PDF/重构：改善既有代码的设计（第2版）（异步图书） (马丁·福勒(Martin Fowler) [马丁·福勒(Martin Fowler)]) (Z-Library).pdf",
     "Pics/Pasted image 20250103145451.png",
-    "Pics/Pasted image 20250103145419.png",
-    "Teach/Unity/官方文档记录/代码/代码优化/JobSystem",
-    "Teach/Unity/官方文档记录/代码/代码优化",
-    "Teach/Unity/官方文档记录/代码",
-    "Pics/Pasted image 20241212150706.png",
-    "Pics/Pasted image 20241212150648.png",
-    "Teach/Unity/官方文档记录/Rending/Rending Pipelines",
-    "Teach/Unity/官方文档记录/Rending",
     "Work/项目/Untitled 1.canvas"
   ]
 }
