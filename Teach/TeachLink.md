@@ -1,2 +1,0 @@
-[[CSharpRespo]]
-[[GitRespo]]
