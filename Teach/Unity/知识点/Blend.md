@@ -42,6 +42,13 @@
 >     Color1 = 当前片元的RGB
 > 	 Color2 = 缓冲区颜色
 > 	 Color = Color1 + Color2
+
+
+>  Blend SrcAlpha One
+> 	 Color1 = 当前片元的RGB
+> 	 Color2 = 缓冲区颜色
+> 	 Color = (1 - Color1).A * Color1 + Color2
+> 	 在缓冲区上叠加当前颜色
  
    
    
