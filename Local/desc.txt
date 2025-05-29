@@ -1,4 +1,0 @@
-Local
-Books
-.obsidian
-这几个目录都是本地目录，不上传
