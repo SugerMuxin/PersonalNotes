@@ -14,3 +14,6 @@ star2:
 安装完上面的步骤之后下面的就是下载对应的模型和配置工作流了
 1. comfyui flux.1 gguf 配置 ,下面的链接是配置 comfyui flux gguf 的配置方案
 	 https://www.e2enetworks.com/blog/guide-to-image-generation-using-flux-1-dev-gguf-with-comfyui
+
+
+//此目录下存在两个bat文件 用于启动的(雷神提供)
