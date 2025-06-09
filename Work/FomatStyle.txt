@@ -1,0 +1,1 @@
+--style=java --indent=spaces=4 --align-pointer=type --align-reference=none --indent-classes --indent-switches --indent-cases --indent-labels --pad-oper --unpad-paren --keep-one-line-blocks --keep-one-line-statements --convert-tabs --mode=cs
