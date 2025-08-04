@@ -27,6 +27,8 @@
 	account : xfc_arron@163.com    psw: xfc123456789   ||  Xfc123456789  ||  xiongfucheng
 
 
+8. FoxEmail  xiong.fch@joymeng.com
+	y7zRV3yyhm32
 
 
 ---------------------Coin-----------------------------------------------------------------------------------------
@@ -35,5 +37,19 @@
 
 
 
+帝国打包机
+10.80.4.160
+账号 Administrator
+密码 76dd4b8bd60ead0527e98067902a18a0
+
+红警打包机
+10.80.4.125
+账号 Administrator
+密码 BBDD1080@4125!
+
+
+10.80.4.122
+账号 Administrator
+密码 BBDD1080@4122!
 
 
