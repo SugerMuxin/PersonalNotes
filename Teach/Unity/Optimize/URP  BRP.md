@@ -5,5 +5,6 @@ https://catlikecoding.com/unity/tutorials/basics/measuring-performance/
 2. URP 的Dynamic batching 对阴影并不生效，这就是为啥在URP中使用dynamic batching的效果不如 BRP中的 db的原因。而GPU Instancing 却会表现优异
  ![[Pasted image 20250714151022.png]]
 
+在实时光照的开放世界或者说大一些的3D场景中使URP 会得到非常大的性能提升。主要是阴影能够合批
 
 

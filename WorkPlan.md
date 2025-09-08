@@ -1,3 +1,34 @@
+<span style="color:yellow;">2025.9.8  --- 2025.9.12</span>
+1. KINGSHOT的内城建筑操作相关修改   16
+2. KINSHOT3D 内城建筑操作UI相关添加 16
+3. KINSHOT3D 和战斗角色交互部分修改 8
+4. 帝国测试问题修改               4
+5. 红警引导流程串联配合        8
+
+
+<span style="color:yellow;">2025.9.1  --- 2025.9.4</span>
+红警走格子版本引导修改配合     8
+红警的战败修改                        16
+帝国版本引导修改                     4
+KingShot内城的玩法调整          12                  
+
+
+<span style="color:yellow;">2025.8.25  --- 2025.8.29</span>
+帝国前期引导调整          8   
+KINSHOT3D内城添加动态细节        12
+KINSHOT3D内城建筑交互优化        12
+KINSHOT3D相关UI换皮修改            8
+
+<span style="color:yellow;">2025.8.18  --- 2025.8.22</span>
+KINSHOT3D内城自由行走版本优化          16
+KINSHOT3D相关UI开发修改等                 12
+KINSHOT3D战报对战功能                        12
+
+<span style="color:yellow;">2025.8.11  --- 2025.8.15</span>
+红警推格子版本前期流程配合                   8
+KINSHOT3D内城自由行走版本修改          12
+红警场景添加水面效果                               4
+KINSHOT3D相关UI开发                             16
 
 <span style="color:yellow;">2025.8.4  --- 2025.8.8</span>
 红警推格子版本前期流程配合              8
