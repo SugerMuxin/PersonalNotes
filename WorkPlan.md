@@ -1,3 +1,55 @@
+
+
+<span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
+1. Kingshot  内城场景展示效果优化   8
+2. Kingshot  内城和战斗及主题结构融合   16
+3. Kingshot  展示细节调整和批次优化   16
+
+
+<span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
+1. Kingshot  内城建造功能完善   8
+2. Kingshot  建筑产出和战斗及主题结构融合   16
+3. Kingshot 内城建筑展示和批次处理  16
+
+
+<span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
+1. Kingshot 新建筑添加    8
+2. Kingshot 建筑功能开发   16
+3. Kingshot 内城功能开发  16
+
+
+<span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
+1. 红警测试问题修改        16
+2. Kingshot 新建筑添加    8
+3. Kingshot 建筑功能开发   16
+
+
+<span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
+1. 红警测试问题修改        16
+2. Kingshot 新建筑添加    8
+
+
+
+<span style="color:yellow;">2025.9.28  --- 2025.9.30</span>
+1. 中东版本测试                8
+2. 红警测试问题修改         16
+
+
+
+<span style="color:yellow;">2025.9.22  --- 2025.9.26</span>
+1. 中东版本测试问题修改          8
+2. 红警版本测试问题修改          12
+3. KINGSHOT的内城生产功能    8
+4. KINGSHOT的内城兑换功能   12
+
+
+<span style="color:yellow;">2025.9.8  --- 2025.9.12</span>
+1. KINGSHOT的内城生产功能   8
+2. KINGSHOT的内城训练功能   8
+3. 红警版本前期流程串联配合        8
+
+
+
 <span style="color:yellow;">2025.9.8  --- 2025.9.12</span>
 1. KINGSHOT的内城建筑操作相关修改   16
 2. KINSHOT3D 内城建筑操作UI相关添加 16

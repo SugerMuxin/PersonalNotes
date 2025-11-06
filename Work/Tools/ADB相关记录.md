@@ -9,3 +9,9 @@
 
 ------------------------------------------------------------------------------------
 
+
+
+adb -s AJTLVB4B07004855 push H:\RVO.txt /storage/emulated/0/
+
+
+adb -s AJTLVB4B07004855 push H:\RVO.txt /storage/emulated/0/
