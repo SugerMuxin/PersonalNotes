@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"ee9abafaf0466637","x":280,"y":-510,"width":290,"height":300,"color":"4","type":"group","label":"ChunksObjects"},
+		{"id":"098ac36e16acb076","x":-180,"y":-260,"width":250,"height":60,"color":"4","type":"text","text":"Chunk"},
+		{"id":"b9bf74315b580f65","type":"text","text":"Chunk","x":-180,"y":-167,"width":250,"height":60,"color":"4"},
+		{"id":"d2c9e3453689d1ec","type":"text","text":"Chunk","x":-180,"y":-77,"width":250,"height":60,"color":"4"},
+		{"id":"30a45f26efab42b4","type":"text","text":"Chunk","x":-180,"y":20,"width":250,"height":60,"color":"4"},
+		{"id":"2c8302275b4fceaf","type":"text","text":"........","x":-180,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"0b6aed6006098928","x":-580,"y":-107,"width":250,"height":60,"color":"5","type":"text","text":"Map"},
+		{"id":"85556906cc12d93f","x":300,"y":-490,"width":250,"height":60,"color":"3","type":"text","text":"Physics"},
+		{"id":"7acdb8789ee0ce1c","x":300,"y":-390,"width":250,"height":60,"color":"#1b0ce9","type":"text","text":"Static"},
+		{"id":"e5f95ce2b6130eb3","x":300,"y":-290,"width":250,"height":60,"color":"6","type":"text","text":"Dynamic : NPC, House"},
+		{"id":"ee00b381b0205878","x":300,"y":-780,"width":250,"height":100,"color":"4","type":"text","text":"1.Lod\n2.Prioritys"}
+	],
+	"edges":[
+		{"id":"c45cea210f84cdba","fromNode":"0b6aed6006098928","fromSide":"right","toNode":"098ac36e16acb076","toSide":"left","color":"4"},
+		{"id":"6171e1c192392daa","fromNode":"0b6aed6006098928","fromSide":"right","toNode":"b9bf74315b580f65","toSide":"left","color":"4"},
+		{"id":"d7d6cd96bf291621","fromNode":"0b6aed6006098928","fromSide":"right","toNode":"d2c9e3453689d1ec","toSide":"left","color":"4"},
+		{"id":"994ebeb939f8dff2","fromNode":"0b6aed6006098928","fromSide":"right","toNode":"30a45f26efab42b4","toSide":"left","color":"4"},
+		{"id":"8090f5bccc7e52b5","fromNode":"0b6aed6006098928","fromSide":"right","toNode":"2c8302275b4fceaf","toSide":"left","color":"4","label":"more"},
+		{"id":"3955c3d04121fd33","fromNode":"098ac36e16acb076","fromSide":"right","toNode":"7acdb8789ee0ce1c","toSide":"left","color":"#221fdb"},
+		{"id":"a5951309208b3845","fromNode":"098ac36e16acb076","fromSide":"right","toNode":"85556906cc12d93f","toSide":"left","color":"3"},
+		{"id":"13b8e4f0fc4835f0","fromNode":"098ac36e16acb076","fromSide":"right","toNode":"e5f95ce2b6130eb3","toSide":"left","color":"6"},
+		{"id":"5bd5a5f32f4075af","fromNode":"ee00b381b0205878","fromSide":"bottom","toNode":"ee9abafaf0466637","toSide":"top","color":"4"}
+	]
+}

@@ -1,4 +1,17 @@
 
+<span style="color:yellow;">2025.11.17  --- 2025.11.21</span>
+1. Kingshot  仓库系统背包完善优化  16
+2. Kingshot  内城关卡编辑支持   16
+3. 场景战斗道具功能与数据部分串联  8
+
+
+
+<span style="color:yellow;">2025.11.10  --- 2025.11.14</span>
+1. Kingshot  仓库系统背包开发   24
+2. Kingshot  内城关卡编辑支持   8
+3. 场景掉落物体的功能开发  8
+
+
 
 <span style="color:yellow;">2025.10.9  --- 2025.10.11</span>
 1. Kingshot  内城场景展示效果优化   8
