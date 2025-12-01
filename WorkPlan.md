@@ -1,3 +1,18 @@
+<span style="color:yellow;">2025.12.1  --- 2025.12.5</span>
+
+1.背包物品拆堆功能                                 8
+2.和服务器调试背包协议和存档                16
+3.添加道具买卖逻辑                                16
+
+
+
+
+<span style="color:yellow;">2025.11.17  --- 2025.11.21</span>
+1. Kingshot  版本验收中问题修改   16           bug
+2. Kingshot  添加测试工具功能       8            bug
+3. Kingshot  地图配置序列化功能    16
+
+
 
 <span style="color:yellow;">2025.11.17  --- 2025.11.21</span>
 1. Kingshot  仓库系统背包完善优化  16
