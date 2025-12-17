@@ -1,14 +1,21 @@
 
+
+<span style="color:yellow;">2025.12.15  --- 2025.12.19</span>
+1. KingShot策划同步测试的一些问题修复                 8
+2. KingShot转移客户端端存档数据库                       16
+3. KingShot内城建筑基础功能开发                           16
+
+
 <span style="color:yellow;">2025.12.8  --- 2025.12.12</span>
-1.KingShot装备挂件功能开发                              16
-2.KingShot调试装备道具数据协议                       16
-3.KingShot内城建筑基础功能开发                        8
+1. KingShot装备挂件功能开发                              16
+2. KingShot调试装备道具数据协议                       16
+3. KingShot内城建筑基础功能开发                        8
 
 <span style="color:yellow;">2025.12.1  --- 2025.12.5</span>
 
-1.背包物品拆堆功能                                 8
-2.和服务器调试背包协议和存档                16
-3.添加道具买卖逻辑                                16
+1. 背包物品拆堆功能                                 8
+2. 和服务器调试背包协议和存档                16
+3. 添加道具买卖逻辑                                16
 
 <span style="color:yellow;">2025.11.17  --- 2025.11.21</span>
 1. Kingshot  版本验收中问题修改   16           bug

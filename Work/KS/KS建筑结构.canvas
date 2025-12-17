@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1e59603d26770142","type":"text","text":"Building","x":-2117,"y":-800,"width":117,"height":50,"color":"6"},
+		{"id":"7629a82f8cd81480","type":"text","text":"KSBuilding","x":-1947,"y":-800,"width":127,"height":50,"color":"6"},
+		{"id":"0c4af67d3ba27c42","type":"text","text":"FunBuild3D","x":-2074,"y":-496,"width":200,"height":60,"color":"4"},
+		{"id":"a1031cdcb49b0007","type":"file","file":"Pics/BuildingInfo.png","x":-2980,"y":-775,"width":709,"height":294},
+		{"id":"7e0c4a4faea6e3d2","type":"text","text":"<h1><font color=\"green\">内城建造相关</font></h1>","x":-2980,"y":-1040,"width":560,"height":80,"color":"6"},
+		{"id":"fb9c264597013535","type":"text","text":"Jsons","x":-2019,"y":-606,"width":91,"height":60,"color":"5"},
+		{"id":"417f53c82c8e618e","type":"text","text":"BuildTrigger","x":-1740,"y":-606,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"3d56a90bd3215688","fromNode":"fb9c264597013535","fromSide":"top","toNode":"1e59603d26770142","toSide":"bottom","color":"6"},
+		{"id":"d92c80aab1bd8427","fromNode":"fb9c264597013535","fromSide":"top","toNode":"7629a82f8cd81480","toSide":"bottom","color":"6"},
+		{"id":"cbbf6493524bb817","fromNode":"0c4af67d3ba27c42","fromSide":"top","toNode":"fb9c264597013535","toSide":"bottom","color":"5"},
+		{"id":"962a4a8bb379c42a","fromNode":"0c4af67d3ba27c42","fromSide":"right","toNode":"417f53c82c8e618e","toSide":"left","color":"3"}
+	]
+}
