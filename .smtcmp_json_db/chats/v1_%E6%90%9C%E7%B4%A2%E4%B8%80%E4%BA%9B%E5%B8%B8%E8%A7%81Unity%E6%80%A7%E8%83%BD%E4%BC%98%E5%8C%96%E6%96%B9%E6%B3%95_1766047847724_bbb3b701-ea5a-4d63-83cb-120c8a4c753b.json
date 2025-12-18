@@ -1,0 +1,188 @@
+{
+  "id": "bbb3b701-ea5a-4d63-83cb-120c8a4c753b",
+  "title": "搜索一些常见Unity性能优化方法",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "使用Mcp 搜索一些常见Unity性能优化方法",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n使用Mcp 搜索一些常见Unity性能优化方法\n\n"
+        }
+      ],
+      "id": "5cb3e654-3e6c-4e3e-98f4-1aabf6e59e9e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Canvas LLM.canvas-llm"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_3u49ie7hu2kpht0u78a0y85m",
+          "name": "firecrawl-mcp__firecrawl_search",
+          "arguments": "{\"query\": \"common Unity performance optimization methods\", \"limit\": 5.0, \"sources\": [{\"type\": \"web\"}]}"
+        }
+      ],
+      "id": "daa8ebb6-4f1f-4d20-b321-d52ea728bdec",
+      "metadata": {
+        "model": {
+          "providerType": "openai-compatible",
+          "providerId": "local",
+          "id": "code",
+          "model": "code",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "completion_tokens": 74,
+          "prompt_tokens": 5353,
+          "total_tokens": 5427,
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 2
+          }
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_3u49ie7hu2kpht0u78a0y85m",
+            "name": "firecrawl-mcp__firecrawl_search",
+            "arguments": "{\"query\": \"common Unity performance optimization methods\", \"limit\": 5.0, \"sources\": [{\"type\": \"web\"}]}"
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"web\": [\n    {\n      \"url\": \"https://www.intel.com/content/dam/develop/external/us/en/documents/unity-performance-optimizations-best-practices-630893.pdf\",\n      \"title\": \"PDF Unity* Software Performance Optimizations for Games: Best Practices\",\n      \"description\": \"Unity* Software Performance Optimizations for Games: Best Practices This article walk-through illustrates common performance issues in games, as well as some helpful optimization methods. We will show how to optimize draw calls, level of detail (LOD), batching, light baking, and occlusion culling.\"\n    },\n    {\n      \"url\": \"https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html\",\n      \"title\": \"Unity - Manual: General Optimizations\",\n      \"description\": \"There are as many different ways to optimize code as there are reasons for performance problems. In general, it is strongly recommended that developers closely profile their applications before attempting to apply CPU optimizations. However, there are several simple CPU optimizations that are universally applicable. Address Properties by ID Unity does not use string names to address Animator ...\"\n    },\n    {\n      \"url\": \"https://generalistprogrammer.com/tutorials/unity-performance-optimization-complete-technical-guide-2025\",\n      \"title\": \"Unity Performance Optimization: Complete Technical Guide 2025\",\n      \"description\": \"Unity performance optimization is critical for delivering smooth gameplay experiences across all platforms. This comprehensive guide covers advanced techniques for CPU optimization, GPU rendering improvements, memory management, and mobile-specific optimizations using Unity's latest profiling tools and optimization strategies in 2025.\"\n    },\n    {\n      \"url\": \"https://devsourcehub.com/unity-optimization-tips/\",\n      \"title\": \"Essential Unity Optimization Tips for Enhanced Game Performance\",\n      \"description\": \"Unity optimization means improving your game's performance by tweaking various settings like graphics, scripts, and physics. It's important because it ensures smoother gameplay and a better experience for players.\"\n    },\n    {\n      \"url\": \"https://learn.unity.com/tutorial/introduction-to-optimization-in-unity\",\n      \"title\": \"Introduction to Optimization in Unity\",\n      \"description\": \"Unity's optimization tools allow you to diagnose common performance problems and refine a project's design, code, and related assets to maximize efficiency. An optimized project will run smoother and more responsively on your target platforms and devices.\"\n    }\n  ]\n}"
+            }
+          }
+        }
+      ],
+      "id": "b25b7721-d4c8-402e-9ac1-55c1eb350f37"
+    },
+    {
+      "role": "assistant",
+      "content": "",
+      "toolCallRequests": [
+        {
+          "id": "call_06hlcl8u19d9cj24ph9ir15m",
+          "name": "firecrawl-mcp__firecrawl_scrape",
+          "arguments": "{\"url\": \"https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html\", \"formats\": [\"markdown\"], \"onlyMainContent\": true}"
+        }
+      ],
+      "id": "2336f416-c1df-46fd-a2e8-32975c8ade2e",
+      "metadata": {
+        "model": {
+          "providerType": "openai-compatible",
+          "providerId": "local",
+          "id": "code",
+          "model": "code",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "completion_tokens": 151,
+          "prompt_tokens": 6000,
+          "total_tokens": 6151,
+          "prompt_tokens_details": {
+            "cached_tokens": 5176
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 56
+          }
+        }
+      }
+    },
+    {
+      "role": "tool",
+      "toolCalls": [
+        {
+          "request": {
+            "id": "call_06hlcl8u19d9cj24ph9ir15m",
+            "name": "firecrawl-mcp__firecrawl_scrape",
+            "arguments": "{\"url\": \"https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html\", \"formats\": [\"markdown\"], \"onlyMainContent\": true}"
+          },
+          "response": {
+            "status": "success",
+            "data": {
+              "type": "text",
+              "text": "{\n  \"markdown\": \"Version: **2022.3**\\n\\n*   **Versions with this page:**\\n    \\n*   [Unity 6.2](https://docs.unity3d.com/6000.2/Documentation/Manual/scripting-optimization.html)\\n    \\n*   [2023.2](https://docs.unity3d.com/2023.2/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html)\\n    \\n\\n*   **Versions without this page:**\\n    \\n*   [Unity 6.4 Beta](https://docs.unity3d.com/6000.4/Documentation/Manual/index.html)\\n    \\n*   [Unity 6.3 LTS](https://docs.unity3d.com/6000.3/Documentation/Manual/index.html)\\n    \\n*   [Unity 6.0](https://docs.unity3d.com/6000.0/Documentation/Manual/index.html)\\n    \\n*   [Unity 6.1](https://docs.unity3d.com/6000.1/Documentation/Manual/index.html)\\n    \\n*   [2023.1](https://docs.unity3d.com/2023.1/Documentation/Manual/index.html)\\n    \\n*   [2022.2](https://docs.unity3d.com/2022.2/Documentation/Manual/index.html)\\n    \\n*   [2022.1](https://docs.unity3d.com/2022.1/Documentation/Manual/index.html)\\n    \\n*   [2021.1](https://docs.unity3d.com/2021.1/Documentation/Manual/index.html)\\n    \\n*   [2021.2](https://docs.unity3d.com/2021.2/Documentation/Manual/index.html)\\n    \\n*   [2021.3](https://docs.unity3d.com/2021.3/Documentation/Manual/index.html)\\n    \\n*   [2020.3](https://docs.unity3d.com/2020.3/Documentation/Manual/index.html)\\n    \\n*   [2020.2](https://docs.unity3d.com/2020.2/Documentation/Manual/index.html)\\n    \\n*   [2020.1](https://docs.unity3d.com/2020.1/Documentation/Manual/index.html)\\n    \\n*   [2019.4](https://docs.unity3d.com/2019.4/Documentation/Manual/index.html)\\n    \\n*   [2019.3](https://docs.unity3d.com/2019.3/Documentation/Manual/index.html)\\n    \\n*   [2019.2](https://docs.unity3d.com/2019.2/Documentation/Manual/index.html)\\n    \\n*   [2019.1](https://docs.unity3d.com/2019.1/Documentation/Manual/index.html)\\n    \\n*   [2018.4](https://docs.unity3d.com/2018.4/Documentation/Manual/index.html)\\n    \\n*   [2018.3](https://docs.unity3d.com/2018.3/Documentation/Manual/index.html)\\n    \\n*   [2018.2](https://docs.unity3d.com/2018.2/Documentation/Manual/index.html)\\n    \\n*   [2018.1](https://docs.unity3d.com/2018.1/Documentation/Manual/index.html)\\n    \\n*   [2017.4](https://docs.unity3d.com/2017.4/Documentation/Manual/index.html)\\n    \\n*   [2017.3](https://docs.unity3d.com/2017.3/Documentation/Manual/index.html)\\n    \\n*   [2017.2](https://docs.unity3d.com/2017.2/Documentation/Manual/index.html)\\n    \\n*   [2017.1](https://docs.unity3d.com/2017.1/Documentation/Manual/index.html)\\n    \\n*   [5.6](https://docs.unity3d.com/560/Documentation/Manual/index.html)\\n    \\n*   [5.5](https://docs.unity3d.com/550/Documentation/Manual/index.html)\\n    \\n*   [5.4](https://docs.unity3d.com/540/Documentation/Manual/index.html)\\n    \\n*   [5.3](https://docs.unity3d.com/530/Documentation/Manual/index.html)\\n    \\n*   [5.2](https://docs.unity3d.com/520/Documentation/Manual/index.html)\\n    \\n\\n*   Supported\\n*   Legacy\\n\\nLanguage : English\\n\\n*   [English](https://docs.unity3d.com/Manual/UnderstandingPerformanceGeneralOptimizations.html)\\n    \\n*   [中文](https://docs.unity3d.com/cn/current/Manual/UnderstandingPerformanceGeneralOptimizations.html)\\n    \\n*   [日本語](https://docs.unity3d.com/ja/current/Manual/UnderstandingPerformanceGeneralOptimizations.html)\\n    \\n*   [한국어](https://docs.unity3d.com/kr/current/Manual/UnderstandingPerformanceGeneralOptimizations.html)\\n    \\n\\n[](https://docs.unity3d.com/)\\n\\n[](https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceResourcesFolder.html)\\n\\nThe Resources folder\\n\\n[](https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceSpecialOptimizations.html)\\n\\nSpecial optimizations\\n\\nGeneral Optimizations\\n=====================\\n\\nThere are as many different ways to optimize code as there are reasons for performance problems. In general, it is strongly recommended that developers closely profile their applications before attempting to apply CPU optimizations. However, there are several simple CPU optimizations that are universally applicable.\\n\\nAddress Properties by ID\\n------------------------\\n\\nUnity does not use string names to address Animator, Material and **Shader**A program that runs on the GPU. [More info](https://docs.unity3d.com/2022.3/Documentation/Manual/Shaders.html)\\n  \\nSee in [Glossary](https://docs.unity3d.com/2022.3/Documentation/Manual/Glossary.html#Shader)\\n properties internally. For speed, all property names are hashed into property IDs, and it is these IDs that are actually used to address the properties.\\n\\nTherefore, whenever using a _Set_ or _Get_ method on an Animator, Material or Shader, use the integer-valued method instead of the string-valued methods. The string methods simply perform string hashing and then forward the hashed ID to the integer-valued methods.\\n\\nThe property IDs created from string hashes are deterministic over the course of a single run. The simplest way to use them is to declare a static read-only integer variable for each property name, and use the integer variable in place of the string. These are automatically initialized during startup with no further initialization code needed.\\n\\nThe appropriate APIs are [Animator.StringToHash](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Animator.StringToHash.html)\\n for Animator property names, and [Shader.PropertyToID](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Shader.PropertyToID.html)\\n for Material & Shader property names.\\n\\nUse non-allocating physics APIs\\n-------------------------------\\n\\nIn Unity 5.3 and onwards, non-allocating versions of all Physics query APIs have been introduced. Replace [RaycastAll](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Physics.RaycastAll.html)\\n calls with [RaycastNonAlloc](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Physics.RaycastNonAlloc.html)\\n, [SphereCastAll](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Physics.SphereCastAll.html)\\n calls with [SphereCastNonAlloc](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Physics.SphereCastNonAlloc.html)\\n, and so on. For 2D applications, there are also non-allocating versions of all Physics2D query APIs.\\n\\nNull comparisons against UnityEngine.Object subclasses\\n------------------------------------------------------\\n\\nThe Mono and **IL2CPP**A Unity-developed scripting back-end which you can use as an alternative to Mono when building projects for some platforms. [More info](https://docs.unity3d.com/2022.3/Documentation/Manual/IL2CPP.html)\\n  \\nSee in [Glossary](https://docs.unity3d.com/2022.3/Documentation/Manual/Glossary.html#IL2CPP)\\n runtimes treat instances of classes that derive from [UnityEngine.Object](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Object.html)\\n in a specific way. Invoking methods on the instances actually calls into engine code, which must perform lookups and validations to convert the script references to the native references. While small, the cost of comparing a variable of this type to null is much more expensive than a comparison against a purely C# class. For this reason, avoid these null comparisons in tight loops or in code that runs every frame.\\n\\n### Vector and quaternion math and order of operations\\n\\nFor vector and **quaternion**Unity’s standard way of representing rotations as data. When writing code that deals with rotations, you should usually use the Quaternion class and its methods. [More info](https://docs.unity3d.com/2022.3/Documentation/Manual/QuaternionAndEulerRotationsInUnity.html)\\n  \\nSee in [Glossary](https://docs.unity3d.com/2022.3/Documentation/Manual/Glossary.html#Quaternion)\\n math that is located in tight loops, remember that integer math is faster than floating-point math, and floating-point math is faster than vector, matrix or quaternion math.\\n\\nTherefore, whenever commutative or associative arithmetic allows, attempt to minimize the cost of individual mathematical operations:\\n\\n\\n`Vector3 x;  int a, b;  // Less efficient: results in two vector multiplications  Vector3 slow = a * x * b;  // More efficient: one integer mult, one vector mult  Vector3 fast = a * b * x;`\\n\\nBuilt-In ColorUtility\\n---------------------\\n\\nIt is common for applications that must convert between HTML-formatted color strings (`#RRGGBBAA`) and Unity’s native `Color` and `Color32` structures to use a script from the Unify Community. This script was both slow and caused extensive memory allocation due to string manipulation.\\n\\nAs of Unity 5, there is a built-in [ColorUtility](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/ColorUtility.html)\\n API that performs these conversions efficiently. Usage of the built-in API should be preferred.\\n\\nFind and FindObjectOfType\\n-------------------------\\n\\nIt is a general best practice to eliminate all usage of `GameObject.Find` and [`Object.FindObjectOfType`](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Object.FindObjectOfType.html)\\n in production code. As these APIs require Unity to iterate over all **GameObjects**The fundamental object in Unity scenes, which can represent characters, props, scenery, cameras, waypoints, and more. A GameObject’s functionality is defined by the Components attached to it. [`GameObject.Find`](https://docs.unity3d.com/2022.3/Documentation/Manual/class-GameObject.html)\\n and [`Object.FindObjectOfType`](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Object.FindObjectOfType.html)\\n in production code. As these APIs require Unity to iterate over all **GameObjects**The fundamental object in Unity scenes, which can represent characters, props, scenery, cameras, waypoints, and more. A GameObject’s functionality is defined by the Components attached to it. [More info](https://docs.unity3d.com/2022.3/Documentation/Manual/class-GameObject.html)\\n  \\nSee in [Glossary](https://docs.unity3d.com/2022.3/Documentation/Manual/Glossary.html#GameObject)\\n and Components in memory, they rapidly become non-performant as the scope of a project grows.\\n\\nAn exception to the above rule can be made in accessors for singleton objects. A global manager object often exposes an “instance” property, and often has a `FindObjectOfType` call in the getter to detect pre-existing instances of the singleton:\\n\\n\\n`class SomeSingleton {      private SomeSingleton _instance;      public SomeSingleton Instance {          get {              if(_instance == null) {                   _instance =                      FindObjectOfType<SomeSingleton>();               }              if(_instance == null) {                   _instance = CreateSomeSingleton();              }              return _instance;          }      }  }`\\n\\nWhile this pattern is generally acceptable, it is important to examine the code and ensure that the accessor is be called in **Scenes**A Scene contains the environments and menus of your game. Think of each unique Scene file as a unique level. In each Scene, you place your environments, obstacles, and decorations, essentially designing and building your game in pieces. [More info](https://docs.unity3d.com/2022.3/Documentation/Manual/CreatingScenes.html)\\n  \\nSee in [Glossary](https://docs.unity3d.com/2022.3/Documentation/Manual/Glossary.html#Scene)\\n where the singleton object does not exist. If the getter does not automatically create an instance of a missing singleton, it is very common to discover that code looking for the singleton results in repeated calls to `FindObjectOfType` (often multiple times per frame) and creates an undesirable drain on performance.\\n\\nDebug code & the \\\\[conditional\\\\] attribute\\n------------------------------------------\\n\\nThe [`UnityEngine.Debug`](https://docs.unity3d.com/2022.3/Documentation/ScriptReference/Debug.html)\\n logging APIs are not stripped from non-development builds, and do write to log files if called. As most developers do not intend to write debug information in non-development builds, it is recommended to wrap development-only logging calls in custom methods, like so:\\n\\n\\n    `public static class Logger {          [Conditional(\\\"ENABLE_LOGS\\\")]          public static void Debug(string logMsg) {              UnityEngine.Debug.Log(logMsg);          }      }`\\n\\nBy decorating these methods with the \\\\[Conditional\\\\] attribute, the define or defines used by the Conditional attribute determine whether the decorated method is included in the compiled source.\\n\\nIf none of the defines passed to the Conditional attribute are defined, then the decorated method _and_ all calls to the decorated method are compiled out. The effect is identical to what would happen if the method and all calls to the method were wrapped in `#if … #endif` preprocessor blocks.\\n\\nFor more information on the `Conditional` attribute, see the MSDN website: [msdn.microsoft.com](https://msdn.microsoft.com/en-us/library/4xssyw96(v=vs.90).aspx)\\n.\\n\\n* * *\\n\\nDid you find this page useful? Please give it a rating:\\n\\nThanks for rating this page!\\n\\nReport a problem on this page\\n\\nWhat kind of problem would you like to report?\\n\\n*   This page needs code samples\\n*   Code samples do not work\\n*   Information is missing\\n*   Information is incorrect\\n*   Information is unclear or confusing\\n*   There is a spelling/grammar error on this page\\n*   Something else\\n\\nThanks for letting us know! This page has been marked for review based on your feedback.  \\n  \\nIf you have time, you can provide more information to help us fix the problem faster.  \\n  \\nProvide more information  \\n\\nYou've told us this page needs code samples. If you'd like to help us further, you could provide a code sample, or tell us about what kind of code sample you'd like to see:\\n\\nYou've told us there are code samples on this page which don't work. If you know how to fix it, or have something better we could use instead, please let us know:\\n\\nYou've told us there is information missing from this page. Please tell us more about what's missing:\\n\\nYou've told us there is incorrect information on this page. If you know what we should change to make it correct, please tell us:\\n\\nYou've told us this page has unclear or confusing information. Please tell us more about what you found unclear or confusing, or let us know how we could make it clearer:\\n\\nYou've told us there is a spelling or grammar error on this page. Please tell us what's wrong:\\n\\nYou've told us this page has a problem. Please tell us more about what's wrong:\\n\\nThank you for helping to make the Unity documentation better!\\n\\nYour feedback has been submitted as a ticket for our documentation team to review.\\n\\nWe are not able to reply to every ticket submitted.\\n\\n[](https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceResourcesFolder.html)\\n\\nThe Resources folder\\n\\n[](https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceSpecialOptimizations.html)\\n\\nSpecial optimizations\\n\\n![Company Logo](https://cdn.cookielaw.org/logos/0be70f5e-5e8c-4b5b-a70e-3c3899308c62/bd2f7f6c-aedd-4cb5-9a23-928ed573901d/8506c1ab-21ee-4752-8318-a825f65bde2f/unity-logo.png)\\n\\nPrivacy Preference Center\\n-------------------------\\n\\nYour Opt Out Preference Signal is Honored\\n\\n*   ### Your Privacy\\n    \\n*   ### Functional Cookies\\n    \\n*   ### Performance Cookies\\n    \\n*   ### Targeting Cookies\\n    \\n*   ### Strictly Necessary Cookies\\n    \\n\\n#### Your Privacy\\n\\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.  \\n[More information](https://unity.com/legal/cookie-policy)\\n\\n#### Functional Cookies\\n\\n Functional Cookies Inactive\\n\\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\\n\\nCookies Details‎\\n\\n#### Performance Cookies\\n\\n Performance Cookies Inactive\\n\\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\\n\\nCookies Details‎\\n\\n#### Targeting Cookies\\n\\n Targeting Cookies Inactive\\n\\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Some 3rd party video providers do not allow video views without targeting cookies. If you are experiencing difficulty viewing a video, you will need to set your cookie preferences for targeting to yes if you wish to view videos from these providers. Unity does not control this.\\n\\nCookies Details‎\\n\\n#### Strictly Necessary Cookies\\n\\nAlways Active\\n\\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\\n\\nCookies Details‎\\n\\nBack Button\\n\\n### Cookie List\\n\\nFilter Button\\n\\nConsent Leg.Interest\\n\\n checkbox label label\\n\\n checkbox label label\\n\\n checkbox label label\\n\\nClear\\n\\n checkbox label label\\n\\nApply Cancel\\n\\nConfirm my choices\\n\\nReject all Allow all\\n\\n[![Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg \\\"Powered by OneTrust Opens in a new Tab\\\")](https://www.onetrust.com/products/cookie-consent/)\",\n  \"metadata\": {\n    \"url\": \"https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html\",\n    \"title\": \"Unity - Manual: General Optimizations\",\n    \"author\": \"Unity Technologies\",\n    \"favicon\": \"https://docs.unity3d.com/2022.3/Documentation/StaticFilesManual/images/favicons/favicon.png\",\n    \"ogImage\": \"https://unity3d.com/files/images/ogimg.jpg\",\n    \"language\": \"en\",\n    \"og:image\": \"https://unity3d.com/files/images/ogimg.jpg\",\n    \"scrapeId\": \"fb7daa66-6c99-42ec-bfcc-8ff2084f1516\",\n    \"viewport\": \"width=device-width, initial-scale=1.0\",\n    \"proxyUsed\": \"basic\",\n    \"sourceURL\": \"https://docs.unity3d.com/2022.3/Documentation/Manual/UnderstandingPerformanceGeneralOptimizations.html\",\n    \"statusCode\": 200,\n    \"contentType\": \"text/html,text/html; charset=utf-8\",\n    \"creditsUsed\": 1,\n    \"msapplication-TileColor\": \"#222c37\",\n    \"msapplication-TileImage\": \"../StaticFilesManual/images/favicons/tileicon-144x144.png\"\n  }\n}"
+            }
+          }
+        }
+      ],
+      "id": "a2405afd-7312-4149-bdb9-affd97fd1b06"
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"未命名.md\" language=\"markdown\">\n# Unity 性能优化方法\n\n## 通用优化\n\n1. **通过ID访问属性**  \n   Unity内部使用属性ID而非字符串访问Animator、Material和Shader属性。使用`Animator.StringToHash()`和`Shader.PropertyToID()`预生成ID并存储为静态只读变量，避免运行时字符串哈希计算开销。\n\n2. **使用非分配物理API**  \n   替换`RaycastAll`、`SphereCastAll`等分配内存的方法为`RaycastNonAlloc`、`SphereCastNonAlloc`，2D应用使用对应Physics2D非分配API，减少内存垃圾。\n\n3. **避免Unity对象空值比较**  \n   在Mono/IL2CPP运行时，`UnityEngine.Object`子类的空值比较比纯C#对象开销更大。在tight loops或每帧代码中避免此类比较。\n\n4. **优化向量/四元数运算顺序**  \n   整数运算 > 浮点运算 > 向量/矩阵/四元数运算。调整运算顺序减少昂贵运算次数，例如`a * b * x`比`a * x * b`更高效。\n\n5. **使用内置ColorUtility**  \n   Unity 5+提供`ColorUtility`高效转换HTML颜色字符串与Unity原生`Color`/`Color32`结构，替代旧的Unify Community脚本，减少内存分配。\n\n6. **生产代码禁用Find类API**  \n   `GameObject.Find`和`Object.FindObjectOfType`会遍历所有对象，随项目规模增长性能下降。仅在单例模式中谨慎使用，并确保不会重复调用。\n\n7. **[Conditional]属性管理调试代码**  \n   `UnityEngine.Debug`日志不会在非开发构建中自动剥离。用自定义方法包裹日志并添加`[Conditional(\"ENABLE_LOGS\")]`属性，未定义宏时自动移除调试代码。\n</smtcmp_block>",
+      "id": "a5ba6dfd-f8fb-474e-bcd8-e8b619b3b5db",
+      "metadata": {
+        "model": {
+          "providerType": "openai-compatible",
+          "providerId": "local",
+          "id": "code",
+          "model": "code",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "completion_tokens": 1521,
+          "prompt_tokens": 11491,
+          "total_tokens": 13012,
+          "prompt_tokens_details": {
+            "cached_tokens": 5944
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 1093
+          }
+        }
+      }
+    }
+  ],
+  "createdAt": 1766028875003,
+  "updatedAt": 1766047847724,
+  "schemaVersion": 1
+}

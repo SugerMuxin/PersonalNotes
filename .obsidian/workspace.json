@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "a78b10c1057828bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "077d725048b19638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de455c690a9f28cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Octob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Octob"
+            }
+          },
+          {
+            "id": "8bf8a9e26bf0fe00",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Work/KS/KSTemp.canvas",
+                "viewState": {
+                  "x": 400,
+                  "y": -229,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "KSTemp"
+            }
+          },
+          {
+            "id": "830f8912bff498d9",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-llm-view",
+              "state": {
+                "file": "Canvas LLM.canvas-llm"
+              },
+              "icon": "lucide-file",
+              "title": "Canvas LLM"
+            }
+          },
+          {
+            "id": "e410973878633d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d5cae2363a32a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3877b788d4e313d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a7fdac01dd5362a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bcc056d1363e8b92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a0d79762ddb8ee1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "0f5210d017cb7041",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bee11bd18ee0ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f316b46b6b877890",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Teach/Unity/知识点/Stencial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stencial"
+            }
+          },
+          {
+            "id": "84b7c65718714e42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Teach/Unity/知识点/Stencial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stencial"
+            }
+          },
+          {
+            "id": "d56f7ef14dd7dc16",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93dd1583147be5d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvas LLM.canvas-llm",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Canvas LLM"
+            }
+          },
+          {
+            "id": "2a1bd5ba4241a965",
+            "type": "leaf",
+            "state": {
+              "type": "aiast-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "AI Assistant chat"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "awesome-brain-manager:Awesome Brain Manager": false,
+      "ai-assistant:Open AI Assistant": false,
+      "canvas-llm:Create new Canvas LLM": false
+    }
+  },
+  "active": "830f8912bff498d9",
+  "lastOpenFiles": [
+    "Work/KS/KS建筑结构.canvas",
+    "Work/KS/KSTemp.canvas",
+    "未命名.md",
+    "Work/KS/KS地图Chunks结构.canvas",
+    "Work/KS/KS背包结构.canvas",
+    "Canvas LLM.canvas-llm",
+    "Life/Octob.md",
+    "Untitled.canvas",
+    "TaskStack.md",
+    "未命名.canvas",
+    "未命名.base",
+    "Work/KS/项目表的记录.md",
+    "Work/KS/KingShot策划文档.md",
+    "Pics/Pasted image 20251218110519.png",
+    "Pics/Pasted image 20251218100206.png",
+    "Work/KS/初始化协议.md",
+    "Work/KS/背包拾取.md",
+    "Pics/Pasted image 20251217111623.png",
+    "Work/KS/Kinshot代码.md",
+    "项目 Doc.md",
+    "English/worldbase.canvas",
+    "English/Local.md",
+    "English/23-12-11.md",
+    "English/Re/Day 01.md",
+    "English/Re/d1.md",
+    "Work/KS/建筑系统.md",
+    "English/Re",
+    "Work/常见问题Recrods Myself.md",
+    "Work/帝国项目添加粒子特效的两种方法.md",
+    "Work/启动stps.md",
+    "Work/Bake.md",
+    "Work/beifen.md",
+    "Work/SLG的一些个人想法.md",
+    "Work/常见问题recods.md",
+    "Work/粒子添加.md",
+    "Work/KS",
+    "English/Re/d5.md",
+    "English/Re/d3.md",
+    "Pics/Pasted image 20251215150341.png",
+    "Pics/BuildingInfo.png",
+    "Books/Texture压缩方式及其原理.pdf",
+    "Books/quaternion.pdf",
+    "English/Re/d6.md",
+    "Pics/liguinong.png",
+    "Pics/7.png",
+    "Pics/Snipaste_2025-08-21_16-14-16.png",
+    "Pics/Pasted image 20251204090217.png",
+    "Pics/Pasted image 20251204090149.png",
+    "Untitled 1.canvas",
+    "Work/日志",
+    "Pics/__init__.py",
+    "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
+    "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas"
+  ]
+}
