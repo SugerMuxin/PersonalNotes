@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbSparks",
       "LoMy2",
       "IbReceipt",
       "IbTreeMapRight",
-      "IbTreeMapLeft",
-      "LoMy1"
+      "IbTreeMapLeft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -302,5 +302,6 @@
   "Work/KS/项目表的记录.md": "LoMy1",
   "Work/KS/KingShot策划文档.md": "LoMy1",
   "Work/KS/Kinshot代码.md": "LoMy1",
-  "Work/KS/建筑系统.md": "LoMy1"
+  "Work/KS/建筑系统.md": "LoMy1",
+  "Canvas LLM.canvas-llm": "IbSparks"
 }
