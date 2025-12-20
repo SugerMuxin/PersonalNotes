@@ -1,67 +1,50 @@
 {
   "main": {
-    "id": "a78b10c1057828bd",
+    "id": "8148f8da64b0e522",
     "type": "split",
     "children": [
       {
-        "id": "077d725048b19638",
+        "id": "7c5ebfa688c1f9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "de455c690a9f28cd",
+            "id": "66b5e242282a21a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Octob.md",
+                "file": "中国铜矿生产企业分析报告.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octob"
+              "title": "中国铜矿生产企业分析报告"
             }
           },
           {
-            "id": "8bf8a9e26bf0fe00",
+            "id": "7cf34bc968925b6a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Work/KS/KSTemp.canvas",
-                "viewState": {
-                  "x": 400,
-                  "y": -229,
-                  "zoom": 0
-                }
+                "file": "xiaxie.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "KSTemp"
+              "icon": "lucide-file",
+              "title": "xiaxie"
             }
           },
           {
-            "id": "830f8912bff498d9",
+            "id": "30a53278bfc6fd7b",
             "type": "leaf",
             "state": {
               "type": "canvas-llm-view",
               "state": {
-                "file": "Canvas LLM.canvas-llm"
+                "file": "Canvas LLM 1.canvas-llm"
               },
               "icon": "lucide-file",
-              "title": "Canvas LLM"
-            }
-          },
-          {
-            "id": "e410973878633d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Canvas LLM 1"
             }
           }
         ],
@@ -71,15 +54,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1d5cae2363a32a0a",
+    "id": "da4431550a3953d8",
     "type": "split",
     "children": [
       {
-        "id": "3877b788d4e313d7",
+        "id": "4ffc9c5a6b312ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "4a7fdac01dd5362a",
+            "id": "5133c3e1e6cd9d54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -92,7 +75,7 @@
             }
           },
           {
-            "id": "bcc056d1363e8b92",
+            "id": "6cc7c953a900bdd1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -109,7 +92,7 @@
             }
           },
           {
-            "id": "4a0d79762ddb8ee1",
+            "id": "6bed6b7f544d7ea8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -122,23 +105,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 237.5
   },
   "right": {
-    "id": "0f5210d017cb7041",
+    "id": "f4b4d8547fc17e4d",
     "type": "split",
     "children": [
       {
-        "id": "21bee11bd18ee0ac",
+        "id": "0152c544db1a6ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "f316b46b6b877890",
+            "id": "e7e12f2d60f269b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/知识点/Stencial.md",
+                "file": "WorkPlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,25 +131,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stencial"
+              "title": "Backlinks for WorkPlan"
             }
           },
           {
-            "id": "84b7c65718714e42",
+            "id": "bbfc7ce4074c436e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/知识点/Stencial.md",
+                "file": "WorkPlan.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stencial"
+              "title": "Outgoing links from WorkPlan"
             }
           },
           {
-            "id": "d56f7ef14dd7dc16",
+            "id": "61101f2421e8ffba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -181,28 +164,28 @@
             }
           },
           {
-            "id": "93dd1583147be5d7",
+            "id": "bec68b6c08278ba3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas LLM.canvas-llm",
+                "file": "WorkPlan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas LLM"
+              "title": "Outline of WorkPlan"
             }
           },
           {
-            "id": "2a1bd5ba4241a965",
+            "id": "8862a9a608b960e6",
             "type": "leaf",
             "state": {
-              "type": "aiast-chat-view",
+              "type": "pomodoro-history-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "AI Assistant chat"
+              "icon": "alarm-clock",
+              "title": "Pomodoro"
             }
           }
         ],
@@ -210,80 +193,76 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "ai-assistant:Open AI Assistant": false,
+      "canvas-llm:Create new Canvas LLM": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
-      "ai-assistant:Open AI Assistant": false,
-      "canvas-llm:Create new Canvas LLM": false
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "830f8912bff498d9",
+  "active": "30a53278bfc6fd7b",
   "lastOpenFiles": [
-    "Work/KS/KS建筑结构.canvas",
-    "Work/KS/KSTemp.canvas",
-    "未命名.md",
-    "Work/KS/KS地图Chunks结构.canvas",
-    "Work/KS/KS背包结构.canvas",
-    "Canvas LLM.canvas-llm",
-    "Life/Octob.md",
     "Untitled.canvas",
+    "Canvas LLM 1.canvas-llm",
+    "Pics/body of peiqi.jpg",
     "TaskStack.md",
-    "未命名.canvas",
-    "未命名.base",
-    "Work/KS/项目表的记录.md",
-    "Work/KS/KingShot策划文档.md",
-    "Pics/Pasted image 20251218110519.png",
-    "Pics/Pasted image 20251218100206.png",
-    "Work/KS/初始化协议.md",
-    "Work/KS/背包拾取.md",
-    "Pics/Pasted image 20251217111623.png",
-    "Work/KS/Kinshot代码.md",
+    "中美科技企业比较分析.md",
+    "中国铜矿生产企业分析报告.md",
+    "xiaxie.md",
+    "Teach/工具与插件整理.md",
+    "无缝方式.md",
     "项目 Doc.md",
-    "English/worldbase.canvas",
-    "English/Local.md",
-    "English/23-12-11.md",
-    "English/Re/Day 01.md",
-    "English/Re/d1.md",
-    "Work/KS/建筑系统.md",
-    "English/Re",
-    "Work/常见问题Recrods Myself.md",
-    "Work/帝国项目添加粒子特效的两种方法.md",
-    "Work/启动stps.md",
-    "Work/Bake.md",
-    "Work/beifen.md",
-    "Work/SLG的一些个人想法.md",
-    "Work/常见问题recods.md",
-    "Work/粒子添加.md",
-    "Work/KS",
-    "English/Re/d5.md",
-    "English/Re/d3.md",
-    "Pics/Pasted image 20251215150341.png",
-    "Pics/BuildingInfo.png",
-    "Books/Texture压缩方式及其原理.pdf",
-    "Books/quaternion.pdf",
-    "English/Re/d6.md",
-    "Pics/liguinong.png",
-    "Pics/7.png",
-    "Pics/Snipaste_2025-08-21_16-14-16.png",
-    "Pics/Pasted image 20251204090217.png",
-    "Pics/Pasted image 20251204090149.png",
-    "Untitled 1.canvas",
+    "未命名.md",
+    "初始化协议.md",
+    "Work/项目/文档.md",
+    "Work/日志/12.md",
     "Work/日志",
-    "Pics/__init__.py",
-    "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
-    "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas"
+    "Work/Tools/SmartFox.md",
+    "Work/KS/项目表的记录.md",
+    "Work/KS/背包拾取.md",
+    "Work/KS/建筑系统.md",
+    "Work/KS/初始化协议.md",
+    "Work/KS/KS背包结构.canvas",
+    "Work/KS/KS建筑结构.canvas",
+    "Work/KS/KS地图Chunks结构.canvas",
+    "Work/KS/KSTemp.canvas",
+    "Work/KS/Kinshot代码.md",
+    "Work/KS/KingShot策划文档.md",
+    "Work/KS",
+    "Excalidraw/Drawing 2025-11-14 14.14.11.excalidraw.md",
+    "English/worldbase.canvas",
+    "English/Re/Day 01.md",
+    "English/Re/d6.md",
+    "English/Re/d5.md",
+    "English/Re/d4.md",
+    "English/Re/d3.md",
+    "English/Re/d2.md",
+    "English/Re",
+    "Canvas LLM.canvas-llm",
+    "timu/历年真题/初级真题1（18-22）.pdf",
+    "timu/历年真题/出版物 真初级题(B5规格打印）(1).pdf",
+    "timu/历年真题/~WRL2358.tmp",
+    "timu/历年真题/~$dayin.docx",
+    "timu/历年真题/dayin.docx",
+    "timu/历年真题/IMG20211009134348.jpg",
+    "timu/历年真题/IMG20211009134125.jpg",
+    "timu/历年真题/IMG20211009134120.jpg",
+    "timu/历年真题/IMG20211009134059.jpg",
+    "timu/历年真题/IMG20211009134054.jpg",
+    "timu/历年真题/2018实务/IMG20210926083035.jpg",
+    "timu/历年真题/2018实务/IMG20210926083030.jpg",
+    "timu/历年真题/2018实务/IMG20210926083023.jpg",
+    "timu/历年真题/2018实务/IMG20210926083017.jpg"
   ]
 }
