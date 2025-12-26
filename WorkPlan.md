@@ -1,4 +1,10 @@
 
+<span style="color:yellow;">2025.12.29  --- 2025.12.31</span>
+1. KingShot策划同步测试的一些问题修复                 8
+2. KingShot服务器关卡内数据调试                          8
+3. KingShot建筑功能的一些完善优化                        8
+
+
 <span style="color:yellow;">2025.12.15  --- 2025.12.19</span>
 1. KingShot策划同步测试的一些问题修复                 8
 2. KingShot道具穿戴和配件功能调试                       16

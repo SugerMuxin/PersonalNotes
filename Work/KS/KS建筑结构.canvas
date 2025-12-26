@@ -6,12 +6,26 @@
 		{"id":"7629a82f8cd81480","type":"text","text":"KSBuilding","x":-2030,"y":-947,"width":127,"height":50,"color":"6"},
 		{"id":"0c4af67d3ba27c42","type":"text","text":"FunBuild3D","x":-2157,"y":-643,"width":200,"height":60,"color":"4"},
 		{"id":"fb9c264597013535","type":"text","text":"Jsons","x":-2102,"y":-753,"width":91,"height":60,"color":"5"},
-		{"id":"417f53c82c8e618e","type":"text","text":"BuildTrigger","x":-1823,"y":-753,"width":250,"height":60,"color":"3"}
+		{"id":"417f53c82c8e618e","type":"text","text":"BuildTrigger","x":-1823,"y":-753,"width":250,"height":60,"color":"3"},
+		{"id":"8a976075527f902d","x":-3110,"y":-100,"width":180,"height":60,"color":"4","type":"text","text":"KSFunBuild3D"},
+		{"id":"31082c5ff99643e9","x":-2780,"y":-200,"width":141,"height":60,"color":"6","type":"text","text":"研究所"},
+		{"id":"dd1ff45c589014c1","type":"text","text":"任务大厅","x":-2780,"y":-100,"width":141,"height":55,"color":"5"},
+		{"id":"3f761f7fc25a4d98","x":-2500,"y":-97,"width":140,"height":50,"type":"text","text":"任务UI"},
+		{"id":"2cf4694986866e64","x":-2780,"y":-340,"width":141,"height":50,"color":"5","type":"text","text":"装备商店"},
+		{"id":"3885f992d71f42a9","x":-2500,"y":-315,"width":140,"height":50,"color":"3","type":"text","text":"升级Part"},
+		{"id":"75126f1fc524ba82","x":-2500,"y":-250,"width":140,"height":50,"color":"6","type":"text","text":"研究UI"},
+		{"id":"56319ea622e28064","x":-2500,"y":-170,"width":140,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"3d56a90bd3215688","fromNode":"fb9c264597013535","fromSide":"top","toNode":"1e59603d26770142","toSide":"bottom","color":"6"},
 		{"id":"d92c80aab1bd8427","fromNode":"fb9c264597013535","fromSide":"top","toNode":"7629a82f8cd81480","toSide":"bottom","color":"6"},
 		{"id":"cbbf6493524bb817","fromNode":"0c4af67d3ba27c42","fromSide":"top","toNode":"fb9c264597013535","toSide":"bottom","color":"5"},
-		{"id":"962a4a8bb379c42a","fromNode":"0c4af67d3ba27c42","fromSide":"right","toNode":"417f53c82c8e618e","toSide":"left","color":"3"}
+		{"id":"962a4a8bb379c42a","fromNode":"0c4af67d3ba27c42","fromSide":"right","toNode":"417f53c82c8e618e","toSide":"left","color":"3"},
+		{"id":"a77002ae5cfce6ac","fromNode":"8a976075527f902d","fromSide":"right","toNode":"2cf4694986866e64","toSide":"left"},
+		{"id":"d114f178883bd0b5","fromNode":"8a976075527f902d","fromSide":"right","toNode":"31082c5ff99643e9","toSide":"left"},
+		{"id":"9460c1ea4ffe51f4","fromNode":"dd1ff45c589014c1","fromSide":"right","toNode":"3f761f7fc25a4d98","toSide":"left"},
+		{"id":"f2a23a07ff01410a","fromNode":"31082c5ff99643e9","fromSide":"right","toNode":"75126f1fc524ba82","toSide":"left"},
+		{"id":"e0b4b1ac1ee5d6ff","fromNode":"31082c5ff99643e9","fromSide":"right","toNode":"3885f992d71f42a9","toSide":"left"},
+		{"id":"fd5d7e459a9671eb","fromNode":"31082c5ff99643e9","fromSide":"right","toNode":"56319ea622e28064","toSide":"left"}
 	]
 }

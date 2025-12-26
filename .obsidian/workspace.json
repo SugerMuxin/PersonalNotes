@@ -11,17 +11,62 @@
             "id": "de455c690a9f28cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "无缝方式.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/quaternion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "quaternion"
+            }
+          },
+          {
+            "id": "3939b2e684b57474",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-llm-view",
+              "state": {
+                "file": "Canvas LLM.canvas-llm"
               },
               "icon": "lucide-file",
-              "title": "无缝方式"
+              "title": "Canvas LLM"
+            }
+          },
+          {
+            "id": "fc66964edcf1ab70",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Work/KS/Shaders.canvas",
+                "viewState": {
+                  "x": -543.5,
+                  "y": -174.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Shaders"
+            }
+          },
+          {
+            "id": "3dbc1e5f3a11723c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Family/Maxine/Sport.canvas",
+                "viewState": {
+                  "x": -795,
+                  "y": -139,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sport"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,11 +229,33 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "de455c690a9f28cd",
+  "active": "4a7fdac01dd5362a",
   "lastOpenFiles": [
+    "WorkPlan.md",
+    "Work/KS/背包拾取.md",
+    "Work/KS/初始化协议.md",
+    "Canvas LLM.canvas-llm",
+    "Family/Maxine/Sport.canvas",
+    "Work/KS/Shaders.canvas",
+    "Work/KS/KS LLM.canvas-llm",
+    "Work/KS/KS背包结构.canvas",
+    "四元数.md",
+    "中美科技企业比较分析.md",
+    "中国铜矿生产企业分析报告.md",
+    "Family/Maxine/Untitled/Untitled",
+    "Family/Maxine/Untitled",
+    "Family/Maxine",
+    "Family",
+    "Books/quaternion.pdf",
+    "Work/KS/KSTemp.canvas",
+    "Pics/Pasted image 20251225152107.png",
+    "Pics/Pasted image 20251225152054.png",
+    "Work/KS/KS建筑结构.canvas",
+    "Work/KS/建筑系统.md",
+    "Work/KS/项目表的记录.md",
+    "无缝方式.md",
     "Books/Texture压缩方式及其原理.pdf",
     "Life/Octob.md",
-    "Work/KS/KSTemp.canvas",
     "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
     "English/23-12-11.md",
     "English/Local.md",
@@ -197,49 +264,27 @@
     "mysql安装.md",
     "Work/启动stps.md",
     "未命名.md",
-    "Canvas LLM.canvas-llm",
-    "中美科技企业比较分析.md",
-    "WorkPlan.md",
     "Untitled.canvas",
-    "Work/KS/KS建筑结构.canvas",
     "Work/KS/KS地图Chunks结构.canvas",
-    "Work/KS/KS背包结构.canvas",
     "TaskStack.md",
     "未命名.canvas",
     "未命名.base",
-    "Work/KS/项目表的记录.md",
     "Work/KS/KingShot策划文档.md",
     "Pics/Pasted image 20251218110519.png",
     "Pics/Pasted image 20251218100206.png",
-    "Work/KS/初始化协议.md",
-    "Work/KS/背包拾取.md",
     "Pics/Pasted image 20251217111623.png",
     "Work/KS/Kinshot代码.md",
     "项目 Doc.md",
     "English/Re/Day 01.md",
     "English/Re/d1.md",
-    "Work/KS/建筑系统.md",
-    "English/Re",
     "Work/常见问题Recrods Myself.md",
     "Work/帝国项目添加粒子特效的两种方法.md",
     "Work/Bake.md",
-    "Work/beifen.md",
-    "Work/SLG的一些个人想法.md",
-    "Work/常见问题recods.md",
-    "Work/KS",
     "Pics/Pasted image 20251215150341.png",
     "Pics/BuildingInfo.png",
-    "Books/quaternion.pdf",
     "Pics/liguinong.png",
     "Pics/7.png",
     "Pics/Snipaste_2025-08-21_16-14-16.png",
-    "Pics/Pasted image 20251204090217.png",
-    "Pics/Pasted image 20251204090149.png",
-    "Untitled 1.canvas",
-    "Work/日志",
-    "Pics/__init__.py",
-    "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas"
+    "Untitled 1.canvas"
   ]
 }

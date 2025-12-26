@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🏅",
+      "SiCanva",
+      "IbFolder",
       "IbSparks",
-      "LoMy2",
-      "IbReceipt",
-      "IbTreeMapRight",
-      "IbTreeMapLeft"
+      "LoMy2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -295,13 +295,18 @@
   "中国铜矿生产企业分析报告.md": "IbReceipt",
   "中美科技企业比较分析.md": "IbReceipt",
   "Work/KS": "LoMy2",
-  "Work/KS/KS背包结构.canvas": "IbTreeMapRight",
-  "Work/KS/KSTemp.canvas": "IbTreeMapRight",
-  "Work/KS/KS地图Chunks结构.canvas": "IbTreeMapRight",
-  "Work/KS/KS建筑结构.canvas": "IbTreeMapRight",
+  "Work/KS/KS背包结构.canvas": "SiCanva",
+  "Work/KS/KSTemp.canvas": "SiCanva",
+  "Work/KS/KS地图Chunks结构.canvas": "SiCanva",
+  "Work/KS/KS建筑结构.canvas": "SiCanva",
   "Work/KS/项目表的记录.md": "LoMy1",
   "Work/KS/KingShot策划文档.md": "LoMy1",
   "Work/KS/Kinshot代码.md": "LoMy1",
   "Work/KS/建筑系统.md": "LoMy1",
-  "Canvas LLM.canvas-llm": "IbSparks"
+  "Canvas LLM.canvas-llm": "IbSparks",
+  "Work/KS/Shaders.canvas": "SiCanva",
+  "Work/KS/KS LLM.canvas-llm": "IbSparks",
+  "Family": "IbFolder",
+  "Family/Maxine": "IbFolder",
+  "Family/Maxine/Sport.canvas": "🏅"
 }

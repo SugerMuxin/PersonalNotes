@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"fd6acc29d7853494","type":"file","file":"Pics/Pasted image 20251215150341.png","x":-220,"y":-560,"width":400,"height":222}
+		{"id":"6fdc551d49c2054e","type":"file","file":"Pics/Pasted image 20251225152054.png","x":-1040,"y":-1000,"width":400,"height":293,"color":"4"},
+		{"id":"4612aa3609025171","type":"file","file":"Pics/Pasted image 20251225152107.png","x":-440,"y":-1000,"width":357,"height":293,"color":"4"},
+		{"id":"94f5c916920d9932","type":"text","text":"由此我们想到的是三维向量能否乘以一个数字（虚数）来表示三维空间中的旋转。","x":120,"y":-895,"width":280,"height":83,"color":"6"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b0e8c792faf2092d","fromNode":"6fdc551d49c2054e","fromSide":"right","toNode":"4612aa3609025171","toSide":"left"},
+		{"id":"cbaa28bd296bab81","fromNode":"4612aa3609025171","fromSide":"right","toNode":"94f5c916920d9932","toSide":"left"}
+	]
 }

@@ -292,7 +292,7 @@
       "dimension": 1024
     }
   ],
-  "chatModelId": "claude-sonnet-4.5",
+  "chatModelId": "code",
   "applyModelId": "code",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
