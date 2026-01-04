@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LoMy1",
       "🏅",
       "SiCanva",
       "IbFolder",
-      "IbSparks",
-      "LoMy2"
+      "IbSparks"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -308,5 +308,13 @@
   "Work/KS/KS LLM.canvas-llm": "IbSparks",
   "Family": "IbFolder",
   "Family/Maxine": "IbFolder",
-  "Family/Maxine/Sport.canvas": "🏅"
+  "Family/Maxine/Sport.canvas": "🏅",
+  "Life/认知觉醒读后感.md": "LoMy1",
+  "Life/2026/MindStorm": "IbFolder",
+  "Life/2026/MindStorm/IDEAS.canvas": "SiCanva",
+  "Life/2026/MindStorm/STOCKS.canvas": "SiCanva",
+  "Life/2026/plan.md": "LoMy1",
+  "Work/KS/场景初始化协议.canvas": "SiCanva",
+  "Life/2026/Titles.md": "LoMy1",
+  "Life/2026/1/Minds.canvas-llm": "IbSparks"
 }

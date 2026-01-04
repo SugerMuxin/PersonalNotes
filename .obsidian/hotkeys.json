@@ -7,5 +7,14 @@
       ],
       "key": "O"
     }
+  ],
+  "heatmap-tracker:insert-heatmap-tracker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
   ]
 }

@@ -23,12 +23,34 @@
             "id": "3939b2e684b57474",
             "type": "leaf",
             "state": {
-              "type": "canvas-llm-view",
+              "type": "canvas",
               "state": {
-                "file": "Canvas LLM.canvas-llm"
+                "file": "Work/KS/场景初始化协议.canvas",
+                "viewState": {
+                  "x": 1432.224401553303,
+                  "y": 595.2764832591236,
+                  "zoom": -0.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Canvas LLM"
+              "icon": "lucide-layout-dashboard",
+              "title": "场景初始化协议"
+            }
+          },
+          {
+            "id": "7a99ebd67444394c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Work/KS/场景初始化协议.canvas",
+                "viewState": {
+                  "x": 1101.5302204242073,
+                  "y": 692.6445772590826,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "场景初始化协议"
             }
           },
           {
@@ -37,32 +59,37 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Work/KS/Shaders.canvas",
+                "file": "Work/KS/KSTemp.canvas",
                 "viewState": {
-                  "x": -543.5,
-                  "y": -174.5,
-                  "zoom": 0
+                  "x": -223.4588512018634,
+                  "y": -1255.3594819796394,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Shaders"
+              "title": "KSTemp"
             }
           },
           {
             "id": "3dbc1e5f3a11723c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "289812e7b1ca8c81",
+            "type": "leaf",
+            "state": {
+              "type": "canvas-llm-view",
               "state": {
-                "file": "Family/Maxine/Sport.canvas",
-                "viewState": {
-                  "x": -795,
-                  "y": -139,
-                  "zoom": 0
-                }
+                "file": "Canvas LLM.canvas-llm"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sport"
+              "icon": "lucide-file",
+              "title": "Canvas LLM"
             }
           }
         ],
@@ -139,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/Unity/知识点/Stencial.md",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stencial"
+              "title": "Backlinks for 场景初始化协议"
             }
           },
           {
@@ -158,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teach/Unity/知识点/Stencial.md",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stencial"
+              "title": "Outgoing links from 场景初始化协议"
             }
           },
           {
@@ -187,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas LLM.canvas-llm",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas LLM"
+              "title": "Outline of 场景初始化协议"
             }
           },
           {
@@ -205,13 +232,43 @@
               "icon": "wand-sparkles",
               "title": "AI Assistant chat"
             }
+          },
+          {
+            "id": "1cd738e753058f6b",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
+            }
+          },
+          {
+            "id": "182918d65f993644",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pomodoro-history-view"
+            }
+          },
+          {
+            "id": "617e2cde845ecef5",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pomodoro-history-view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 579.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -229,62 +286,63 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "4a7fdac01dd5362a",
+  "active": "7a99ebd67444394c",
   "lastOpenFiles": [
+    "初始化协议.md",
+    "Untitled.md",
+    "TaskStack.md",
+    "Work/KS/建筑系统.md",
+    "Untitled.base",
+    "Work/KS/KingShot策划文档.md",
+    "Work/KS/项目表的记录.md",
+    "Work/KS/Kinshot代码.md",
+    "Work/KS/KS背包结构.canvas",
+    "mysql安装.md",
+    "mobiLeg.md",
+    "Family/Maxine/Sport.canvas",
+    "Canvas LLM.canvas-llm",
+    "Life/2026/1/Minds.canvas-llm",
+    "Work/KS/KSTemp.canvas",
+    "Books/quaternion.pdf",
+    "中美科技企业比较分析.md",
+    "Work/KS/场景初始化协议.canvas",
+    "Life/2026/plan.md",
+    "Life/Octob.md",
+    "Life/2026/Titles.md",
+    "Life/2026/1/Minds.canvas",
+    "Life/2026/1",
+    "Work/KS/KS LLM.canvas-llm",
+    "项目 Doc.md",
+    "Work/KS/Untitled.md",
     "WorkPlan.md",
+    "Life/IDEA.md",
+    "Life/我的橘子.md",
+    "Life/他们的橘子.md",
+    "Life/认知觉醒读后感.md",
+    "Life/吃药指南.md",
+    "Life/2026/MindStorm/STOCKS.canvas",
+    "xiaxie.md",
+    "Life/2026/MindStorm/IDEAS.canvas",
+    "Life/2026/MindStorm",
+    "Life/2026",
+    "Work/KS/KS建筑结构.canvas",
+    "Work/beifen.md",
+    "Work/启动stps.md",
+    "Work/KS/Shaders.canvas",
     "Work/KS/背包拾取.md",
     "Work/KS/初始化协议.md",
-    "Canvas LLM.canvas-llm",
-    "Family/Maxine/Sport.canvas",
-    "Work/KS/Shaders.canvas",
-    "Work/KS/KS LLM.canvas-llm",
-    "Work/KS/KS背包结构.canvas",
-    "四元数.md",
-    "中美科技企业比较分析.md",
-    "中国铜矿生产企业分析报告.md",
     "Family/Maxine/Untitled/Untitled",
     "Family/Maxine/Untitled",
-    "Family/Maxine",
-    "Family",
-    "Books/quaternion.pdf",
-    "Work/KS/KSTemp.canvas",
     "Pics/Pasted image 20251225152107.png",
     "Pics/Pasted image 20251225152054.png",
-    "Work/KS/KS建筑结构.canvas",
-    "Work/KS/建筑系统.md",
-    "Work/KS/项目表的记录.md",
-    "无缝方式.md",
-    "Books/Texture压缩方式及其原理.pdf",
-    "Life/Octob.md",
-    "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
-    "English/23-12-11.md",
-    "English/Local.md",
-    "Render Workflow.md",
     "English/worldbase.canvas",
-    "mysql安装.md",
-    "Work/启动stps.md",
-    "未命名.md",
-    "Untitled.canvas",
-    "Work/KS/KS地图Chunks结构.canvas",
-    "TaskStack.md",
-    "未命名.canvas",
-    "未命名.base",
-    "Work/KS/KingShot策划文档.md",
     "Pics/Pasted image 20251218110519.png",
     "Pics/Pasted image 20251218100206.png",
     "Pics/Pasted image 20251217111623.png",
-    "Work/KS/Kinshot代码.md",
-    "项目 Doc.md",
-    "English/Re/Day 01.md",
-    "English/Re/d1.md",
-    "Work/常见问题Recrods Myself.md",
-    "Work/帝国项目添加粒子特效的两种方法.md",
-    "Work/Bake.md",
     "Pics/Pasted image 20251215150341.png",
     "Pics/BuildingInfo.png",
     "Pics/liguinong.png",
     "Pics/7.png",
-    "Pics/Snipaste_2025-08-21_16-14-16.png",
-    "Untitled 1.canvas"
+    "Pics/Snipaste_2025-08-21_16-14-16.png"
   ]
 }

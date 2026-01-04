@@ -1,11 +1,14 @@
 {
 	"nodes":[
-		{"id":"6fdc551d49c2054e","type":"file","file":"Pics/Pasted image 20251225152054.png","x":-1040,"y":-1000,"width":400,"height":293,"color":"4"},
-		{"id":"4612aa3609025171","type":"file","file":"Pics/Pasted image 20251225152107.png","x":-440,"y":-1000,"width":357,"height":293,"color":"4"},
-		{"id":"94f5c916920d9932","type":"text","text":"由此我们想到的是三维向量能否乘以一个数字（虚数）来表示三维空间中的旋转。","x":120,"y":-895,"width":280,"height":83,"color":"6"}
+		{"id":"f88ae0b868ded7e2","type":"text","text":"<font color=\"green\">step1:需要知道i表示的旋转量</font>\n\n**i 不是一个数，而是一个旋转量。**","x":-1040,"y":-1620,"width":335,"height":166},
+		{"id":"3b8f92127685c217","type":"text","text":"<font color=\"green\">step2:需要知道虚函数相乘就能表示旋转</font>\n这里的旋转\n","x":-547,"y":-1620,"width":379,"height":166},
+		{"id":"4612aa3609025171","type":"file","file":"Pics/Pasted image 20251225152107.png","x":-547,"y":-1203,"width":379,"height":311,"color":"4"},
+		{"id":"6fdc551d49c2054e","type":"file","file":"Pics/Pasted image 20251225152054.png","x":-1040,"y":-1170,"width":335,"height":246,"color":"4"},
+		{"id":"94f5c916920d9932","type":"text","text":"由此我们想到的是三维向量能否乘以一个数字（虚数）来表示三维空间中的旋转。","x":80,"y":-1089,"width":280,"height":83,"color":"6"}
 	],
 	"edges":[
 		{"id":"b0e8c792faf2092d","fromNode":"6fdc551d49c2054e","fromSide":"right","toNode":"4612aa3609025171","toSide":"left"},
-		{"id":"cbaa28bd296bab81","fromNode":"4612aa3609025171","fromSide":"right","toNode":"94f5c916920d9932","toSide":"left"}
+		{"id":"cbaa28bd296bab81","fromNode":"4612aa3609025171","fromSide":"right","toNode":"94f5c916920d9932","toSide":"left"},
+		{"id":"4086a0c06ee74857","fromNode":"f88ae0b868ded7e2","fromSide":"right","toNode":"3b8f92127685c217","toSide":"left"}
 	]
 }
