@@ -9,5 +9,8 @@
   "obsidian-git",
   "obsidian-minimal-settings",
   "ai-assistant",
-  "canvas-llm"
+  "canvas-llm",
+  "obsidian-daily-stats",
+  "obsidian-habit-tracker",
+  "heatmap-tracker"
 ]

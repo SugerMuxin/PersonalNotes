@@ -39,12 +39,17 @@
             "id": "30a53278bfc6fd7b",
             "type": "leaf",
             "state": {
-              "type": "canvas-llm-view",
+              "type": "canvas",
               "state": {
-                "file": "Canvas LLM 1.canvas-llm"
+                "file": "Family/Maxine/Sport.canvas",
+                "viewState": {
+                  "x": -680.3333740234375,
+                  "y": -689.3333129882812,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Canvas LLM 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sport"
             }
           }
         ],
@@ -80,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ais",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +106,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkPlan.md",
+                "file": "Family/Maxine/Sport.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WorkPlan"
+              "title": "Outline of Sport"
             }
           },
           {
@@ -193,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 398.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +218,30 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "30a53278bfc6fd7b",
+  "active": "6cc7c953a900bdd1",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Work/KS/场景初始化协议.canvas",
+    "Canvas LLM.canvas-llm",
     "Canvas LLM 1.canvas-llm",
+    "四元数.md",
+    "Work/KS/Untitled.md",
+    "Work/KS/Shaders.canvas",
+    "Work/KS/KS LLM.canvas-llm",
+    "Untitled.md",
+    "Pics/Pasted image 20251225152107.png",
+    "Pics/Pasted image 20251225152054.png",
+    "Life/2026/MindStorm/STOCKS.canvas",
+    "Life/2026/MindStorm/IDEAS.canvas",
+    "Life/2026/1/Minds.canvas-llm",
+    "Life/2026/plan.md",
+    "Life/2026/Titles.md",
+    "Life/2026/MindStorm",
+    "Life/2026/1",
+    "Life/2026",
+    "Family/Maxine/Sport.canvas",
+    "Family/Maxine",
+    "Family",
+    "Untitled.canvas",
     "Pics/body of peiqi.jpg",
     "TaskStack.md",
     "中美科技企业比较分析.md",
@@ -239,30 +266,14 @@
     "Work/KS/KSTemp.canvas",
     "Work/KS/Kinshot代码.md",
     "Work/KS/KingShot策划文档.md",
-    "Work/KS",
     "Excalidraw/Drawing 2025-11-14 14.14.11.excalidraw.md",
-    "English/worldbase.canvas",
     "English/Re/Day 01.md",
-    "English/Re/d6.md",
-    "English/Re/d5.md",
-    "English/Re/d4.md",
-    "English/Re/d3.md",
-    "English/Re/d2.md",
-    "English/Re",
-    "Canvas LLM.canvas-llm",
-    "timu/历年真题/初级真题1（18-22）.pdf",
-    "timu/历年真题/出版物 真初级题(B5规格打印）(1).pdf",
-    "timu/历年真题/~WRL2358.tmp",
-    "timu/历年真题/~$dayin.docx",
-    "timu/历年真题/dayin.docx",
     "timu/历年真题/IMG20211009134348.jpg",
     "timu/历年真题/IMG20211009134125.jpg",
     "timu/历年真题/IMG20211009134120.jpg",
     "timu/历年真题/IMG20211009134059.jpg",
     "timu/历年真题/IMG20211009134054.jpg",
     "timu/历年真题/2018实务/IMG20210926083035.jpg",
-    "timu/历年真题/2018实务/IMG20210926083030.jpg",
-    "timu/历年真题/2018实务/IMG20210926083023.jpg",
-    "timu/历年真题/2018实务/IMG20210926083017.jpg"
+    "timu/历年真题/2018实务/IMG20210926083030.jpg"
   ]
 }
