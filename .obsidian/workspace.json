@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "8148f8da64b0e522",
+    "id": "a78b10c1057828bd",
     "type": "split",
     "children": [
       {
-        "id": "7c5ebfa688c1f9e1",
+        "id": "0a8e17327baf7fab",
         "type": "tabs",
         "children": [
           {
-            "id": "66b5e242282a21a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中国铜矿生产企业分析报告.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中国铜矿生产企业分析报告"
-            }
-          },
-          {
-            "id": "7cf34bc968925b6a",
+            "id": "0241f414e0c2cc12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,40 +20,22 @@
               "icon": "lucide-file",
               "title": "xiaxie"
             }
-          },
-          {
-            "id": "30a53278bfc6fd7b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Family/Maxine/Sport.canvas",
-                "viewState": {
-                  "x": -680.3333740234375,
-                  "y": -689.3333129882812,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sport"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "da4431550a3953d8",
+    "id": "1d5cae2363a32a0a",
     "type": "split",
     "children": [
       {
-        "id": "4ffc9c5a6b312ac9",
+        "id": "3877b788d4e313d7",
         "type": "tabs",
         "children": [
           {
-            "id": "5133c3e1e6cd9d54",
+            "id": "4a7fdac01dd5362a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,12 +48,12 @@
             }
           },
           {
-            "id": "6cc7c953a900bdd1",
+            "id": "bcc056d1363e8b92",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "ais",
+                "query": "pdb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +65,7 @@
             }
           },
           {
-            "id": "6bed6b7f544d7ea8",
+            "id": "4a0d79762ddb8ee1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,28 +74,27 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 373.5
   },
   "right": {
-    "id": "f4b4d8547fc17e4d",
+    "id": "0f5210d017cb7041",
     "type": "split",
     "children": [
       {
-        "id": "0152c544db1a6ca5",
+        "id": "21bee11bd18ee0ac",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e12f2d60f269b3",
+            "id": "f316b46b6b877890",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkPlan.md",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WorkPlan"
+              "title": "Backlinks for 场景初始化协议"
             }
           },
           {
-            "id": "bbfc7ce4074c436e",
+            "id": "84b7c65718714e42",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkPlan.md",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WorkPlan"
+              "title": "Outgoing links from 场景初始化协议"
             }
           },
           {
-            "id": "61101f2421e8ffba",
+            "id": "d56f7ef14dd7dc16",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,110 +137,139 @@
             }
           },
           {
-            "id": "bec68b6c08278ba3",
+            "id": "93dd1583147be5d7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Family/Maxine/Sport.canvas",
+                "file": "Work/KS/场景初始化协议.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sport"
+              "title": "Outline of 场景初始化协议"
             }
           },
           {
-            "id": "8862a9a608b960e6",
+            "id": "2a1bd5ba4241a965",
+            "type": "leaf",
+            "state": {
+              "type": "aiast-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "AI Assistant chat"
+            }
+          },
+          {
+            "id": "1cd738e753058f6b",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {},
+              "icon": "bar-graph",
+              "title": "Daily Stats"
+            }
+          },
+          {
+            "id": "182918d65f993644",
             "type": "leaf",
             "state": {
               "type": "pomodoro-history-view",
               "state": {},
-              "icon": "alarm-clock",
-              "title": "Pomodoro"
+              "icon": "lucide-ghost",
+              "title": "pomodoro-history-view"
+            }
+          },
+          {
+            "id": "617e2cde845ecef5",
+            "type": "leaf",
+            "state": {
+              "type": "pomodoro-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "pomodoro-history-view"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 398.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "ai-assistant:Open AI Assistant": false,
-      "canvas-llm:Create new Canvas LLM": false,
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "ai-assistant:Open AI Assistant": false,
+      "canvas-llm:Create new Canvas LLM": false,
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "6cc7c953a900bdd1",
+  "active": "0241f414e0c2cc12",
   "lastOpenFiles": [
-    "Work/KS/场景初始化协议.canvas",
+    "WorkPlan.md",
     "Canvas LLM.canvas-llm",
+    "Render Workflow.md",
+    "Pics/Pasted image 20250424140817.png",
+    "Pics/Pasted image 20250122174237.png",
+    "Pics/Pasted image 20250122174156.png",
+    "Pics/Pasted image 20250117094346.png",
+    "Pics/Pasted image 20240708085246.png",
+    "Pics/Pasted image 20240708085241.png",
+    "Pics/Pasted image 20240627143523.png",
+    "Pics/Pasted image 20240531144554.png",
+    "Pics/Pasted image 20240528092408.png",
+    "Pics/Pasted image 20240527141245.png",
+    "Pics/初始化协议.md",
+    "mysql安装.md",
+    "Books/Epub/DOOM_David_Kushner_Z_Library.epub",
+    "TaskStack.md",
+    "Books/PDF/CatLike/Hex-Map-6.pdf",
+    "Work/启动stps.md",
+    "Books/Texture压缩方式及其原理.pdf",
+    "Books/quaternion.pdf",
+    "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
+    "A-T/慢炖/Untitled.md",
+    "A-T/慢炖/太白金星有点烦回复.md",
+    "A-T/慢炖/什么是终极的底气.md",
+    "A-T/慢炖/秦始皇那么牛咋就不能把匈奴给端了.md",
+    "A-T/慢炖/关于广告思维的一些记录，游戏投放引流.md",
+    "A-T/文摘/我在印度的701天.md",
+    "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md",
+    "A-T/文摘/任志强炮轰.md",
+    "A-T/文摘/韩国令.md",
+    "A-T/文摘/阿Q画圈.md",
+    "A-T/Articles/九边/到底还能走多远.md",
+    "A-T/Articles/ArticlesReaded.md",
+    "A-T/TODO.md",
+    "A-T/文摘/辞藻类/碎片文摘.md",
+    "A-T/文摘/辞藻类/Untitled.md",
+    "A-T/RuoSaChen/Precious Urls.md",
+    "A-T/Articles/九边/Untitled.md",
+    "A-T/Daily/Diary/Untitled.md",
+    "A-T/Daily/Diary/2023.12.09.md",
+    "Life/2026/1/Minds.canvas-llm",
     "Canvas LLM 1.canvas-llm",
-    "四元数.md",
-    "Work/KS/Untitled.md",
-    "Work/KS/Shaders.canvas",
-    "Work/KS/KS LLM.canvas-llm",
-    "Untitled.md",
-    "Pics/Pasted image 20251225152107.png",
-    "Pics/Pasted image 20251225152054.png",
+    "Work/KS/场景初始化协议.canvas",
+    "Untitled.canvas",
+    "Work/KS/KSTemp.canvas",
+    "Family/Maxine/Sport.canvas",
+    "Untitled.base",
+    "Work/KS/KS背包结构.canvas",
+    "Life/2026/1/Minds.canvas",
+    "Life/2026/1",
     "Life/2026/MindStorm/STOCKS.canvas",
     "Life/2026/MindStorm/IDEAS.canvas",
-    "Life/2026/1/Minds.canvas-llm",
-    "Life/2026/plan.md",
-    "Life/2026/Titles.md",
-    "Life/2026/MindStorm",
-    "Life/2026/1",
-    "Life/2026",
-    "Family/Maxine/Sport.canvas",
-    "Family/Maxine",
-    "Family",
-    "Untitled.canvas",
-    "Pics/body of peiqi.jpg",
-    "TaskStack.md",
-    "中美科技企业比较分析.md",
-    "中国铜矿生产企业分析报告.md",
-    "xiaxie.md",
-    "Teach/工具与插件整理.md",
-    "无缝方式.md",
-    "项目 Doc.md",
-    "未命名.md",
-    "初始化协议.md",
-    "Work/项目/文档.md",
-    "Work/日志/12.md",
-    "Work/日志",
-    "Work/Tools/SmartFox.md",
-    "Work/KS/项目表的记录.md",
-    "Work/KS/背包拾取.md",
-    "Work/KS/建筑系统.md",
-    "Work/KS/初始化协议.md",
-    "Work/KS/KS背包结构.canvas",
     "Work/KS/KS建筑结构.canvas",
-    "Work/KS/KS地图Chunks结构.canvas",
-    "Work/KS/KSTemp.canvas",
-    "Work/KS/Kinshot代码.md",
-    "Work/KS/KingShot策划文档.md",
-    "Excalidraw/Drawing 2025-11-14 14.14.11.excalidraw.md",
-    "English/Re/Day 01.md",
-    "timu/历年真题/IMG20211009134348.jpg",
-    "timu/历年真题/IMG20211009134125.jpg",
-    "timu/历年真题/IMG20211009134120.jpg",
-    "timu/历年真题/IMG20211009134059.jpg",
-    "timu/历年真题/IMG20211009134054.jpg",
-    "timu/历年真题/2018实务/IMG20210926083035.jpg",
-    "timu/历年真题/2018实务/IMG20210926083030.jpg"
+    "Work/KS/Shaders.canvas"
   ]
 }

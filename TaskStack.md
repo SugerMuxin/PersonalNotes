@@ -37,3 +37,4 @@ https://zhuanlan.zhihu.com/p/36884005   (帧同步和状态同步)
 >3. 利用一张图的不同通道将大地图融合成不同材质的组合，可以组合成石子路和草地的融合
 >	![[Pasted image 20250305095904.png]]
 >4.Client Server and User的中端（Simon）
+

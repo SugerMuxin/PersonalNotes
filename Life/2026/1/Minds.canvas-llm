@@ -27,8 +27,8 @@
 				"x": 240,
 				"y": 0
 			},
-			"width": 860,
-			"height": 660,
+			"width": 640,
+			"height": 260,
 			"data": {
 				"results": [
 					{
@@ -42,8 +42,8 @@
 				"part": 0
 			},
 			"measured": {
-				"width": 860,
-				"height": 660
+				"width": 640,
+				"height": 260
 			},
 			"selected": false
 		}

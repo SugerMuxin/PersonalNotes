@@ -3,9 +3,6 @@
 
 
 
-
-
-
 ```
 
             var searchconfig = GameConfig.GetDataWithTypeById<KSsearchGoods>(searchId);

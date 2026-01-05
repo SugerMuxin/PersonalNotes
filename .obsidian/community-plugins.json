@@ -12,5 +12,7 @@
   "canvas-llm",
   "obsidian-daily-stats",
   "obsidian-habit-tracker",
-  "heatmap-tracker"
+  "heatmap-tracker",
+  "heatmap-calendar",
+  "dataview"
 ]
