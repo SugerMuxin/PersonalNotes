@@ -1,3 +1,7 @@
+---
+tags:
+---
+
 #### <span style="color:yellow;">Emergency Events</span>
 
 1. ETX  DXT PVRTC ASTC 压缩原理

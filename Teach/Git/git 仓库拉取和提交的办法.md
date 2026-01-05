@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - git
+  - teach
+---
+
+
 1.私有仓库
 
 其实设置了用户名和邮箱好像是可以直接拉取的。但是按道理是不应该，所以还需要一层保障，这个保障就是PersonalToken

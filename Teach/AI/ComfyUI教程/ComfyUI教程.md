@@ -1,6 +1,8 @@
 ---
-star: https://zhuanlan.zhihu.com/p/4381558102
-star2:
+tags:
+  - teach
+  - AI
+author: RuoSaChen
 ---
 -
 

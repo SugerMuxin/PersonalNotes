@@ -1,3 +1,7 @@
+---
+tags:
+  - unity
+---
 
 ##### <span style="color:yellow;">Blend One Zero</span>
 > 前面的One代表本次渲染的的颜色参数因子  ，Zero代表缓冲区的目标的参数因子

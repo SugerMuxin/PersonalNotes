@@ -1,14 +1,3 @@
----
-author: Edgar Allan Poe
-published: 1845
-tags: poems
-excalidraw-plugin: parsed
-star: https://zhuanlan.zhihu.com/p/4381558102
-aliases:
-  - maxine
-cssclasses:
-  - "1"
----
 
 
 

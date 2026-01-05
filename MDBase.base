@@ -1,0 +1,24 @@
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.hasTag("unity")
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.basename
+      - file.ctime
+      - file.ext
+      - tags
+      - author
+    columnSize:
+      note.tags: 345
+    imageAspectRatio: 0.9
+    cardSize: 220
+    imageFit: contain

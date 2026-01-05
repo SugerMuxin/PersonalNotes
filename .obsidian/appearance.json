@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "awesome-brain-manager"
-  ]
+  ],
+  "cssTheme": ""
 }
