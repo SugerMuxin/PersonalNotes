@@ -1,3 +1,10 @@
+---
+tags:
+  - english
+author: RuoSaChen
+---
+
+
 ###                                                    <span style ="color:green;">Sucess of life</span>
 
 >Success means different things for different people. Some may equate  it with famous, some with wealth and still some with accomplishments. For me it <span style="color:yellow;">fulfilling</span> one's dreams . Whatever your dreams are, you have a goal there and then focus all your attention on it.
