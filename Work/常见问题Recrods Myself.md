@@ -1,1 +1,0 @@
-1.UI的动画导致的合批导致的层级问题。UIconfig表里的useBatching字段修改位false;

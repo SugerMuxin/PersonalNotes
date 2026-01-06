@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - shader
+---
+
+
 >ReadMe：
     在Shader使用过程中遇到的常见的一些用法以及遇到的一些问题的记录
 
@@ -6,7 +14,7 @@
 1. frac 取小数部分
     floor 是向下取整，frac是取小数部分
 
-2. saturate函数
+2. saturate函数 
 	将颜色规范到 0~1 之间
 	if (any(saturate(v.texcoord) - v.texcoord)) {
 		o.color.b = 0.5;

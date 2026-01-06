@@ -1,3 +1,12 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - shader
+---
+
+
+
 在Unity里，渲染路径（Rending Path）决定了光照是如何应用到Unity Shader中的。因此，如果需要和光源打交道的情况下，就需要为每个Pass指定使用的渲染路径。
 
 Unity支持的渲染路径包括

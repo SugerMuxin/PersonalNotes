@@ -484,8 +484,8 @@
 				0
 			],
 			"position": {
-				"x": -2980,
-				"y": 2100
+				"x": -3080,
+				"y": 2020
 			},
 			"measured": {
 				"width": 260,
@@ -516,8 +516,8 @@
 				0
 			],
 			"position": {
-				"x": -2460,
-				"y": 2100
+				"x": -2780,
+				"y": 2200
 			},
 			"measured": {
 				"width": 660,
@@ -580,6 +580,52 @@
 			},
 			"selected": false,
 			"dragging": false
+		},
+		{
+			"type": "textInput",
+			"width": 260,
+			"height": 120,
+			"data": {
+				"value": ""
+			},
+			"id": "1767669148343",
+			"origin": [
+				0,
+				0
+			],
+			"position": {
+				"x": -1660,
+				"y": 2560
+			},
+			"measured": {
+				"width": 260,
+				"height": 120
+			},
+			"selected": false
+		},
+		{
+			"type": "generate",
+			"width": 460,
+			"height": 340,
+			"data": {
+				"results": [],
+				"provider": "openrouter",
+				"model": "google/gemma-3n-e4b-it:free"
+			},
+			"id": "1767669151791",
+			"origin": [
+				0,
+				0
+			],
+			"position": {
+				"x": -1160,
+				"y": 2580
+			},
+			"measured": {
+				"width": 460,
+				"height": 340
+			},
+			"selected": false
 		}
 	],
 	"edges": [
@@ -648,6 +694,11 @@
 			"source": "1767495238317",
 			"target": "1767495239717",
 			"id": "xy-edge__1767495238317-1767495239717"
+		},
+		{
+			"source": "1767669148343",
+			"target": "1767669151791",
+			"id": "xy-edge__1767669148343-1767669151791"
 		}
 	]
 }

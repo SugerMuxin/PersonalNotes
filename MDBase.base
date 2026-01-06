@@ -1,24 +1,28 @@
 formulas:
-  Untitled: ""
+  Untitled: file.embeds.filter(value.containsAny("png","jpg","webp","svg","jpeg"))[0]
   Untitled 2: ""
+properties:
+  formula.Untitled:
+    displayName: coverimg
 views:
   - type: cards
     name: Table
     filters:
       and:
-        - file.hasTag("unity")
+        - file.ext != "png"
+        - file.ext != "pdf"
+        - file.ext != "rar"
+        - file.ext != "exe"
     groupBy:
       property: file.folder
       direction: ASC
     order:
-      - file.name
-      - file.basename
-      - file.ctime
-      - file.ext
       - tags
       - author
+      - file.name
+      - formula.Untitled
     columnSize:
       note.tags: 345
     imageAspectRatio: 0.9
-    cardSize: 220
-    imageFit: contain
+    cardSize: 170
+    image: formula.Untitled

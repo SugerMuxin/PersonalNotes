@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - shader
+---
+
+
 > version 1.0
 
 Shader "Unlit/RainyWindow"

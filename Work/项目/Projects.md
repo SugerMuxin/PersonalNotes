@@ -1,3 +1,10 @@
+---
+author: RuoSaChen
+tags:
+  - work
+---
+
+
 ----------------------------------------
 >0: 打包机账号
 	10.80.4.125
@@ -40,3 +47,14 @@ IOS MAC 密码 abcd1234
 >\\10.80.4.35\art
 账号：share
 密码：LT123456@
+
+
+1. svn地址
+Empire :  svn://10.80.9.41/SevenKingdom/Client/2024Version/Empire/Unity
+Empire FGUI ： svn://10.80.9.41/SevenKingdom/Client/2024Version/Empire/UI
+
+RedAlert : svn://10.80.9.41/SevenKingdom/Client/2024Version/RedAlert/Unity
+RedAlert-FGUI : svn://10.80.9.41/SevenKingdom/Client/2024Version/RedAlert/UI
+
+RedAlert3: svn://10.80.9.41/SevenKingdom/Client/2024Version/RedAlert3/Unity
+

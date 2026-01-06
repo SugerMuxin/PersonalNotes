@@ -1,3 +1,10 @@
+---
+author: RuoSaChen
+tags:
+  - teach
+---
+
+
 ubuntu 18
 
 ①--WSL  升级------------

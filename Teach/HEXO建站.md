@@ -1,3 +1,10 @@
+---
+author: RuoSaChen
+tags:
+  - teach
+---
+
+
 >1. 确保你已经安装了 Git
 >2. 确保你已经安装了 Node
 >3. 安装HEXO

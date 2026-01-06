@@ -1,3 +1,9 @@
+---
+author: RuoSaChen
+tags:
+  - teach
+  - csharp
+---
 
 
 >1. 所有类型都派生自 System.Object (以下代买没区别)

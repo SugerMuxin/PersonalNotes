@@ -1,3 +1,10 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - teach
+---
+
 
 <h2><font color="green">一. Tips</font></h2>
 >1.能用小图的用小图，能九宫格的九宫格

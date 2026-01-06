@@ -1,3 +1,8 @@
+---
+author: RuoSaChen
+tags:
+  - work
+---
 
 >1. SkinmeshRender  （一些使用了Skinmesh的对象未显示问题）
 >  出现的问题是打出来的abb包中的一些使用了SkinmeshRender的模型没有显示出来。原因是在打包的过程中勾选了# stripEngineCode 选项，如果勾选了这个选项在打IL2CPP包的时，会去掉一些没有引用到的模块和脚本。

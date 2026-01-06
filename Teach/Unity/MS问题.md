@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - teach
+---
+
+
 >1.Unity网络框架的搭建
 >(1)网络数据的通讯方式
 >	a: http： get,post  获取服务器地址，资源服务器下载相关数据，热更，客服，反馈，分享等等，上传本地机器的相关信息等等，可以使用UnityWebRequest

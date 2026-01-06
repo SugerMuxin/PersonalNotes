@@ -2,6 +2,7 @@
 author: RuoSaChen
 tags:
 ctime: 2026-01-05T16:40:00
+cover: "![[Pasted image 20240506094052.png]]"
 ---
 
 

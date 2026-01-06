@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - work
+  - teach
+---
+
+
 
 ------------------------------------------------------------------------------------
 #### <span style="color:yellow;"> 1. Android11 adb push Permission denied</span>

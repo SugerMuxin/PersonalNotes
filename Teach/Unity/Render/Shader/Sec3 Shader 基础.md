@@ -1,3 +1,9 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - shader
+---
 
 >1.以下是Shader支持的Properties语义块
 >    Properties

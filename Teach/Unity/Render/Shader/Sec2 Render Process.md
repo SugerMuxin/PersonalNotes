@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - shader
+---
+
+
 ![[header.png]]
 ### 2.1 渲染流程
 ###### 渲染流程中的几个阶段

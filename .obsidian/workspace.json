@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teach/Unity/性能优化/Unity UGUI合批相关.md",
+                "file": "Work/项目文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity UGUI合批相关"
+              "title": "项目文档"
             }
           },
           {
@@ -27,16 +27,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Family/Maxine/Test.md",
+                "file": "xiaxie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "xiaxie"
+            }
+          },
+          {
+            "id": "909854e2c358ad15",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Work/KS/场景初始化协议.canvas",
+                "viewState": {
+                  "x": 546.2511881082828,
+                  "y": 811.2702010235994,
+                  "zoom": -0.5108259504255497
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "场景初始化协议"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,36 +246,49 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "08b492525e3df0fd",
+  "active": "909854e2c358ad15",
   "lastOpenFiles": [
-    "Family/Maxine/Sport.canvas",
-    "Family/Maxine/资料收藏.md",
-    "English/Local.md",
-    "English/23-12-11.md",
-    "English/Re/Day 01.md",
-    "English/Re/d6.md",
-    "English/Re/d5.md",
-    "English/Re/d4.md",
-    "English/Re/d3.md",
-    "English/Re/d2.md",
-    "English/Re/d1.md",
-    "Excalidraw/Drawing 2025-11-14 14.14.11.excalidraw.md",
-    "Excalidraw/qiangpao.md",
-    "Excalidraw/Drawing 2025-03-12 08.48.45.excalidraw.md",
-    "无缝方式.md",
-    "WorkPlan.md",
-    "xiaxie.md",
-    "TaskStack.md",
-    "mysql安装.md",
-    "Canvas LLM.canvas-llm",
-    "项目 Doc.md",
-    "初始化协议.md",
     "MDBase.base",
-    "Teach/Unity/性能优化/Unity UGUI合批相关.md",
-    "Teach/Unity/Optimize/URP  BRP.md",
-    "Teach/Unity/Optimize/Texture Optimize.md",
-    "Teach/Unity/Optimize/Particles Op.md",
-    "Teach/Unity/Optimize/Optimize  Strategy.md",
+    "English/Re/d2.md",
+    "xiaxie.md",
+    "Teach/Unity/Render/渲染顺序.md",
+    "English/Re/d1.md",
+    "Pics/images.png",
+    "ZEmoj/a-folder.svg",
+    "Teach/Unity/Render/Shader/ShaderRecords.md",
+    "Teach/Unity/VR/VR Plugins.md",
+    "Teach/Unity游戏破解工具/Records.md",
+    "Teach/Unity/Unity中合并图集的方法.md",
+    "Teach/Unity/Unity Optimize.md",
+    "Teach/Unity/Texture压缩方式及其原理.md",
+    "Teach/Unity/Texture Optimize Strategies.md",
+    "Teach/Unity/GPU Instancing.md",
+    "Teach/Unity/ECS.md",
+    "Teach/Unity/向量.md",
+    "Teach/Unity/Continue.md",
+    "Teach/Unity/多角色攻击的行为管理.md",
+    "Teach/Unity/破解方法.md",
+    "Teach/Unity/Memory Alloc.md",
+    "Teach/Unity/MS问题.md",
+    "Teach/KCP协议.md",
+    "Teach/HEXO建站.md",
+    "Teach/CLR2.md",
+    "Teach/CLR.md",
+    "Teach/内网穿透.md",
+    "Teach/工具与插件整理.md",
+    "A-T/Daily/2026/1/Minds.canvas-llm",
+    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
+    "Work/KS/KS LLM.canvas-llm",
+    "Work/KS/场景初始化协议.canvas",
+    "Work/KS/KS背包结构.canvas",
+    "Pics/Pasted image 20260106113945.png",
+    "Canvas LLM.canvas-llm",
+    "ZEmoj/Untitled.canvas",
+    "Work/KS/KS任务.canvas",
+    "Work/KS/KS建筑结构.canvas",
+    "Work/KS/KSTemp.canvas",
+    "Work/KS/Shaders.canvas",
+    "Family/Maxine/Sport.canvas",
     "A-T/Untitled.base",
     "Pics/Pasted image 20250424140817.png",
     "Pics/Pasted image 20250122174237.png",
@@ -267,24 +297,11 @@
     "Pics/Pasted image 20240708085246.png",
     "Pics/Pasted image 20240708085241.png",
     "Pics/Pasted image 20240627143523.png",
-    "Pics/Pasted image 20240531144554.png",
-    "Pics/Pasted image 20240528092408.png",
-    "Pics/Pasted image 20240527141245.png",
     "Books/Epub/DOOM_David_Kushner_Z_Library.epub",
     "Books/PDF/CatLike/Hex-Map-6.pdf",
     "Books/Texture压缩方式及其原理.pdf",
     "Books/quaternion.pdf",
     "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
-    "Life/2026/1/Minds.canvas-llm",
-    "Canvas LLM 1.canvas-llm",
-    "Work/KS/场景初始化协议.canvas",
-    "Untitled.canvas",
-    "Work/KS/KSTemp.canvas",
-    "Work/KS/KS背包结构.canvas",
-    "Life/2026/1/Minds.canvas",
-    "Life/2026/MindStorm/STOCKS.canvas",
-    "Life/2026/MindStorm/IDEAS.canvas",
-    "Work/KS/KS建筑结构.canvas",
-    "Work/KS/Shaders.canvas"
+    "Untitled.canvas"
   ]
 }

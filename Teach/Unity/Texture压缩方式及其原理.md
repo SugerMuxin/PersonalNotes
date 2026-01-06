@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - teach
+---
+
+
 ##### 1.为什么需要压缩？
 
 >移动端的优化需要。

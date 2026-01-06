@@ -1,3 +1,10 @@
+---
+author: RuoSaChen
+tags:
+  - teach
+---
+
+
 git clone -b xdag https://github.com/swordlet/xmrig.git
 
 cmake .

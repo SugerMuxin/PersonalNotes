@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - work
+---
+
+
 ### Optimizing performance in a Unity game is crucial for ensuring a smooth experience across a range of devices. Here are some strategies you can use to improve performance: 
 ### 1. **Profile Your Game** - Use the Unity Profiler to identify bottlenecks in CPU, GPU, memory, and rendering. - Look for high CPU usage, excessive draw calls, and memory allocation spikes.
 

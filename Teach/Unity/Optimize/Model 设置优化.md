@@ -1,3 +1,11 @@
+---
+author: RuoSaChen
+tags:
+  - unity
+  - personal
+  - teach
+---
+
 针对FBX文件的属性设置
 
 >1. Mesh Compression : 压缩比越高模型文件越小，需要根据游戏内的实际效果决定，一般可以设置为Medium
