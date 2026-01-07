@@ -25,6 +25,81 @@
             "id": "08b492525e3df0fd",
             "type": "leaf",
             "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-ghost",
+              "title": "bases"
+            }
+          },
+          {
+            "id": "909854e2c358ad15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Re/d1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "d1"
+            }
+          },
+          {
+            "id": "24a4957ff92d0410",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "A-T/Daily/2026/MindStorm/IDEAS.canvas",
+                "viewState": {
+                  "x": -1566,
+                  "y": -277.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "IDEAS"
+            }
+          },
+          {
+            "id": "a54d71fe0e49a55d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Work/KS/场景初始化协议.canvas",
+                "viewState": {
+                  "x": 67.26343498624709,
+                  "y": 848.8600995762822,
+                  "zoom": -0.5108259504255497
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "场景初始化协议"
+            }
+          },
+          {
+            "id": "271a53cd53192467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Quest表结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quest表结构"
+            }
+          },
+          {
+            "id": "84c82c271bf4ba40",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "xiaxie.md",
@@ -36,24 +111,40 @@
             }
           },
           {
-            "id": "909854e2c358ad15",
+            "id": "7fa8958ad5c93bcb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "Work/KS/场景初始化协议.canvas",
-                "viewState": {
-                  "x": 546.2511881082828,
-                  "y": 811.2702010235994,
-                  "zoom": -0.5108259504255497
-                }
+                "file": "MDBase.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "场景初始化协议"
+              "icon": "lucide-layout-grid",
+              "title": "MDBase"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
+      },
+      {
+        "id": "e7fc80ec6615df00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaf92a124e07ad7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A-T/摘录语.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "摘录语"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 334.5
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -243,65 +334,67 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "ai-assistant:Open AI Assistant": false,
       "canvas-llm:Create new Canvas LLM": false,
-      "awesome-brain-manager:Awesome Brain Manager": false
+      "awesome-brain-manager:Awesome Brain Manager": false,
+      "excel:Create Excel File": false
     }
   },
-  "active": "909854e2c358ad15",
+  "active": "eaf92a124e07ad7d",
   "lastOpenFiles": [
+    "Pics/met_silk_kashan_carpet.jpg",
     "MDBase.base",
-    "English/Re/d2.md",
-    "xiaxie.md",
-    "Teach/Unity/Render/渲染顺序.md",
-    "English/Re/d1.md",
-    "Pics/images.png",
-    "ZEmoj/a-folder.svg",
-    "Teach/Unity/Render/Shader/ShaderRecords.md",
-    "Teach/Unity/VR/VR Plugins.md",
-    "Teach/Unity游戏破解工具/Records.md",
-    "Teach/Unity/Unity中合并图集的方法.md",
-    "Teach/Unity/Unity Optimize.md",
-    "Teach/Unity/Texture压缩方式及其原理.md",
-    "Teach/Unity/Texture Optimize Strategies.md",
-    "Teach/Unity/GPU Instancing.md",
-    "Teach/Unity/ECS.md",
-    "Teach/Unity/向量.md",
-    "Teach/Unity/Continue.md",
-    "Teach/Unity/多角色攻击的行为管理.md",
-    "Teach/Unity/破解方法.md",
-    "Teach/Unity/Memory Alloc.md",
-    "Teach/Unity/MS问题.md",
-    "Teach/KCP协议.md",
-    "Teach/HEXO建站.md",
-    "Teach/CLR2.md",
-    "Teach/CLR.md",
-    "Teach/内网穿透.md",
-    "Teach/工具与插件整理.md",
-    "A-T/Daily/2026/1/Minds.canvas-llm",
-    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
-    "Work/KS/KS LLM.canvas-llm",
-    "Work/KS/场景初始化协议.canvas",
-    "Work/KS/KS背包结构.canvas",
-    "Pics/Pasted image 20260106113945.png",
-    "Canvas LLM.canvas-llm",
+    "A-T/摘录语.md",
+    "Pics/cover-personal.jpg",
+    "A-T/吃药指南.md",
     "ZEmoj/Untitled.canvas",
+    "Untitled.md",
+    "Work/KS/场景初始化协议.canvas",
+    "xiaxie.md",
+    "Work/Quest表结构.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Work/项目文档.md",
+    "A-T/Articles/九边/债务到底有啥可怕的。借新还旧不就行了？.md",
+    "A-T/Articles/九边/又打起来了.md",
+    "A-T/Articles/九边/为啥经常说产能过剩.md",
+    "A-T/Articles/九边/九边.md",
+    "Pics/cover-read2.png",
+    "Pics/cover-read 1.webp",
+    "Pics/cover-read.webp",
+    "A-T/中美科技企业比较分析.md",
+    "Pics/cover-ai 1.jpg",
+    "A-T/中国铜矿生产企业分析报告.md",
+    "Pics/cover-ai.jpg",
+    "Pics/cover-life 1.png",
+    "Pics/cover-life.png",
+    "Work/SLG的一些个人想法.md",
+    "Work/WorkPlan.md",
+    "A-T/Temp.md",
+    "Teach/Unity/Render/Shader/Section7 基础纹理.md",
+    "Teach/Unity/Render/Shader/Section6 基础光照.md",
+    "English/Re/Day 01.md",
+    "Pics/cover-en2 8.png",
+    "English/Re/d6.md",
+    "Pics/cover-en2 7.png",
+    "English/Re/d5.md",
+    "English/Re/d4.md",
+    "English/Re/d3.md",
+    "English/Re/d2.md",
+    "English/Re/d1.md",
+    "English/23-12-11.md",
+    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
+    "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
+    "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
+    "Books/PDF/CatLike/Hex-Map-6.pdf",
+    "Canvas LLM.canvas-llm",
+    "Work/KS/KS背包结构.canvas",
+    "A-T/Daily/2026/1/Minds.canvas-llm",
+    "Work/KS/KS LLM.canvas-llm",
     "Work/KS/KS任务.canvas",
     "Work/KS/KS建筑结构.canvas",
     "Work/KS/KSTemp.canvas",
     "Work/KS/Shaders.canvas",
     "Family/Maxine/Sport.canvas",
     "A-T/Untitled.base",
-    "Pics/Pasted image 20250424140817.png",
-    "Pics/Pasted image 20250122174237.png",
-    "Pics/Pasted image 20250122174156.png",
-    "Pics/Pasted image 20250117094346.png",
-    "Pics/Pasted image 20240708085246.png",
-    "Pics/Pasted image 20240708085241.png",
-    "Pics/Pasted image 20240627143523.png",
-    "Books/Epub/DOOM_David_Kushner_Z_Library.epub",
-    "Books/PDF/CatLike/Hex-Map-6.pdf",
-    "Books/Texture压缩方式及其原理.pdf",
-    "Books/quaternion.pdf",
-    "Books/魔鬼经济学系列套装共4册_美_列维_特_美_都伯纳_Z_Library.pdf",
-    "Untitled.canvas"
+    "Books/Epub/DOOM_David_Kushner_Z_Library.epub"
   ]
 }

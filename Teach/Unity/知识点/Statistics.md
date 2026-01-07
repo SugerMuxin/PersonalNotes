@@ -5,7 +5,7 @@ tags:
   - unity
   - work
 ---
-
+![[cover-unity 18.jpg]]
 
 >首先看FPS，很高就基本没问题（移动平台>30,PC > 60）
 1. FPS低，CPU消耗的时间过多就是程序的复杂度太高，一般是在Unity的Update中的代码过于复杂

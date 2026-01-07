@@ -4,7 +4,7 @@ tags:
   - unity
   - shader
 ---
-
+![[cover-shader 11.png]]
 
 1.Unity中实现透明效果的方法
 （1）使用透明度测试（Alpha Test），这种方法其实无法得到真正的透明效果

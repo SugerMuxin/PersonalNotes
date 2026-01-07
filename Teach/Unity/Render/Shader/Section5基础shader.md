@@ -4,7 +4,7 @@ tags:
   - unity
   - shader
 ---
-
+![[cover-shader 9.png]]
 
 1. Unity支持的语义
 	DirextX 10.0 以后，有一种新的语义类型

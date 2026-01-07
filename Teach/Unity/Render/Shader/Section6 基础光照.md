@@ -4,7 +4,7 @@ tags:
   - unity
   - shader
 ---
-
+![[cover-shader 10.png]]
 
 >1.如何去量化一个光源到底发出了多少光？
 >在光学中，使用辐照度（irradiance）来量化光。

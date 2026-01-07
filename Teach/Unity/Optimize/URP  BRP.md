@@ -4,7 +4,7 @@ tags:
   - unity
   - teach
 ---
-
+![[cover-unity 25.jpg]]
 
 1. 在BRP中渲染一个点需要三个批次，如果使用URP只需要两个批次。That's because URP doesn't use a separate depth pass for directional shadows. It does have more set-pass calls, but that doesn't appear to be a problem.
 https://catlikecoding.com/unity/tutorials/basics/measuring-performance/

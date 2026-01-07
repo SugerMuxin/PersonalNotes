@@ -5,7 +5,7 @@ tags:
   - unity
   - work
 ---
-
+![[cover-unity 17.jpg]]
 ##### 一. 创建方式
 >1. 静态方法创建数据对象
 ```

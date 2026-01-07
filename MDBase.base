@@ -13,6 +13,11 @@ views:
         - file.ext != "pdf"
         - file.ext != "rar"
         - file.ext != "exe"
+        - file.ext != "bat"
+        - file.ext != "base"
+        - file.ext != "canvas-llm"
+        - file.folder != "Pics"
+        - file.folder != "Excalidraw"
     groupBy:
       property: file.folder
       direction: ASC
@@ -20,9 +25,8 @@ views:
       - tags
       - author
       - file.name
-      - formula.Untitled
     columnSize:
       note.tags: 345
     imageAspectRatio: 0.9
-    cardSize: 170
+    cardSize: 200
     image: formula.Untitled

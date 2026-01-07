@@ -4,7 +4,7 @@ tags:
   - unity
   - shader
 ---
-
+![[cover-shader 7.png]]
 >1.以下是Shader支持的Properties语义块
 >    Properties
     {

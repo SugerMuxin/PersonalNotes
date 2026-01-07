@@ -159,10 +159,7 @@
   "A-T/文摘/辞藻类": "IbFolder",
   "A-T/文摘/辞藻类/碎片文摘.md": "SiMdbook",
   "A-T/文摘/阿Q画圈.md": "SiMdbook",
-  "A-T/文摘/韩国令.md": "SiMdbook",
-  "A-T/文摘/任志强炮轰.md": "SiMdbook",
   "A-T/文摘/我在印度的701天.md": "SiMdbook",
-  "A-T/文摘/袁剑：中国房地产多头利益集团正在瓦解（一）.md": "SiMdbook",
   "Work/Tools/ADB相关记录.md": "RiFile3Line",
   "Teach/Unity/知识点/Particle.md": "RiFileListLine",
   "Teach/Unity/知识点/Stencial.md": "RiFileListLine",
@@ -268,5 +265,8 @@
   "Teach/HEXO建站.md": "LoMy1",
   "Teach/Unity/Render/Render Workflow.md": "LoMy1",
   "Teach/CLR.md": "LoMy1",
-  "Teach/CLR2.md": "LoMy1"
+  "Teach/CLR2.md": "LoMy1",
+  "A-T/Ecnomic/韩国令.md": "SiMdbook",
+  "A-T/Ecnomic/任志强炮轰.md": "SiMdbook",
+  "A-T/Ecnomic/袁剑：中国房地产多头利益集团正在瓦解（一）.md": "SiMdbook"
 }

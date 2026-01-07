@@ -3,7 +3,7 @@ author: RuoSaChen
 tags:
   - unity
 ---
-
+![[cover-unity 10.jpg]]
 
 Quality -> Texture Streaming 
 >**Texture Streaming（纹理流送）** 系统是一个高级内存管理功能，正确使用它能极大优化项目性能，但理解其工作原理和适用场景至关重要。

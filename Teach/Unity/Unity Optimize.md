@@ -2,7 +2,7 @@
 tags:
   - unity
 ---
-
+![[cover-unity 7.jpg]]
 [[伽马校正]]
 [[ASTC纹理压缩格式详解]]
 [[DC策略]]

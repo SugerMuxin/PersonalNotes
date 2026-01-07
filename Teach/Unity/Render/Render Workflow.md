@@ -5,7 +5,7 @@ tags:
   - work
   - shader
 ---
-
+![[cover-shader 3.png]]
 
 1.Application Stage
 	CPU需要在此阶段进行数据的准备工作，准备好下一帧需要渲染的游戏对象的数据。还要进行剔除工作，以免将不在摄像机视野内的数据传递给GPU渲染。关于剔除有以下几种

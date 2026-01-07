@@ -3,7 +3,7 @@ tags:
   - english
 author: RuoSaChen
 ---
-
+![[cover-en2 8.png]]
 
 ###                                                    <span style ="color:green;">Sucess of life</span>
 

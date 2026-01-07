@@ -3,7 +3,7 @@ author: RuoSaChen
 tags:
   - unity
 ---
-
+![[cover-unity 20.jpg]]
 
 在Unity中，每次引擎准备数据并通知GPU的过程称为一次Draw Call（DC）。Draw Call次数是一项非常重要的性能指标。UI系统一般包含数量众多的物体，有效控制DC是衡量一个UI系统是否实用的关键因素，特别是在移动设备上。
 
