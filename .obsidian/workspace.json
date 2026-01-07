@@ -270,8 +270,8 @@
             "state": {
               "type": "stats-tracker",
               "state": {},
-              "icon": "bar-graph",
-              "title": "Daily Stats"
+              "icon": "lucide-ghost",
+              "title": "stats-tracker"
             }
           },
           {
@@ -304,6 +304,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -314,8 +315,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "ai-assistant:Open AI Assistant": false,
       "canvas-llm:Create new Canvas LLM": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
   "active": "84c82c271bf4ba40",
