@@ -100,20 +100,6 @@
             "id": "84c82c271bf4ba40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xiaxie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "xiaxie"
-            }
-          },
-          {
-            "id": "7fa8958ad5c93bcb",
-            "type": "leaf",
-            "state": {
               "type": "bases",
               "state": {
                 "file": "MDBase.base",
@@ -122,16 +108,9 @@
               "icon": "lucide-layout-grid",
               "title": "MDBase"
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "e7fc80ec6615df00",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "eaf92a124e07ad7d",
+            "id": "7fa8958ad5c93bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,7 +123,8 @@
               "title": "摘录语"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -338,50 +318,49 @@
       "excel:Create Excel File": false
     }
   },
-  "active": "eaf92a124e07ad7d",
+  "active": "84c82c271bf4ba40",
   "lastOpenFiles": [
-    "Pics/met_silk_kashan_carpet.jpg",
+    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
     "MDBase.base",
-    "A-T/摘录语.md",
-    "Pics/cover-personal.jpg",
-    "A-T/吃药指南.md",
+    "A-T/Daily/2026/plan.md",
+    "A-T/Daily/2025/Octob.md",
+    "A-T/Daily/2025/12.md",
+    "A-T/Daily/BooksQueue.md",
+    "A-T/Daily/原子性训练.md",
+    "A-T/Daily/宇宙阅读记录.md",
+    "A-T/Daily/文明之光阅读摘要.md",
+    "A-T/Daily/思考的细节记录.md",
+    "A-T/Daily/认知觉醒读后感.md",
+    "A-T/Daily/枪炮病菌与钢铁阅读总结.md",
+    "A-T/Daily/家长会小记.md",
+    "A-T/Daily/红海里的一条路.md",
+    "A-T/Daily/孩子不听你的该怎么办.md",
+    "A-T/Daily/关于读书.md",
+    "A-T/Daily/从秦朝的兴衰看人生起落2.md",
+    "A-T/Daily/从秦朝的兴衰看人生起落.md",
+    "A-T/Daily/北欧福利那么好钱从哪里来.md",
+    "A-T/文摘/辞藻类/碎片文摘.md",
+    "A-T/Articles/九边/关于奢侈品.md",
+    "A-T/Articles/九边/房地产到底还能走多远.md",
+    "A-T/Articles/九边/打击游戏有用吗.md",
+    "A-T/Articles/九边/白岩松最近被骂.md",
+    "A-T/Articles/九边/九边.md",
+    "Pics/cover-per 9.png",
+    "A-T/文摘/阿Q画圈.md",
+    "A-T/文摘/我在印度的701天.md",
+    "Pics/cover-per 8.png",
+    "Pics/cover-per 7.png",
+    "Pics/cover-per 6.png",
+    "Pics/cover-per 5.png",
+    "Pics/cover-per 4.png",
+    "Pics/cover-per 3.png",
+    "Pics/cover-per 2.png",
+    "Pics/cover-per 1.png",
+    "Pics/cover-per.png",
     "ZEmoj/Untitled.canvas",
-    "Untitled.md",
     "Work/KS/场景初始化协议.canvas",
-    "xiaxie.md",
-    "Work/Quest表结构.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Work/项目文档.md",
-    "A-T/Articles/九边/债务到底有啥可怕的。借新还旧不就行了？.md",
-    "A-T/Articles/九边/又打起来了.md",
-    "A-T/Articles/九边/为啥经常说产能过剩.md",
-    "A-T/Articles/九边/九边.md",
-    "Pics/cover-read2.png",
-    "Pics/cover-read 1.webp",
-    "Pics/cover-read.webp",
-    "A-T/中美科技企业比较分析.md",
-    "Pics/cover-ai 1.jpg",
-    "A-T/中国铜矿生产企业分析报告.md",
-    "Pics/cover-ai.jpg",
-    "Pics/cover-life 1.png",
-    "Pics/cover-life.png",
-    "Work/SLG的一些个人想法.md",
-    "Work/WorkPlan.md",
-    "A-T/Temp.md",
-    "Teach/Unity/Render/Shader/Section7 基础纹理.md",
-    "Teach/Unity/Render/Shader/Section6 基础光照.md",
-    "English/Re/Day 01.md",
-    "Pics/cover-en2 8.png",
-    "English/Re/d6.md",
-    "Pics/cover-en2 7.png",
-    "English/Re/d5.md",
-    "English/Re/d4.md",
-    "English/Re/d3.md",
-    "English/Re/d2.md",
-    "English/Re/d1.md",
-    "English/23-12-11.md",
-    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
     "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
     "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
     "Books/PDF/CatLike/Hex-Map-6.pdf",
