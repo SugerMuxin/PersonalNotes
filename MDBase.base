@@ -18,6 +18,7 @@ views:
         - file.ext != "canvas-llm"
         - file.folder != "Pics"
         - file.folder != "Excalidraw"
+        - file.folder != "Books"
     groupBy:
       property: file.folder
       direction: ASC

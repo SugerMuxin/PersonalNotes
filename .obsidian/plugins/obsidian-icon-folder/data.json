@@ -2,9 +2,9 @@
   "settings": {
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
+    "fontSize": 17,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#ffffff",
     "recentlyUsedIcons": [
       "SiCanva",
       "RiDatabase2Fill",
@@ -12,17 +12,17 @@
       "RiFilePdfFill",
       "LoMy1"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 15,
     "rules": [],
     "extraMargin": {
       "top": 0,
-      "right": 4,
+      "right": 8,
       "bottom": 0,
       "left": 0
     },
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
@@ -268,5 +268,6 @@
   "Teach/CLR2.md": "LoMy1",
   "A-T/Ecnomic/韩国令.md": "SiMdbook",
   "A-T/Ecnomic/任志强炮轰.md": "SiMdbook",
-  "A-T/Ecnomic/袁剑：中国房地产多头利益集团正在瓦解（一）.md": "SiMdbook"
+  "A-T/Ecnomic/袁剑：中国房地产多头利益集团正在瓦解（一）.md": "SiMdbook",
+  "Teach/Unity/性能优化/Unity性能之降低GC.md": "LoMy1"
 }

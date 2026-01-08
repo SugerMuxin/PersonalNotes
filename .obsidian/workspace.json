@@ -13,25 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/项目文档.md",
+                "file": "Teach/Unity/性能优化/Unity UGUI合批相关.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目文档"
-            }
-          },
-          {
-            "id": "08b492525e3df0fd",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-ghost",
-              "title": "bases"
+              "title": "Unity UGUI合批相关"
             }
           },
           {
@@ -40,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Re/d1.md",
+                "file": "PTEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d1"
+              "title": "PTEST"
             }
           },
           {
@@ -69,23 +56,6 @@
             "id": "a54d71fe0e49a55d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work/KS/场景初始化协议.canvas",
-                "viewState": {
-                  "x": 67.26343498624709,
-                  "y": 848.8600995762822,
-                  "zoom": -0.5108259504255497
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "场景初始化协议"
-            }
-          },
-          {
-            "id": "271a53cd53192467",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Work/Quest表结构.md",
@@ -97,7 +67,7 @@
             }
           },
           {
-            "id": "84c82c271bf4ba40",
+            "id": "271a53cd53192467",
             "type": "leaf",
             "state": {
               "type": "bases",
@@ -108,23 +78,9 @@
               "icon": "lucide-layout-grid",
               "title": "MDBase"
             }
-          },
-          {
-            "id": "7fa8958ad5c93bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A-T/摘录语.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "摘录语"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +92,7 @@
       {
         "id": "3877b788d4e313d7",
         "type": "tabs",
+        "dimension": 69.6088264794383,
         "children": [
           {
             "id": "4a7fdac01dd5362a",
@@ -178,10 +135,40 @@
             }
           }
         ]
+      },
+      {
+        "id": "5746e1d7e70f0d32",
+        "type": "tabs",
+        "dimension": 30.391173520561686,
+        "children": [
+          {
+            "id": "7fa8958ad5c93bcb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pics/Pasted image 20250222110111.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250222110111"
+            }
+          },
+          {
+            "id": "76fe0f6920d03ccf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 403.5
   },
   "right": {
     "id": "0f5210d017cb7041",
@@ -314,14 +301,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "ai-assistant:Open AI Assistant": false,
       "canvas-llm:Create new Canvas LLM": false,
-      "awesome-brain-manager:Awesome Brain Manager": false,
-      "excel:Create Excel File": false
+      "excel:Create Excel File": false,
+      "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "84c82c271bf4ba40",
+  "active": "909854e2c358ad15",
   "lastOpenFiles": [
-    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
     "MDBase.base",
+    "English/Re/d3.md",
+    "PTEST.md",
+    "Pics/cover-economy 5.jpg",
+    "A-T/Daily/2026/MindStorm/IDEAS.canvas",
+    "Teach/Unity/性能优化/Unity UGUI合批相关.md",
+    "Work/Quest表结构.md",
+    "ZEmoj/a-folder.svg",
+    "ZEmoj/folder.png",
+    "ZEmoj/folder.svg",
+    "ZEmoj/a-file.svg",
+    "xiaxie.md",
+    "Canvas LLM.canvas-llm",
+    "Work/项目文档.md",
+    "Work/KS/场景初始化协议.canvas",
+    "Pics/Pasted image 20250222110111.png",
+    "Work/WorkPlan.md",
+    "Work/SLG的一些个人想法.md",
+    "Work/项目启动流程.md",
+    "Work/Unity坑记录/unity开发中遇到的一些问题的记录.md",
+    "Work/Unity坑记录/Package.md",
+    "Work/Unity坑记录/Optimizing performance in Unity.md",
+    "A-T/摘录语.md",
+    "Pics/v2-2b084e36ce124d0547f0af7e557af3ef_1440w.png",
+    "English/Re/d2.md",
+    "English/Re/d1.md",
+    "Pics/cover-history.png",
+    "Pics/cover-history 1.png",
+    "Pics/cover-history 2.png",
+    "A-T/RuoSaChen/MyAccounts.md",
+    "A-T/Daily/Diary/Diary 2023.md",
     "A-T/Daily/2026/plan.md",
     "A-T/Daily/2025/Octob.md",
     "A-T/Daily/2025/12.md",
@@ -330,41 +346,12 @@
     "A-T/Daily/宇宙阅读记录.md",
     "A-T/Daily/文明之光阅读摘要.md",
     "A-T/Daily/思考的细节记录.md",
-    "A-T/Daily/认知觉醒读后感.md",
-    "A-T/Daily/枪炮病菌与钢铁阅读总结.md",
-    "A-T/Daily/家长会小记.md",
-    "A-T/Daily/红海里的一条路.md",
-    "A-T/Daily/孩子不听你的该怎么办.md",
-    "A-T/Daily/关于读书.md",
-    "A-T/Daily/从秦朝的兴衰看人生起落2.md",
-    "A-T/Daily/从秦朝的兴衰看人生起落.md",
-    "A-T/Daily/北欧福利那么好钱从哪里来.md",
-    "A-T/文摘/辞藻类/碎片文摘.md",
-    "A-T/Articles/九边/关于奢侈品.md",
-    "A-T/Articles/九边/房地产到底还能走多远.md",
-    "A-T/Articles/九边/打击游戏有用吗.md",
-    "A-T/Articles/九边/白岩松最近被骂.md",
-    "A-T/Articles/九边/九边.md",
-    "Pics/cover-per 9.png",
-    "A-T/文摘/阿Q画圈.md",
-    "A-T/文摘/我在印度的701天.md",
-    "Pics/cover-per 8.png",
-    "Pics/cover-per 7.png",
-    "Pics/cover-per 6.png",
-    "Pics/cover-per 5.png",
-    "Pics/cover-per 4.png",
-    "Pics/cover-per 3.png",
-    "Pics/cover-per 2.png",
-    "Pics/cover-per 1.png",
-    "Pics/cover-per.png",
     "ZEmoj/Untitled.canvas",
-    "Work/KS/场景初始化协议.canvas",
     "Untitled.base",
     "Untitled.canvas",
     "Books/PDF/【kk大神-楼主版】2010年的房地产调控.pdf",
     "Books/PDF/宇宙 (卡尔·萨根,墨盟) .pdf",
     "Books/PDF/CatLike/Hex-Map-6.pdf",
-    "Canvas LLM.canvas-llm",
     "Work/KS/KS背包结构.canvas",
     "A-T/Daily/2026/1/Minds.canvas-llm",
     "Work/KS/KS LLM.canvas-llm",
