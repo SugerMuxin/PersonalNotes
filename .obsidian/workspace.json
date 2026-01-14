@@ -75,9 +75,21 @@
               "icon": "lucide-file",
               "title": "0114_公众号文章"
             }
+          },
+          {
+            "id": "1079094026c28e6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -270,7 +282,7 @@
       "awesome-brain-manager:Awesome Brain Manager": false
     }
   },
-  "active": "3675a15116aa6a93",
+  "active": "1079094026c28e6a",
   "lastOpenFiles": [
     "A-T/Daily/2026/1/0114_整理版.md",
     "A-T/Daily/2026/1/0114_公众号文章.md",
