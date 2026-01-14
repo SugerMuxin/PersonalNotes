@@ -1,6 +1,15 @@
 {
 	"nodes":[
-		{"id":"bf009c4d225e6e26","x":-560,"y":-120,"width":250,"height":60,"color":"4","type":"text","text":""}
+		{"id":"bf009c4d225e6e26","type":"text","text":"搜索类任务 ： type2 = 130","x":-840,"y":-362,"width":240,"height":60,"color":"4"},
+		{"id":"93fda02aa12595e9","x":-1240,"y":-80,"width":176,"height":60,"color":"6","type":"text","text":"任务类型分类"},
+		{"id":"0261b75a9593c39c","x":-850,"y":-80,"width":250,"height":60,"color":"4","type":"text","text":"击杀任务：type2 = 131"},
+		{"id":"6e4ca52d6adf18dd","x":-480,"y":-141,"width":250,"height":181,"color":"2","type":"text","text":"example\n击杀5个匪徒\n\ntype:3\ntype2:131\npara2: 5\n\npara3:  \"6020\"  怪物id\n\n"},
+		{"id":"892f6208c2a81285","x":-480,"y":-454,"width":250,"height":244,"color":"2","type":"text","text":"example: \n搜索3个箱子\n\ntype:3\ntype2:130\npara2:3\n\npara3:\n1.箱子\n2战利品"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"e6c72c546059c720","fromNode":"bf009c4d225e6e26","fromSide":"right","toNode":"892f6208c2a81285","toSide":"left","color":"4"},
+		{"id":"3991ee342d570a49","fromNode":"93fda02aa12595e9","fromSide":"right","toNode":"bf009c4d225e6e26","toSide":"left","color":"4"},
+		{"id":"db239eea1d7cafc7","fromNode":"93fda02aa12595e9","fromSide":"right","toNode":"0261b75a9593c39c","toSide":"left","color":"4"},
+		{"id":"c4a9f52506b0bd0c","fromNode":"0261b75a9593c39c","fromSide":"right","toNode":"6e4ca52d6adf18dd","toSide":"left","color":"4"}
+	]
 }

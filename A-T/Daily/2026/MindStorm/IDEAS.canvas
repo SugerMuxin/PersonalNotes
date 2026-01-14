@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"51268f3756159fec","type":"text","text":"手机或者手表连接一个服务器，记录每个手机的轨迹数据。举办方能观察到所有人的具体位置和轨迹，防止作弊与安全保障","x":-1510,"y":-200,"width":250,"height":113,"color":"6"},
-		{"id":"5b13b6f2bb0ace1b","type":"text","text":"IDEAS","x":-1510,"y":-364,"width":250,"height":60,"color":"1"},
-		{"id":"5a481ea5b2e85f8b","type":"text","text":">1. 私域转转，积攒积分\n>2. 将游戏和书籍的结合\n>3. 针对书籍的讨论区","x":-2140,"y":-382,"width":262,"height":96,"color":"6"},
-		{"id":"b7a56071a9824ee7","type":"text","text":"![[cover-en.jpg]]","x":-2360,"y":-700,"width":250,"height":204},
-		{"id":"2fec01cedb5bd319","x":-1935,"y":-423,"width":250,"height":50,"type":"text","text":"![[cover-per 9.png]]"}
+		{"id":"b7a56071a9824ee7","type":"text","text":"![[cover-en.jpg]]","x":-2360,"y":-700,"width":250,"height":243,"color":"4"},
+		{"id":"2fec01cedb5bd319","type":"text","text":"![[cover-per 9.png]]","x":-2020,"y":-700,"width":250,"height":243,"color":"6"},
+		{"id":"5a481ea5b2e85f8b","type":"text","text":">1. 私域转转，积攒积分\n>2. 将游戏和书籍的结合\n>3. 针对书籍的讨论区","x":-2120,"y":-304,"width":262,"height":96,"color":"6"},
+		{"id":"51268f3756159fec","type":"text","text":"手机或者手表连接一个服务器，记录每个手机的轨迹数据。举办方能观察到所有人的具体位置和轨迹，防止作弊与安全保障","x":-1770,"y":-120,"width":250,"height":113,"color":"6"},
+		{"id":"5b13b6f2bb0ace1b","type":"text","text":"IDEAS","x":-1770,"y":-304,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
-		{"id":"1b6e87968e507f9d","fromNode":"5b13b6f2bb0ace1b","fromSide":"bottom","toNode":"51268f3756159fec","toSide":"top","color":"6"}
+		{"id":"1b6e87968e507f9d","fromNode":"5b13b6f2bb0ace1b","fromSide":"bottom","toNode":"51268f3756159fec","toSide":"top","color":"6"},
+		{"id":"55f19555be00f575","fromNode":"b7a56071a9824ee7","fromSide":"bottom","toNode":"5a481ea5b2e85f8b","toSide":"left"},
+		{"id":"d08c59d9c306fec9","fromNode":"2fec01cedb5bd319","fromSide":"bottom","toNode":"5a481ea5b2e85f8b","toSide":"top"}
 	]
 }

@@ -19,6 +19,7 @@ views:
         - file.folder != "Pics"
         - file.folder != "Excalidraw"
         - file.folder != "Books"
+        - file.name.contains("Claude")
     groupBy:
       property: file.folder
       direction: ASC
