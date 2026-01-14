@@ -6,46 +6,17 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Unity",
-      "color": {
-        "a": 1,
-        "rgb": 5562450
-      }
-    },
-    {
-      "query": ".png",
-      "color": {
-        "a": 1,
-        "rgb": 14680109
-      }
-    },
-    {
-      "query": "path:A-T  ",
-      "color": {
-        "a": 1,
-        "rgb": 669936
-      }
-    },
-    {
-      "query": "path:Daily  ",
-      "color": {
-        "a": 1,
-        "rgb": 10945981
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.98854166666667,
-  "lineSizeMultiplier": 5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.494791666666667,
-  "repelStrength": 9.16666666666667,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 152,
-  "scale": 0.19450022690616153,
+  "linkDistance": 250,
+  "scale": 0.05034417736651869,
   "close": true
 }

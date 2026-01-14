@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"9a9bf54412869c13","type":"text","text":"算力（AI时代的根基）","x":-700,"y":-60,"width":200,"height":60,"color":"4"},
+		{"id":"e2a7f46a24df5d03","type":"text","text":"电力","x":-360,"y":40,"width":250,"height":60,"color":"1"},
+		{"id":"d7a693ad0f43ad9c","type":"text","text":"芯片","x":-360,"y":-160,"width":250,"height":60,"color":"6"},
+		{"id":"6ea3ebe03892addb","type":"text","text":"传媒","x":40,"y":-380,"width":250,"height":60,"color":"6"},
+		{"id":"cf0e923c8d45aa56","type":"text","text":"医疗","x":40,"y":-280,"width":250,"height":60,"color":"6"},
+		{"id":"d8c86d8e93dc1a16","type":"text","text":"软件","x":40,"y":-185,"width":250,"height":50,"color":"6"},
+		{"id":"fcd841c1c195ea55","type":"text","text":"","x":-1480,"y":-740,"width":360,"height":420},
+		{"id":"85e4cc9a32f356c6","type":"file","file":"A-T/Story/SongYu.md","x":-1300,"y":300,"width":400,"height":360,"color":"4"}
+	],
+	"edges":[
+		{"id":"73f27dcbdc6872c1","fromNode":"9a9bf54412869c13","fromSide":"right","toNode":"d7a693ad0f43ad9c","toSide":"left","color":"6"},
+		{"id":"489fc81c3b4867e3","fromNode":"9a9bf54412869c13","fromSide":"right","toNode":"e2a7f46a24df5d03","toSide":"left","color":"1"},
+		{"id":"660776df692d9c7f","fromNode":"d7a693ad0f43ad9c","fromSide":"right","toNode":"6ea3ebe03892addb","toSide":"left","color":"6"},
+		{"id":"1a8f74d0e9ceadf9","fromNode":"d7a693ad0f43ad9c","fromSide":"right","toNode":"cf0e923c8d45aa56","toSide":"left","color":"6"},
+		{"id":"77b7e76446f5953e","fromNode":"d7a693ad0f43ad9c","fromSide":"right","toNode":"d8c86d8e93dc1a16","toSide":"left","color":"6"}
+	]
+}

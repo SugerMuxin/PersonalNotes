@@ -626,6 +626,53 @@
 				"height": 340
 			},
 			"selected": false
+		},
+		{
+			"type": "textInput",
+			"width": 260,
+			"height": 120,
+			"data": {
+				"value": "液冷是用在什么产业的"
+			},
+			"id": "1768363145585",
+			"origin": [
+				0,
+				0
+			],
+			"position": {
+				"x": -220,
+				"y": 1200
+			},
+			"measured": {
+				"width": 260,
+				"height": 120
+			},
+			"selected": false
+		},
+		{
+			"type": "generate",
+			"width": 460,
+			"height": 340,
+			"data": {
+				"results": [],
+				"provider": "openrouter",
+				"model": "google/gemma-3n-e2b-it:free"
+			},
+			"id": "1768363146705",
+			"origin": [
+				0,
+				0
+			],
+			"position": {
+				"x": 120,
+				"y": 1020
+			},
+			"measured": {
+				"width": 460,
+				"height": 340
+			},
+			"selected": false,
+			"dragging": false
 		}
 	],
 	"edges": [
@@ -699,6 +746,11 @@
 			"source": "1767669148343",
 			"target": "1767669151791",
 			"id": "xy-edge__1767669148343-1767669151791"
+		},
+		{
+			"source": "1768363145585",
+			"target": "1768363146705",
+			"id": "xy-edge__1768363145585-1768363146705"
 		}
 	]
 }

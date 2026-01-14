@@ -6,7 +6,7 @@
     "sepia": 0
   },
   "debugLogging": false,
-  "customDefaultPath": "F:/A-Ruosa/PersonalNotesBooks/Epub",
+  "customDefaultPath": "Books/Epub",
   "epubSettings": {
     "readingMode": "scroll",
     "fontSize": 100

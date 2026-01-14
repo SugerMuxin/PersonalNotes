@@ -5,5 +5,8 @@
   "enabledCssSnippets": [
     "awesome-brain-manager"
   ],
-  "cssTheme": ""
+  "cssTheme": "",
+  "textFontFamily": "Comic Sans MS",
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "Arial"
 }
