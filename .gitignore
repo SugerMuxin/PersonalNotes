@@ -1,4 +1,23 @@
-#忽略文件目录
-.obsidian/
+# 忽略文件目录
 Books/
-.txt
+*.txt
+
+# .obsidian 配置管理
+# 忽略工作区状态（会频繁变化且设备特定）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 可选：忽略其他设备特定的文件
+# .obsidian/hotkeys.json    # 快捷键（如果设备间不同）
+# .obsidian/graph.json      # 图视图本地设置
+
+# 同步以下配置：
+# - plugins/         插件配置
+# - icons/           图标设置
+# - community-plugins.json  社区插件列表
+# - core-plugins.json       核心插件配置
+# - appearance.json         外观/主题
+# - app.json               应用设置
+# - types.json             文件类型
+# - canvas.json            Canvas 设置
+# - snippets/              代码片段
