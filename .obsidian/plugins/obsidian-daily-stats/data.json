@@ -9,16 +9,21 @@
     "2026/0/12": 50,
     "2026/0/13": 16,
     "2026/0/14": 846,
-    "2026/0/15": 178
+    "2026/0/15": 178,
+    "2026/0/16": 51
   },
   "todaysWordCount": {
-    "A-T/Daily/2026/155plan.md": {
-      "initial": 1473,
-      "current": 1473
+    "Tutorial.md": {
+      "initial": 794,
+      "current": 794
     },
-    "A-T/Daily/2026/1/0114_九边风格.md": {
-      "initial": 1909,
-      "current": 2087
+    "Work/KS/GoodsSystem.md": {
+      "initial": 1893,
+      "current": 1893
+    },
+    "Work/WorkPlan.md": {
+      "initial": 4782,
+      "current": 4833
     }
   }
 }
