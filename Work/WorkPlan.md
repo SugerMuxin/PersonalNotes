@@ -1,4 +1,10 @@
 
+<span style="color:yellow;">2025.1.26  --- 2025.1.30</span>
+1. KingShot重构自由整理背包系统                          16
+2. 服务器调试商城和维修等                                     16
+3. KingShot内城场景功能开发                                 8
+
+
 <span style="color:yellow;">2025.1.12  --- 2025.1.16</span>
 1. KingShot策划同步测试的一些问题修复                 8
 2. KingShot重构自由整理背包系统                          16
