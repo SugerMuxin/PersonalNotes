@@ -25,3 +25,17 @@ https://blog.csdn.net/gitblog_00204/article/details/146970904
 https://horse7.cn/2023/06/28/unity-zenject%E5%85%A5%E9%97%A8/
 
 ![[2.txt]]
+
+
+
+Command
+
+移动
+移动所有
+丢弃
+丢弃所有
+
+装配件
+卸载配件
+
+野怪宝箱初始化
