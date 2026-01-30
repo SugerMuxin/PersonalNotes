@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769763330476-30gko7uib",
+  "title": "Analyze AI global development impact",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769763330476,
+  "updatedAt": 1769763469957,
+  "lastResponseAt": 1769763469957,
+  "sessionId": "8256c5b5-77aa-4bf5-9beb-c4d998eecd1b",
+  "sdkSessionId": "8256c5b5-77aa-4bf5-9beb-c4d998eecd1b",
+  "currentNote": "A-T/Examples/Modern-Blog-Style.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 4111,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28928,
+    "contextWindow": 200000,
+    "contextTokens": 33039,
+    "percentage": 17
+  }
+}

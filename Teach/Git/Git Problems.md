@@ -9,7 +9,7 @@ author: RuoSaChen
 >1.连接失败
 >使用git同步仓库中遇到的问题记录,常常会遇到无法连接到仓库的问题，这个很多情况是由于VPN的网络或者代理造成的。首先可以多试两次，这时候可能连接成功，如果不能连接成功的话使用如下的命令来取消SSL验证
 
-```
+```c
 git config --global http.sslVerify "false"
 git config --global https.sslVerify "false"
 git config http.postBuffer 524288000
@@ -20,7 +20,7 @@ git config http.postBuffer 524288000
 >如果出现下图的报错问题,这个原因则是因为仓库不支持代理服务器的原因，这时候我们需要关闭代理。方法是使用如下的命令
 ![[gitpull_err.png]]
 
-```
+```c
 git config --global --unset http.proxy 
 git config --global --unset https.proxy
 ```

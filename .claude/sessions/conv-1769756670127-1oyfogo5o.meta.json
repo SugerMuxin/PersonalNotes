@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769756670127-1oyfogo5o",
+  "title": "Create beautiful markdown tutorials in A-T/Exam...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769756670127,
+  "updatedAt": 1769757602678,
+  "lastResponseAt": 1769757602678,
+  "sessionId": "094ccfec-6039-45a9-8adc-28892db55bda",
+  "sdkSessionId": "094ccfec-6039-45a9-8adc-28892db55bda",
+  "currentNote": "Utest.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 360,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 36096,
+    "contextWindow": 200000,
+    "contextTokens": 36456,
+    "percentage": 18
+  }
+}

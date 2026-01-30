@@ -14,20 +14,46 @@
     "2026/0/22": 37,
     "2026/0/23": 85,
     "2026/0/26": 27,
-    "2026/0/28": 2121
+    "2026/0/28": 2121,
+    "2026/0/29": 3585,
+    "2026/0/30": 84
   },
   "todaysWordCount": {
-    "芯片.md": {
-      "initial": 29,
-      "current": 29
-    },
     "xiaxie.md": {
-      "initial": 4925,
-      "current": 7044
+      "initial": 10629,
+      "current": 10647
     },
-    "dataview.md": {
-      "initial": 17,
-      "current": 19
+    "Work/Tools/TeamCity.md": {
+      "initial": 27,
+      "current": 27
+    },
+    "A-T/Examples/Minimal-Note-Taking.md": {
+      "initial": 134,
+      "current": 133
+    },
+    "Untitled.md": {
+      "initial": 104,
+      "current": 105
+    },
+    "A-T/Examples/Technical-Tutorial-Example.md": {
+      "initial": 759,
+      "current": 775
+    },
+    "Teach/C#/代码优化.md": {
+      "initial": 740,
+      "current": 740
+    },
+    "Teach/Git/git 仓库拉取和提交的办法.md": {
+      "initial": 542,
+      "current": 543
+    },
+    "Teach/Git/Git Problems.md": {
+      "initial": 434,
+      "current": 435
+    },
+    "Work/WorkPlan.md": {
+      "initial": 4881,
+      "current": 4928
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1769755068619-zne2icfr5",
+  "title": "Create gold news markdown file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769755068620,
+  "updatedAt": 1769755958685,
+  "lastResponseAt": 1769755141272,
+  "sessionId": "dc865606-af09-49c3-a1a8-f6756e7c76b6",
+  "sdkSessionId": "dc865606-af09-49c3-a1a8-f6756e7c76b6",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 45,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40940,
+    "contextWindow": 200000,
+    "contextTokens": 40985,
+    "percentage": 20
+  }
+}

@@ -14,5 +14,6 @@
   "heatmap-tracker",
   "heatmap-calendar",
   "dataview",
-  "excel"
+  "excel",
+  "claudian"
 ]

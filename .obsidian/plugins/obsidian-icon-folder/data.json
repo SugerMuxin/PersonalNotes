@@ -64,8 +64,6 @@
   "Teach/C#/Attribute的使用记录.md": "SiMdbook",
   "Teach/C#/VSCODE.md": "SiMdbook",
   "Teach/Git": "IbFolder",
-  "Teach/Git/git 仓库拉取和提交的办法.md": "LoMy1",
-  "Teach/Git/Git Problems.md": "LoMy1",
   "Teach/Git/Git use records.md": "LoMy1",
   "Teach/Unity": "IbFolder",
   "Teach/Unity/Optimize": "IbFolder",
@@ -117,7 +115,6 @@
   "Books": "IbFolder",
   "GPU/ManRun.md": "SiMdbook",
   "Work/Tools": "IbFolder",
-  "Work/Tools/TeamCity.md": "RiFile3Line",
   "Work/Unity坑记录": "IbFolder",
   "Work/心得": "IbFolder",
   "Work/心得/关于游戏设计的一些想法.md": "SiMdbook",
@@ -225,7 +222,6 @@
   "A-T/中国铜矿生产企业分析报告.md": "IbReceipt",
   "A-T/中美科技企业比较分析.md": "IbReceipt",
   "MDBase.base": "🦀",
-  "Teach/C#/代码优化.md": "LoMy1",
   "Work/KS/KS任务.canvas": "SiCanva",
   "A-T/慢炖/生孩子的意义是什么.md": "SiMdbook",
   "Work/KS/待修改问题.md": "LoMy1",
@@ -279,7 +275,7 @@
   "A-T/Story/Structure.canvas": "SiCanva",
   "A-T/Story/SongYu.md": "RiFileLine",
   "Books/Epub/故事": "IbFolder",
-  "A-T/Story/S26-01-13.canvas": "SiCanva",
   "A-T/Articles/九边/特朗普的疯，就是帝国的痛.md": "RiFilePdfFill",
-  "Tutorial.md": "🐢"
+  "Tutorial.md": "🐢",
+  "A-T/Story/松指.canvas": "SiCanva"
 }

@@ -1,0 +1,19 @@
+{
+  "id": "conv-1769755484882-j59xtckse",
+  "title": "Reformat markdown document with improved layout",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769755484882,
+  "updatedAt": 1769755975668,
+  "lastResponseAt": 1769755653529,
+  "sessionId": "9cac51c6-82ef-4c1a-9b0c-4d28374d44b6",
+  "sdkSessionId": "9cac51c6-82ef-4c1a-9b0c-4d28374d44b6",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 61,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 51328,
+    "contextWindow": 200000,
+    "contextTokens": 51389,
+    "percentage": 26
+  }
+}

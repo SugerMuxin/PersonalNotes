@@ -35,14 +35,15 @@ git clone https://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@github.com/SugerMuxin
 总之呢，这两种报错都是因为你连不上github服务器，这有可能是网络真的连不上造成的，因为服务器在国外嘛。这时候可以开梯子试试。也可以打开github网页，先确认下自己能否登录成功等来辅助验证。
 
 也有可能是开了系统代理的缘故，这时候可以使用如下的命令进行一次尝试
-```
+```c
+
 git config --global http.proxy http://127.0.0.1:7890
 git config --global https.proxy http://127.0.0.1:7890
 
 ```
 
 如果不行也可以关闭代理再试试，总之到了这一步就只能解决网络上的问题了，配置上已经没有问题了
-```
+```c
 git config --global --unset https.proxy
 git config --global --unset http.proxy
 ```

@@ -1,5 +1,11 @@
 
 <span style="color:yellow;">2025.1.26  --- 2025.1.30</span>
+1. KingShot场景任务功能开发                           16
+2. 商店功能和耐久度调试                                    12
+3. KingShot道具功能测试问题修改                   12
+
+
+<span style="color:yellow;">2025.1.26  --- 2025.1.30</span>
 1. KingShot重构自由整理背包系统                          16
 2. 服务器调试商城和维修等                                     16
 3. KingShot内城场景功能开发                                 8
